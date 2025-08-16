@@ -1,0 +1,1001 @@
+City,AreaType,Size,TotalSqft,Price(Lakhs),Bath,Balcony,Availability,ReadyToMove,FurnishingStatus,TransactionType,Facing,Parking,ListedDate,EstimatedRent(INR),RentalYield(%)
+Hyderabad,Built-up Area,4 BHK,1468,54.84,1,1,Jun 2025,No,Unfurnished,Resale,North,No,2023-12-21,16452.0,3.6
+Kolkata,Super built-up Area,3 BHK,828,68.07,1,1,Jun 2025,No,Semi-Furnished,Resale,North,Yes,2025-01-10,20421.0,3.6
+Pune,Plot Area,2 BHK,2312,175.73,1,3,Sep 2024,No,Semi-Furnished,Resale,South,No,2024-11-13,52719.0,3.6
+Hyderabad,Plot Area,1 RK,1783,126.94,4,2,Ready to Move,Yes,Unfurnished,New Property,South,No,2024-10-18,38082.0,3.6
+Kolkata,Super built-up Area,2 BHK,2497,118.55,3,1,Sep 2024,No,Unfurnished,New Property,North,Yes,2025-04-19,35565.0,3.6
+Hyderabad,Built-up Area,3 BHK,2278,147.39,4,0,Dec 2024,No,Unfurnished,New Property,North,No,2025-04-29,44217.0,3.6
+Bengaluru,Built-up Area,2 BHK,2188,91.38,2,1,Sep 2024,No,Semi-Furnished,New Property,South,Yes,2024-08-02,27414.0,3.6
+Delhi,Carpet Area,1 RK,2014,176.04,4,3,Jun 2025,No,Fully Furnished,New Property,East,No,2025-03-11,52812.0,3.6
+Pune,Built-up Area,4 BHK,1739,177.99,4,3,Sep 2024,No,Unfurnished,Resale,South,Yes,2024-12-05,53397.0,3.6
+Bengaluru,Built-up Area,3 BHK,1883,113.9,1,3,Ready to Move,Yes,Fully Furnished,New Property,West,No,2025-01-09,34170.0,3.6
+Mumbai,Built-up Area,3 BHK,2183,91.61,4,1,Jun 2025,No,Unfurnished,Resale,North,No,2023-08-29,27483.0,3.6
+Ahmedabad,Super built-up Area,3 BHK,2127,103.08,4,0,Jun 2025,No,Unfurnished,Resale,East,No,2025-07-08,30924.0,3.6
+Bengaluru,Plot Area,2 BHK,2753,201.03,4,0,Jun 2025,No,Fully Furnished,Resale,South,Yes,2024-09-13,60309.0,3.6
+Kolkata,Plot Area,2 RK,2997,130.96,4,2,Jun 2025,No,Fully Furnished,Resale,North,Yes,2025-01-18,39288.0,3.6
+Kolkata,Carpet Area,2 RK,727,33.64,3,2,Dec 2024,No,Fully Furnished,Resale,South,Yes,2024-04-01,10092.0,3.6
+Hyderabad,Super built-up Area,1 BHK,2405,167.19,1,2,Mar 2025,No,Semi-Furnished,Resale,North,Yes,2024-01-12,50157.0,3.6
+Hyderabad,Built-up Area,3 BHK,1861,123.35,4,2,Mar 2025,No,Fully Furnished,New Property,East,No,2025-06-13,37005.0,3.6
+Kolkata,Built-up Area,2 BHK,744,55.89,2,1,Jun 2025,No,Semi-Furnished,Resale,North,No,2023-08-15,16767.0,3.6
+Chennai,Carpet Area,1 BHK,713,42.42,1,1,Sep 2024,No,Fully Furnished,New Property,South,Yes,2024-08-09,12726.0,3.6
+Hyderabad,Carpet Area,4 BHK,491,23.96,3,0,Jun 2025,No,Unfurnished,New Property,North,No,2023-10-29,7188.0,3.6
+Chennai,Super built-up Area,3 BHK,2748,193.65,4,2,Dec 2024,No,Semi-Furnished,New Property,South,Yes,2023-08-26,58095.0,3.6
+Hyderabad,Plot Area,1 BHK,2067,104.46,4,1,Mar 2025,No,Semi-Furnished,Resale,North,Yes,2024-12-06,31338.0,3.6
+Chennai,Super built-up Area,2 RK,1729,89.18,3,3,Sep 2024,No,Semi-Furnished,Resale,South,No,2023-12-27,26754.0,3.6
+Mumbai,Plot Area,3 BHK,1709,104.21,4,1,Jun 2025,No,Fully Furnished,Resale,West,Yes,2023-08-31,31263.0,3.6
+Kolkata,Plot Area,4 BHK,532,44.98,1,3,Sep 2024,No,Semi-Furnished,New Property,West,No,2024-09-12,13494.0,3.6
+Hyderabad,Plot Area,4 BHK,2314,86.12,2,2,Sep 2024,No,Semi-Furnished,Resale,East,No,2023-12-29,25836.0,3.6
+Ahmedabad,Built-up Area,4 BHK,2601,116.73,1,0,Jun 2025,No,Unfurnished,New Property,East,No,2025-01-19,35019.0,3.6
+Bengaluru,Carpet Area,1 RK,2073,127.29,2,3,Sep 2024,No,Semi-Furnished,Resale,North,Yes,2023-09-09,38187.0,3.6
+Pune,Carpet Area,2 BHK,2054,148.12,4,2,Jun 2025,No,Unfurnished,New Property,South,No,2025-07-17,44436.0,3.6
+Pune,Carpet Area,2 RK,1105,95.31,1,3,Sep 2024,No,Fully Furnished,Resale,South,No,2025-01-08,28593.0,3.6
+Mumbai,Built-up Area,2 BHK,2897,236.09,1,3,Ready to Move,Yes,Semi-Furnished,New Property,West,No,2023-08-20,70827.0,3.6
+Delhi,Plot Area,1 BHK,2863,289.92,4,1,Dec 2024,No,Semi-Furnished,Resale,West,Yes,2024-03-24,86976.0,3.6
+Chennai,Plot Area,2 BHK,1600,63.78,1,1,Sep 2024,No,Semi-Furnished,Resale,West,No,2024-11-15,19134.0,3.6
+Bengaluru,Carpet Area,1 RK,855,81.46,3,1,Dec 2024,No,Semi-Furnished,New Property,East,Yes,2023-08-22,24438.0,3.6
+Kolkata,Carpet Area,4 BHK,688,64.49,3,0,Sep 2024,No,Fully Furnished,New Property,South,No,2025-05-20,19347.0,3.6
+Hyderabad,Carpet Area,2 RK,563,35.05,4,3,Ready to Move,Yes,Unfurnished,New Property,North,Yes,2025-01-28,10515.0,3.6
+Pune,Carpet Area,2 RK,1791,81.75,2,3,Dec 2024,No,Semi-Furnished,New Property,North,Yes,2024-04-07,24525.0,3.6
+Ahmedabad,Built-up Area,3 BHK,1802,102.98,4,2,Jun 2025,No,Fully Furnished,Resale,North,Yes,2025-02-27,30894.0,3.6
+Bengaluru,Plot Area,1 BHK,1305,131.82,3,2,Mar 2025,No,Fully Furnished,New Property,North,No,2023-07-21,39546.0,3.6
+Ahmedabad,Plot Area,2 BHK,926,42.59,3,3,Mar 2025,No,Fully Furnished,New Property,East,Yes,2023-12-01,12777.0,3.6
+Hyderabad,Built-up Area,1 RK,449,24.45,4,3,Sep 2024,No,Unfurnished,Resale,West,No,2024-02-01,7335.0,3.6
+Pune,Carpet Area,4 BHK,1092,109.54,4,1,Jun 2025,No,Semi-Furnished,New Property,East,No,2024-12-02,32862.0,3.6
+Hyderabad,Built-up Area,2 BHK,1014,56.66,1,1,Mar 2025,No,Semi-Furnished,Resale,East,Yes,2024-12-25,16998.0,3.6
+Pune,Super built-up Area,4 BHK,2965,125.75,3,0,Mar 2025,No,Fully Furnished,New Property,East,No,2023-12-18,37725.0,3.6
+Chennai,Built-up Area,3 BHK,1148,99.56,2,1,Jun 2025,No,Unfurnished,New Property,North,No,2025-04-18,29868.0,3.6
+Chennai,Super built-up Area,2 BHK,2540,146.58,2,1,Dec 2024,No,Fully Furnished,Resale,South,Yes,2024-01-18,43974.0,3.6
+Mumbai,Plot Area,2 RK,699,34.76,1,3,Ready to Move,Yes,Semi-Furnished,New Property,East,Yes,2023-11-16,10428.0,3.6
+Ahmedabad,Plot Area,1 RK,439,34.52,1,3,Dec 2024,No,Fully Furnished,Resale,East,No,2024-05-30,10356.0,3.6
+Hyderabad,Carpet Area,2 RK,1123,66.98,4,2,Mar 2025,No,Semi-Furnished,New Property,North,No,2023-08-26,20094.0,3.6
+Hyderabad,Carpet Area,1 BHK,1146,82.02,3,3,Jun 2025,No,Unfurnished,New Property,East,No,2023-08-31,24606.0,3.6
+Hyderabad,Super built-up Area,4 BHK,1802,149.28,2,1,Ready to Move,Yes,Unfurnished,New Property,North,No,2024-08-27,44784.0,3.6
+Ahmedabad,Super built-up Area,2 RK,1629,170.34,2,1,Mar 2025,No,Unfurnished,New Property,South,Yes,2025-02-09,51102.0,3.6
+Bengaluru,Plot Area,1 RK,2340,196.59,4,2,Dec 2024,No,Semi-Furnished,Resale,North,No,2025-02-22,58977.0,3.6
+Hyderabad,Plot Area,2 RK,1849,179.71,3,3,Mar 2025,No,Semi-Furnished,Resale,South,Yes,2024-06-02,53913.0,3.6
+Mumbai,Carpet Area,3 BHK,973,105.2,3,0,Dec 2024,No,Unfurnished,Resale,North,No,2025-06-26,31560.0,3.6
+Pune,Carpet Area,4 BHK,1734,133.27,2,1,Sep 2024,No,Fully Furnished,Resale,North,Yes,2025-05-05,39981.0,3.6
+Chennai,Built-up Area,3 BHK,2364,249.67,4,0,Jun 2025,No,Fully Furnished,Resale,West,No,2023-11-07,74901.0,3.6
+Kolkata,Super built-up Area,1 BHK,629,52.19,3,2,Jun 2025,No,Semi-Furnished,New Property,South,Yes,2025-05-06,15657.0,3.6
+Pune,Carpet Area,2 BHK,1016,80.5,2,0,Jun 2025,No,Unfurnished,Resale,North,No,2023-08-14,24150.0,3.6
+Mumbai,Built-up Area,1 BHK,1685,179.94,3,3,Dec 2024,No,Unfurnished,Resale,South,Yes,2024-04-05,53982.0,3.6
+Pune,Plot Area,2 BHK,1460,79.06,1,1,Ready to Move,Yes,Fully Furnished,Resale,South,No,2024-03-09,23718.0,3.6
+Mumbai,Super built-up Area,1 RK,1929,69.86,4,0,Sep 2024,No,Semi-Furnished,Resale,North,No,2023-10-10,20958.0,3.6
+Delhi,Super built-up Area,1 RK,777,83.97,1,1,Sep 2024,No,Unfurnished,Resale,West,Yes,2023-08-20,25191.0,3.6
+Kolkata,Plot Area,4 BHK,2248,228.63,2,2,Ready to Move,Yes,Unfurnished,Resale,South,No,2025-06-29,68589.0,3.6
+Kolkata,Plot Area,1 BHK,2954,286.88,1,0,Dec 2024,No,Semi-Furnished,Resale,West,No,2024-12-04,86064.0,3.6
+Pune,Carpet Area,2 RK,1220,113.15,3,1,Dec 2024,No,Unfurnished,New Property,North,Yes,2025-04-08,33945.0,3.6
+Mumbai,Super built-up Area,2 BHK,2612,159.69,1,2,Mar 2025,No,Unfurnished,New Property,West,No,2025-02-03,47907.0,3.6
+Kolkata,Plot Area,2 BHK,1289,119.78,1,1,Jun 2025,No,Unfurnished,Resale,East,No,2024-12-19,35934.0,3.6
+Kolkata,Super built-up Area,4 BHK,2196,142.6,2,3,Sep 2024,No,Unfurnished,New Property,West,Yes,2025-02-04,42780.0,3.6
+Chennai,Super built-up Area,4 BHK,2877,178.03,3,3,Dec 2024,No,Unfurnished,New Property,North,No,2024-11-01,53409.0,3.6
+Delhi,Carpet Area,1 BHK,429,27.24,4,3,Ready to Move,Yes,Semi-Furnished,Resale,North,Yes,2024-05-02,8172.0,3.6
+Hyderabad,Built-up Area,2 RK,745,62.42,4,3,Ready to Move,Yes,Semi-Furnished,Resale,East,Yes,2024-11-08,18726.0,3.6
+Bengaluru,Super built-up Area,2 BHK,2524,117.83,4,0,Ready to Move,Yes,Fully Furnished,New Property,North,No,2023-10-27,35349.0,3.6
+Kolkata,Built-up Area,4 BHK,1106,53.2,2,1,Mar 2025,No,Unfurnished,New Property,East,No,2024-12-24,15960.0,3.6
+Hyderabad,Carpet Area,2 RK,1928,198.92,3,2,Ready to Move,Yes,Unfurnished,Resale,East,No,2025-06-15,59676.0,3.6
+Bengaluru,Carpet Area,1 BHK,2609,165.09,2,1,Ready to Move,Yes,Unfurnished,Resale,West,Yes,2024-05-17,49527.0,3.6
+Delhi,Super built-up Area,4 BHK,2302,250.35,4,1,Sep 2024,No,Fully Furnished,New Property,North,No,2024-03-27,75105.0,3.6
+Hyderabad,Built-up Area,3 BHK,2611,162.98,1,3,Jun 2025,No,Fully Furnished,New Property,West,Yes,2024-02-09,48894.0,3.6
+Bengaluru,Built-up Area,2 BHK,736,66.78,4,2,Sep 2024,No,Unfurnished,New Property,West,No,2025-01-12,20034.0,3.6
+Hyderabad,Plot Area,2 RK,2292,195.11,3,1,Mar 2025,No,Semi-Furnished,Resale,West,Yes,2024-06-21,58533.0,3.6
+Mumbai,Built-up Area,2 BHK,458,20.94,1,1,Dec 2024,No,Semi-Furnished,Resale,East,No,2024-03-12,6282.0,3.6
+Pune,Built-up Area,2 RK,2764,180.83,2,3,Sep 2024,No,Semi-Furnished,Resale,East,No,2023-09-18,54249.0,3.6
+Pune,Plot Area,2 BHK,1445,87.53,4,3,Ready to Move,Yes,Fully Furnished,Resale,North,Yes,2024-07-11,26259.0,3.6
+Kolkata,Super built-up Area,1 RK,917,38.6,4,0,Ready to Move,Yes,Fully Furnished,Resale,West,No,2024-09-09,11580.0,3.6
+Ahmedabad,Carpet Area,1 RK,739,79.42,2,3,Sep 2024,No,Unfurnished,New Property,West,Yes,2024-12-29,23826.0,3.6
+Pune,Built-up Area,1 RK,2573,191.38,3,1,Sep 2024,No,Unfurnished,Resale,West,Yes,2023-08-24,57414.0,3.6
+Bengaluru,Built-up Area,2 RK,1022,77.22,4,1,Mar 2025,No,Unfurnished,Resale,North,No,2024-02-02,23166.0,3.6
+Kolkata,Carpet Area,4 BHK,1718,77.67,3,0,Ready to Move,Yes,Semi-Furnished,Resale,West,Yes,2025-05-21,23301.0,3.6
+Kolkata,Built-up Area,2 BHK,2369,229.04,2,3,Dec 2024,No,Fully Furnished,Resale,South,Yes,2024-11-08,68712.0,3.6
+Pune,Super built-up Area,2 BHK,1531,69.71,4,0,Sep 2024,No,Fully Furnished,New Property,West,No,2025-02-25,20913.0,3.6
+Hyderabad,Plot Area,1 BHK,880,65.16,1,3,Dec 2024,No,Fully Furnished,Resale,North,Yes,2024-01-13,19548.0,3.6
+Ahmedabad,Built-up Area,1 BHK,1798,180.96,1,3,Mar 2025,No,Unfurnished,Resale,South,Yes,2023-07-25,54288.0,3.6
+Ahmedabad,Plot Area,2 BHK,2541,108.57,3,1,Jun 2025,No,Fully Furnished,Resale,South,Yes,2023-10-06,32571.0,3.6
+Delhi,Plot Area,2 RK,1529,157.27,3,3,Mar 2025,No,Semi-Furnished,New Property,East,Yes,2023-07-21,47181.0,3.6
+Ahmedabad,Built-up Area,1 RK,2427,125.24,4,2,Ready to Move,Yes,Fully Furnished,Resale,South,No,2025-06-07,37572.0,3.6
+Delhi,Super built-up Area,1 RK,788,34.52,2,2,Sep 2024,No,Fully Furnished,Resale,South,Yes,2024-07-30,10356.0,3.6
+Ahmedabad,Carpet Area,1 RK,2541,96.04,4,3,Ready to Move,Yes,Unfurnished,New Property,East,No,2025-04-10,28812.0,3.6
+Hyderabad,Carpet Area,1 BHK,2270,224.07,3,2,Mar 2025,No,Semi-Furnished,New Property,North,No,2025-06-02,67221.0,3.6
+Pune,Carpet Area,2 RK,3000,164.21,2,1,Sep 2024,No,Fully Furnished,Resale,South,No,2025-01-25,49263.0,3.6
+Ahmedabad,Super built-up Area,3 BHK,1840,149.46,2,2,Mar 2025,No,Unfurnished,New Property,South,No,2023-10-23,44838.0,3.6
+Ahmedabad,Built-up Area,4 BHK,1228,67.36,4,2,Mar 2025,No,Semi-Furnished,Resale,West,Yes,2024-08-24,20208.0,3.6
+Mumbai,Super built-up Area,2 BHK,2783,162.22,3,1,Jun 2025,No,Fully Furnished,New Property,West,Yes,2025-04-19,48666.0,3.6
+Kolkata,Plot Area,2 BHK,1793,134.41,4,1,Jun 2025,No,Unfurnished,Resale,East,No,2024-12-02,40323.0,3.6
+Ahmedabad,Super built-up Area,2 BHK,2644,123.28,3,0,Jun 2025,No,Unfurnished,New Property,West,Yes,2024-04-26,36984.0,3.6
+Chennai,Built-up Area,1 BHK,1615,86.04,1,3,Jun 2025,No,Semi-Furnished,New Property,South,Yes,2024-02-05,25812.0,3.6
+Kolkata,Carpet Area,2 RK,1471,129.46,3,2,Jun 2025,No,Semi-Furnished,Resale,West,No,2024-01-14,38838.0,3.6
+Pune,Super built-up Area,2 RK,950,56.17,2,1,Ready to Move,Yes,Fully Furnished,Resale,North,Yes,2023-11-10,16851.0,3.6
+Chennai,Plot Area,2 RK,2669,257.77,2,3,Mar 2025,No,Fully Furnished,New Property,South,No,2024-02-27,77331.0,3.6
+Kolkata,Super built-up Area,2 BHK,490,37.73,1,2,Jun 2025,No,Fully Furnished,New Property,East,No,2025-05-15,11319.0,3.6
+Hyderabad,Plot Area,2 RK,512,45.32,4,3,Dec 2024,No,Semi-Furnished,New Property,South,No,2024-01-16,13596.0,3.6
+Hyderabad,Plot Area,2 BHK,2734,259.41,4,1,Sep 2024,No,Fully Furnished,Resale,East,Yes,2023-07-22,77823.0,3.6
+Pune,Super built-up Area,1 BHK,2914,115.9,4,1,Dec 2024,No,Unfurnished,New Property,West,Yes,2023-09-25,34770.0,3.6
+Ahmedabad,Super built-up Area,3 BHK,764,32.14,4,3,Jun 2025,No,Semi-Furnished,Resale,West,No,2025-01-14,9642.0,3.6
+Delhi,Plot Area,3 BHK,1126,99.14,3,3,Ready to Move,Yes,Unfurnished,Resale,South,Yes,2024-11-30,29742.0,3.6
+Pune,Super built-up Area,3 BHK,2250,205.62,3,0,Sep 2024,No,Unfurnished,New Property,North,Yes,2025-01-29,61686.0,3.6
+Mumbai,Super built-up Area,1 BHK,1738,110.98,1,2,Ready to Move,Yes,Unfurnished,New Property,South,Yes,2024-01-19,33294.0,3.6
+Chennai,Plot Area,1 BHK,1033,82.62,2,3,Dec 2024,No,Fully Furnished,New Property,South,Yes,2023-10-22,24786.0,3.6
+Mumbai,Super built-up Area,3 BHK,1593,68.63,2,1,Ready to Move,Yes,Semi-Furnished,New Property,West,No,2024-04-11,20589.0,3.6
+Kolkata,Carpet Area,1 BHK,2671,106.6,2,2,Dec 2024,No,Unfurnished,Resale,West,No,2025-06-08,31980.0,3.6
+Pune,Super built-up Area,4 BHK,2821,119.63,1,2,Sep 2024,No,Fully Furnished,Resale,West,No,2024-08-26,35889.0,3.6
+Bengaluru,Carpet Area,2 BHK,1599,169.2,4,3,Jun 2025,No,Semi-Furnished,New Property,South,Yes,2024-03-04,50760.0,3.6
+Delhi,Plot Area,1 RK,2382,192.29,3,3,Mar 2025,No,Fully Furnished,New Property,East,Yes,2025-04-20,57687.0,3.6
+Hyderabad,Built-up Area,2 RK,1684,152.31,1,0,Mar 2025,No,Semi-Furnished,New Property,North,Yes,2023-08-20,45693.0,3.6
+Kolkata,Built-up Area,1 RK,1918,165.11,1,1,Ready to Move,Yes,Semi-Furnished,New Property,West,No,2025-05-07,49533.0,3.6
+Chennai,Carpet Area,2 BHK,2739,227.42,1,0,Jun 2025,No,Unfurnished,New Property,North,Yes,2024-11-16,68226.0,3.6
+Pune,Built-up Area,4 BHK,1335,83.95,4,0,Dec 2024,No,Unfurnished,New Property,North,No,2023-08-24,25185.0,3.6
+Hyderabad,Built-up Area,2 RK,1516,99.59,1,3,Jun 2025,No,Semi-Furnished,Resale,West,No,2024-11-03,29877.0,3.6
+Mumbai,Carpet Area,1 BHK,2239,100.01,2,0,Ready to Move,Yes,Unfurnished,New Property,South,Yes,2025-01-14,30003.0,3.6
+Pune,Built-up Area,2 RK,1450,154.64,4,2,Sep 2024,No,Semi-Furnished,Resale,North,Yes,2025-03-20,46392.0,3.6
+Kolkata,Built-up Area,1 BHK,2672,263.15,2,1,Sep 2024,No,Unfurnished,Resale,South,Yes,2025-03-28,78945.0,3.6
+Chennai,Super built-up Area,4 BHK,1155,47.67,1,1,Jun 2025,No,Fully Furnished,Resale,South,Yes,2024-04-24,14301.0,3.6
+Mumbai,Built-up Area,2 BHK,1702,65.16,1,1,Mar 2025,No,Semi-Furnished,New Property,North,No,2024-12-27,19548.0,3.6
+Mumbai,Carpet Area,4 BHK,1027,108.87,1,1,Dec 2024,No,Fully Furnished,New Property,North,No,2025-06-25,32661.0,3.6
+Ahmedabad,Super built-up Area,2 BHK,2864,213.77,2,1,Sep 2024,No,Semi-Furnished,New Property,East,Yes,2024-05-27,64131.0,3.6
+Mumbai,Built-up Area,2 RK,1717,107.79,2,0,Dec 2024,No,Unfurnished,Resale,East,Yes,2024-06-19,32337.0,3.6
+Delhi,Built-up Area,2 RK,544,42.04,1,0,Jun 2025,No,Fully Furnished,Resale,North,No,2024-04-16,12612.0,3.6
+Chennai,Carpet Area,1 RK,1424,86.7,4,3,Dec 2024,No,Semi-Furnished,Resale,West,Yes,2024-09-30,26010.0,3.6
+Bengaluru,Carpet Area,3 BHK,1056,66.11,1,3,Mar 2025,No,Unfurnished,New Property,South,No,2023-07-24,19833.0,3.6
+Chennai,Carpet Area,2 BHK,2966,182.32,4,3,Jun 2025,No,Semi-Furnished,Resale,South,No,2024-04-02,54696.0,3.6
+Pune,Plot Area,3 BHK,2033,91.45,2,1,Dec 2024,No,Fully Furnished,New Property,West,No,2024-04-02,27435.0,3.6
+Kolkata,Plot Area,2 RK,1657,84.53,2,3,Ready to Move,Yes,Fully Furnished,Resale,North,No,2025-05-29,25359.0,3.6
+Chennai,Built-up Area,3 BHK,2659,270.54,4,3,Dec 2024,No,Semi-Furnished,New Property,West,No,2023-12-17,81162.0,3.6
+Bengaluru,Plot Area,2 RK,2707,250.92,4,1,Dec 2024,No,Semi-Furnished,Resale,South,Yes,2025-03-09,75276.0,3.6
+Ahmedabad,Plot Area,1 RK,2908,217.5,1,0,Ready to Move,Yes,Unfurnished,New Property,East,Yes,2024-08-15,65250.0,3.6
+Delhi,Plot Area,3 BHK,1231,111.74,2,2,Ready to Move,Yes,Semi-Furnished,Resale,South,No,2024-08-08,33522.0,3.6
+Bengaluru,Plot Area,3 BHK,815,77.57,2,1,Dec 2024,No,Semi-Furnished,New Property,South,Yes,2023-12-23,23271.0,3.6
+Ahmedabad,Plot Area,2 RK,1421,153.77,2,3,Ready to Move,Yes,Unfurnished,New Property,South,No,2024-06-27,46131.0,3.6
+Ahmedabad,Built-up Area,1 BHK,2800,242.51,3,3,Sep 2024,No,Fully Furnished,New Property,South,Yes,2024-03-04,72753.0,3.6
+Pune,Plot Area,1 BHK,1915,76.92,2,2,Jun 2025,No,Unfurnished,New Property,West,No,2024-09-24,23076.0,3.6
+Delhi,Plot Area,1 RK,2426,87.81,4,1,Mar 2025,No,Semi-Furnished,New Property,North,Yes,2024-03-06,26343.0,3.6
+Pune,Built-up Area,1 BHK,1378,120.63,3,3,Jun 2025,No,Semi-Furnished,New Property,North,No,2023-09-14,36189.0,3.6
+Delhi,Plot Area,1 RK,528,23.65,1,0,Mar 2025,No,Semi-Furnished,New Property,South,No,2024-06-18,7095.0,3.6
+Mumbai,Plot Area,2 RK,1936,116.49,4,3,Mar 2025,No,Unfurnished,Resale,North,Yes,2024-03-07,34947.0,3.6
+Hyderabad,Plot Area,1 BHK,2242,232.96,1,2,Sep 2024,No,Unfurnished,New Property,West,Yes,2024-11-14,69888.0,3.6
+Delhi,Built-up Area,3 BHK,666,31.0,2,0,Ready to Move,Yes,Unfurnished,New Property,North,Yes,2025-02-11,9300.0,3.6
+Ahmedabad,Plot Area,2 RK,833,67.43,1,1,Dec 2024,No,Fully Furnished,New Property,West,Yes,2025-04-18,20229.0,3.6
+Mumbai,Carpet Area,2 RK,1354,68.74,1,3,Mar 2025,No,Fully Furnished,New Property,South,Yes,2023-07-26,20622.0,3.6
+Ahmedabad,Built-up Area,4 BHK,1579,141.9,1,3,Dec 2024,No,Fully Furnished,New Property,East,Yes,2024-12-30,42570.0,3.6
+Hyderabad,Built-up Area,1 RK,2756,297.52,1,0,Dec 2024,No,Unfurnished,Resale,West,Yes,2024-06-11,89256.0,3.6
+Hyderabad,Carpet Area,1 RK,1569,80.6,3,2,Dec 2024,No,Fully Furnished,New Property,North,No,2025-02-05,24180.0,3.6
+Delhi,Super built-up Area,1 BHK,2423,147.36,1,3,Ready to Move,Yes,Fully Furnished,Resale,East,Yes,2024-08-28,44208.0,3.6
+Pune,Super built-up Area,1 RK,1474,131.98,3,3,Mar 2025,No,Fully Furnished,Resale,North,No,2024-09-16,39594.0,3.6
+Ahmedabad,Plot Area,1 RK,1179,61.44,2,0,Mar 2025,No,Semi-Furnished,Resale,South,No,2024-06-03,18432.0,3.6
+Ahmedabad,Carpet Area,4 BHK,1025,46.8,4,3,Ready to Move,Yes,Unfurnished,Resale,South,Yes,2024-06-06,14040.0,3.6
+Pune,Super built-up Area,4 BHK,1107,51.28,2,1,Ready to Move,Yes,Unfurnished,Resale,South,Yes,2024-10-16,15384.0,3.6
+Pune,Built-up Area,1 BHK,2437,156.99,3,2,Dec 2024,No,Unfurnished,Resale,South,No,2024-05-01,47097.0,3.6
+Bengaluru,Carpet Area,2 RK,644,39.61,1,0,Mar 2025,No,Fully Furnished,Resale,North,Yes,2024-11-22,11883.0,3.6
+Ahmedabad,Built-up Area,4 BHK,2409,86.66,3,1,Mar 2025,No,Fully Furnished,Resale,South,Yes,2023-11-15,25998.0,3.6
+Bengaluru,Plot Area,3 BHK,1929,184.29,2,2,Sep 2024,No,Semi-Furnished,New Property,East,No,2024-07-07,55287.0,3.6
+Kolkata,Built-up Area,2 BHK,1736,150.37,3,3,Mar 2025,No,Fully Furnished,Resale,North,Yes,2025-03-12,45111.0,3.6
+Pune,Built-up Area,2 RK,2828,228.23,2,3,Sep 2024,No,Semi-Furnished,New Property,North,Yes,2024-06-22,68469.0,3.6
+Bengaluru,Plot Area,1 BHK,2567,184.36,3,0,Jun 2025,No,Semi-Furnished,New Property,North,Yes,2024-07-13,55308.0,3.6
+Mumbai,Carpet Area,2 BHK,1314,108.38,3,2,Sep 2024,No,Semi-Furnished,New Property,North,No,2024-03-11,32514.0,3.6
+Pune,Built-up Area,2 RK,1170,124.99,1,2,Ready to Move,Yes,Fully Furnished,New Property,North,Yes,2024-06-30,37497.0,3.6
+Kolkata,Super built-up Area,3 BHK,1469,73.92,3,0,Ready to Move,Yes,Fully Furnished,Resale,East,No,2024-03-31,22176.0,3.6
+Bengaluru,Carpet Area,2 RK,1964,150.53,4,2,Ready to Move,Yes,Semi-Furnished,Resale,North,Yes,2023-07-28,45159.0,3.6
+Ahmedabad,Plot Area,2 BHK,2802,125.08,1,0,Ready to Move,Yes,Semi-Furnished,Resale,North,Yes,2024-09-01,37524.0,3.6
+Kolkata,Super built-up Area,2 RK,2178,181.81,4,1,Mar 2025,No,Fully Furnished,New Property,North,No,2023-12-19,54543.0,3.6
+Mumbai,Super built-up Area,2 RK,940,67.92,1,1,Dec 2024,No,Unfurnished,New Property,West,Yes,2024-07-17,20376.0,3.6
+Pune,Plot Area,1 BHK,2090,127.01,1,3,Jun 2025,No,Fully Furnished,New Property,South,No,2023-08-09,38103.0,3.6
+Bengaluru,Super built-up Area,2 BHK,2237,104.98,3,1,Dec 2024,No,Unfurnished,New Property,East,Yes,2024-03-17,31494.0,3.6
+Mumbai,Super built-up Area,2 BHK,1352,143.65,2,2,Mar 2025,No,Semi-Furnished,Resale,East,No,2024-03-03,43095.0,3.6
+Mumbai,Carpet Area,1 RK,678,25.77,1,1,Dec 2024,No,Fully Furnished,Resale,East,No,2023-08-02,7731.0,3.6
+Delhi,Plot Area,1 RK,1072,69.45,2,0,Sep 2024,No,Semi-Furnished,Resale,North,No,2025-02-07,20835.0,3.6
+Chennai,Plot Area,3 BHK,1201,71.49,3,3,Ready to Move,Yes,Fully Furnished,Resale,South,Yes,2024-04-20,21447.0,3.6
+Kolkata,Built-up Area,2 BHK,861,32.83,1,1,Dec 2024,No,Fully Furnished,Resale,West,No,2024-07-16,9849.0,3.6
+Ahmedabad,Super built-up Area,2 RK,2964,154.83,3,1,Sep 2024,No,Unfurnished,Resale,East,Yes,2025-01-16,46449.0,3.6
+Pune,Built-up Area,4 BHK,1991,177.19,4,3,Sep 2024,No,Unfurnished,Resale,South,No,2023-09-06,53157.0,3.6
+Chennai,Super built-up Area,1 RK,839,85.02,1,0,Ready to Move,Yes,Semi-Furnished,New Property,North,No,2024-06-25,25506.0,3.6
+Bengaluru,Super built-up Area,1 BHK,1907,97.54,2,3,Mar 2025,No,Unfurnished,Resale,South,Yes,2024-09-19,29262.0,3.6
+Mumbai,Super built-up Area,3 BHK,980,53.61,2,0,Ready to Move,Yes,Semi-Furnished,New Property,East,Yes,2025-04-23,16083.0,3.6
+Chennai,Carpet Area,1 RK,2683,148.87,1,3,Ready to Move,Yes,Fully Furnished,New Property,West,Yes,2024-06-08,44661.0,3.6
+Kolkata,Super built-up Area,1 BHK,2437,164.34,4,3,Dec 2024,No,Unfurnished,New Property,East,No,2023-07-25,49302.0,3.6
+Hyderabad,Carpet Area,2 BHK,1494,55.03,3,1,Dec 2024,No,Fully Furnished,Resale,East,Yes,2023-12-22,16509.0,3.6
+Kolkata,Carpet Area,2 BHK,593,33.5,1,2,Jun 2025,No,Semi-Furnished,New Property,North,No,2024-01-03,10050.0,3.6
+Bengaluru,Plot Area,2 RK,1820,119.26,4,2,Jun 2025,No,Semi-Furnished,Resale,West,No,2023-08-29,35778.0,3.6
+Kolkata,Plot Area,4 BHK,754,60.44,2,2,Mar 2025,No,Fully Furnished,Resale,South,Yes,2025-06-07,18132.0,3.6
+Pune,Built-up Area,1 RK,1799,135.85,2,1,Dec 2024,No,Fully Furnished,Resale,East,No,2025-03-28,40755.0,3.6
+Mumbai,Super built-up Area,1 RK,416,22.51,2,1,Mar 2025,No,Semi-Furnished,New Property,North,No,2024-01-06,6753.0,3.6
+Kolkata,Carpet Area,2 BHK,2763,169.47,4,0,Dec 2024,No,Fully Furnished,Resale,West,Yes,2025-07-20,50841.0,3.6
+Delhi,Carpet Area,2 BHK,695,60.55,3,1,Jun 2025,No,Semi-Furnished,New Property,East,Yes,2025-06-26,18165.0,3.6
+Mumbai,Super built-up Area,3 BHK,895,45.23,1,0,Mar 2025,No,Semi-Furnished,New Property,South,No,2023-09-12,13569.0,3.6
+Kolkata,Super built-up Area,2 RK,2847,163.75,4,2,Dec 2024,No,Semi-Furnished,Resale,South,Yes,2023-08-25,49125.0,3.6
+Ahmedabad,Super built-up Area,4 BHK,1709,104.87,3,3,Jun 2025,No,Fully Furnished,New Property,South,No,2023-08-19,31461.0,3.6
+Ahmedabad,Super built-up Area,4 BHK,558,59.82,1,3,Mar 2025,No,Fully Furnished,New Property,East,Yes,2023-10-13,17946.0,3.6
+Delhi,Carpet Area,4 BHK,1781,94.58,4,0,Mar 2025,No,Semi-Furnished,Resale,West,No,2025-04-14,28374.0,3.6
+Mumbai,Built-up Area,1 RK,515,54.16,4,0,Sep 2024,No,Unfurnished,Resale,North,No,2024-01-19,16248.0,3.6
+Mumbai,Plot Area,1 RK,881,76.97,4,1,Jun 2025,No,Semi-Furnished,New Property,East,No,2023-11-13,23091.0,3.6
+Pune,Carpet Area,1 BHK,1034,111.3,1,1,Jun 2025,No,Semi-Furnished,New Property,East,No,2023-09-20,33390.0,3.6
+Bengaluru,Carpet Area,1 BHK,1638,79.77,3,3,Dec 2024,No,Fully Furnished,Resale,East,Yes,2025-02-02,23931.0,3.6
+Bengaluru,Built-up Area,2 RK,2878,222.2,4,3,Mar 2025,No,Fully Furnished,Resale,East,No,2023-10-09,66660.0,3.6
+Delhi,Carpet Area,4 BHK,537,30.03,4,0,Ready to Move,Yes,Unfurnished,Resale,North,No,2024-06-05,9009.0,3.6
+Chennai,Built-up Area,1 BHK,498,23.48,2,1,Jun 2025,No,Fully Furnished,Resale,North,No,2025-05-13,7044.0,3.6
+Bengaluru,Carpet Area,1 BHK,2692,102.25,2,1,Mar 2025,No,Unfurnished,Resale,East,No,2025-05-20,30675.0,3.6
+Mumbai,Super built-up Area,1 RK,1489,117.51,1,2,Dec 2024,No,Semi-Furnished,New Property,South,Yes,2025-01-08,35253.0,3.6
+Ahmedabad,Carpet Area,4 BHK,1277,54.18,4,0,Dec 2024,No,Fully Furnished,New Property,West,Yes,2024-03-18,16254.0,3.6
+Delhi,Built-up Area,2 BHK,2967,271.5,3,1,Mar 2025,No,Semi-Furnished,New Property,South,Yes,2024-08-26,81450.0,3.6
+Kolkata,Super built-up Area,2 BHK,1930,124.11,2,1,Jun 2025,No,Fully Furnished,Resale,West,Yes,2023-11-15,37233.0,3.6
+Hyderabad,Carpet Area,1 BHK,2172,173.73,4,0,Sep 2024,No,Unfurnished,New Property,East,No,2024-10-09,52119.0,3.6
+Kolkata,Plot Area,4 BHK,1798,103.86,3,2,Jun 2025,No,Fully Furnished,Resale,South,Yes,2024-03-27,31158.0,3.6
+Pune,Super built-up Area,2 RK,2405,260.08,1,2,Mar 2025,No,Semi-Furnished,Resale,West,No,2024-08-23,78024.0,3.6
+Chennai,Built-up Area,3 BHK,1654,81.69,3,3,Mar 2025,No,Semi-Furnished,Resale,West,Yes,2023-08-16,24507.0,3.6
+Hyderabad,Built-up Area,2 RK,1880,166.28,3,1,Jun 2025,No,Fully Furnished,New Property,East,No,2023-10-06,49884.0,3.6
+Chennai,Built-up Area,1 RK,2994,291.25,2,3,Mar 2025,No,Unfurnished,Resale,South,No,2023-12-17,87375.0,3.6
+Ahmedabad,Plot Area,2 BHK,1443,116.09,3,0,Jun 2025,No,Fully Furnished,Resale,East,Yes,2025-01-08,34827.0,3.6
+Hyderabad,Carpet Area,4 BHK,2655,209.13,3,3,Dec 2024,No,Semi-Furnished,New Property,South,No,2023-11-19,62739.0,3.6
+Delhi,Carpet Area,4 BHK,1984,116.04,2,1,Ready to Move,Yes,Semi-Furnished,New Property,East,Yes,2024-10-09,34812.0,3.6
+Delhi,Plot Area,2 BHK,792,82.71,4,1,Ready to Move,Yes,Fully Furnished,New Property,East,Yes,2024-08-09,24813.0,3.6
+Hyderabad,Plot Area,4 BHK,1385,72.42,3,2,Dec 2024,No,Unfurnished,New Property,North,Yes,2025-01-26,21726.0,3.6
+Kolkata,Built-up Area,1 RK,2924,106.16,2,0,Sep 2024,No,Fully Furnished,Resale,South,Yes,2025-04-14,31848.0,3.6
+Chennai,Carpet Area,2 BHK,1391,96.62,2,1,Dec 2024,No,Semi-Furnished,New Property,East,Yes,2023-09-02,28986.0,3.6
+Hyderabad,Carpet Area,1 RK,2856,281.94,4,1,Dec 2024,No,Unfurnished,New Property,South,No,2024-04-23,84582.0,3.6
+Bengaluru,Carpet Area,1 RK,1957,71.87,3,1,Jun 2025,No,Semi-Furnished,Resale,North,Yes,2024-02-25,21561.0,3.6
+Kolkata,Carpet Area,1 RK,1241,78.15,1,3,Dec 2024,No,Semi-Furnished,New Property,West,No,2024-07-24,23445.0,3.6
+Kolkata,Plot Area,2 BHK,1590,162.79,4,3,Ready to Move,Yes,Fully Furnished,New Property,East,No,2023-07-21,48837.0,3.6
+Mumbai,Carpet Area,1 RK,1813,112.34,1,3,Jun 2025,No,Fully Furnished,Resale,South,Yes,2024-04-29,33702.0,3.6
+Hyderabad,Plot Area,2 BHK,1502,93.87,3,3,Dec 2024,No,Unfurnished,New Property,West,Yes,2024-06-25,28161.0,3.6
+Pune,Super built-up Area,2 BHK,768,67.61,2,0,Sep 2024,No,Fully Furnished,New Property,North,Yes,2024-01-30,20283.0,3.6
+Hyderabad,Carpet Area,2 BHK,1600,73.0,4,2,Dec 2024,No,Unfurnished,Resale,North,Yes,2024-02-03,21900.0,3.6
+Delhi,Built-up Area,1 BHK,2943,114.52,2,2,Sep 2024,No,Semi-Furnished,Resale,West,Yes,2025-07-03,34356.0,3.6
+Chennai,Super built-up Area,1 BHK,815,44.97,2,0,Jun 2025,No,Fully Furnished,Resale,West,Yes,2024-01-21,13491.0,3.6
+Bengaluru,Built-up Area,1 BHK,1733,171.84,3,0,Sep 2024,No,Fully Furnished,New Property,South,Yes,2025-01-30,51552.0,3.6
+Mumbai,Carpet Area,2 BHK,941,50.01,3,2,Jun 2025,No,Unfurnished,Resale,West,Yes,2023-07-21,15003.0,3.6
+Chennai,Built-up Area,2 RK,2882,263.96,1,3,Dec 2024,No,Unfurnished,Resale,South,No,2023-08-27,79188.0,3.6
+Kolkata,Carpet Area,1 RK,2311,247.64,3,3,Mar 2025,No,Fully Furnished,Resale,West,No,2025-03-13,74292.0,3.6
+Mumbai,Built-up Area,1 BHK,2856,313.03,3,0,Sep 2024,No,Semi-Furnished,Resale,South,No,2024-07-03,93909.0,3.6
+Mumbai,Plot Area,4 BHK,1213,110.71,2,3,Dec 2024,No,Semi-Furnished,New Property,North,No,2024-11-12,33213.0,3.6
+Bengaluru,Super built-up Area,2 BHK,2198,118.62,4,3,Jun 2025,No,Semi-Furnished,New Property,South,Yes,2024-05-21,35586.0,3.6
+Mumbai,Built-up Area,2 BHK,814,46.53,1,2,Jun 2025,No,Semi-Furnished,Resale,East,No,2024-07-22,13959.0,3.6
+Ahmedabad,Super built-up Area,4 BHK,677,41.59,2,2,Sep 2024,No,Unfurnished,New Property,East,Yes,2023-07-23,12477.0,3.6
+Hyderabad,Super built-up Area,1 BHK,2486,127.79,3,0,Jun 2025,No,Semi-Furnished,Resale,South,No,2023-10-23,38337.0,3.6
+Pune,Plot Area,3 BHK,608,57.82,1,3,Jun 2025,No,Semi-Furnished,New Property,East,Yes,2024-06-29,17346.0,3.6
+Pune,Carpet Area,2 RK,1494,68.42,2,0,Sep 2024,No,Semi-Furnished,Resale,South,Yes,2025-06-08,20526.0,3.6
+Mumbai,Plot Area,1 BHK,944,46.81,2,3,Dec 2024,No,Semi-Furnished,Resale,West,Yes,2025-05-14,14043.0,3.6
+Bengaluru,Super built-up Area,3 BHK,2376,223.41,2,3,Dec 2024,No,Fully Furnished,Resale,East,Yes,2023-09-04,67023.0,3.6
+Ahmedabad,Plot Area,1 RK,1924,190.08,3,2,Mar 2025,No,Fully Furnished,New Property,North,Yes,2024-12-01,57024.0,3.6
+Mumbai,Carpet Area,4 BHK,1514,90.25,3,3,Jun 2025,No,Unfurnished,Resale,North,Yes,2025-02-19,27075.0,3.6
+Chennai,Built-up Area,2 BHK,2301,236.75,1,2,Jun 2025,No,Fully Furnished,Resale,South,No,2024-09-17,71025.0,3.6
+Delhi,Built-up Area,2 BHK,2952,209.85,1,2,Ready to Move,Yes,Semi-Furnished,Resale,South,Yes,2024-05-22,62955.0,3.6
+Ahmedabad,Super built-up Area,3 BHK,1917,84.09,2,3,Jun 2025,No,Semi-Furnished,New Property,South,No,2024-11-22,25227.0,3.6
+Hyderabad,Built-up Area,1 RK,1075,64.72,3,3,Ready to Move,Yes,Unfurnished,New Property,East,Yes,2025-02-17,19416.0,3.6
+Kolkata,Carpet Area,1 BHK,1022,111.79,1,3,Dec 2024,No,Unfurnished,New Property,North,No,2023-08-25,33537.0,3.6
+Pune,Super built-up Area,1 BHK,1076,109.72,3,0,Ready to Move,Yes,Fully Furnished,New Property,East,Yes,2025-01-05,32916.0,3.6
+Bengaluru,Carpet Area,4 BHK,840,46.24,3,0,Sep 2024,No,Semi-Furnished,New Property,East,No,2023-11-08,13872.0,3.6
+Hyderabad,Built-up Area,2 RK,2508,105.86,2,2,Ready to Move,Yes,Semi-Furnished,Resale,West,No,2024-04-13,31758.0,3.6
+Pune,Plot Area,3 BHK,2042,135.48,2,2,Mar 2025,No,Unfurnished,New Property,South,Yes,2023-07-31,40644.0,3.6
+Bengaluru,Super built-up Area,1 BHK,640,50.61,1,1,Ready to Move,Yes,Semi-Furnished,New Property,West,Yes,2024-10-04,15183.0,3.6
+Pune,Plot Area,1 RK,1379,122.59,4,3,Ready to Move,Yes,Fully Furnished,Resale,West,No,2023-09-18,36777.0,3.6
+Mumbai,Plot Area,2 BHK,2000,98.72,1,0,Ready to Move,Yes,Semi-Furnished,Resale,West,No,2024-04-02,29616.0,3.6
+Kolkata,Plot Area,4 BHK,944,90.8,4,2,Sep 2024,No,Fully Furnished,New Property,East,Yes,2024-11-06,27240.0,3.6
+Kolkata,Super built-up Area,4 BHK,1770,81.62,2,1,Sep 2024,No,Fully Furnished,Resale,North,Yes,2025-01-17,24486.0,3.6
+Kolkata,Super built-up Area,1 BHK,2986,185.29,3,2,Mar 2025,No,Unfurnished,New Property,South,Yes,2024-12-16,55587.0,3.6
+Bengaluru,Plot Area,2 RK,2468,136.99,4,1,Jun 2025,No,Fully Furnished,New Property,South,No,2024-01-16,41097.0,3.6
+Ahmedabad,Super built-up Area,3 BHK,1762,64.04,1,3,Jun 2025,No,Semi-Furnished,New Property,North,Yes,2024-04-16,19212.0,3.6
+Hyderabad,Plot Area,2 RK,558,53.71,3,3,Mar 2025,No,Unfurnished,New Property,East,Yes,2024-04-16,16113.0,3.6
+Chennai,Carpet Area,1 BHK,2161,83.38,1,2,Sep 2024,No,Fully Furnished,Resale,East,No,2023-11-14,25014.0,3.6
+Mumbai,Carpet Area,1 RK,1274,95.62,3,0,Dec 2024,No,Semi-Furnished,Resale,West,Yes,2025-07-06,28686.0,3.6
+Kolkata,Super built-up Area,3 BHK,1405,148.92,1,0,Dec 2024,No,Fully Furnished,Resale,West,No,2023-09-02,44676.0,3.6
+Hyderabad,Carpet Area,2 BHK,2146,107.96,2,2,Ready to Move,Yes,Semi-Furnished,Resale,East,Yes,2025-02-11,32388.0,3.6
+Delhi,Super built-up Area,2 BHK,670,62.58,3,1,Ready to Move,Yes,Semi-Furnished,Resale,East,No,2024-02-13,18774.0,3.6
+Delhi,Carpet Area,2 RK,2916,162.92,1,2,Ready to Move,Yes,Semi-Furnished,New Property,South,Yes,2024-01-09,48876.0,3.6
+Hyderabad,Super built-up Area,1 RK,753,82.39,2,1,Mar 2025,No,Unfurnished,New Property,South,No,2025-06-20,24717.0,3.6
+Pune,Carpet Area,4 BHK,824,78.73,4,1,Dec 2024,No,Unfurnished,Resale,East,Yes,2023-09-17,23619.0,3.6
+Ahmedabad,Carpet Area,4 BHK,1719,143.0,2,0,Ready to Move,Yes,Semi-Furnished,New Property,East,No,2025-07-03,42900.0,3.6
+Pune,Plot Area,4 BHK,430,46.32,4,0,Dec 2024,No,Unfurnished,New Property,West,No,2024-03-01,13896.0,3.6
+Pune,Super built-up Area,1 RK,533,50.08,3,1,Mar 2025,No,Fully Furnished,Resale,North,Yes,2025-04-02,15024.0,3.6
+Mumbai,Plot Area,2 RK,960,83.71,4,1,Mar 2025,No,Semi-Furnished,Resale,East,No,2025-05-05,25113.0,3.6
+Ahmedabad,Plot Area,2 RK,1628,106.66,1,2,Mar 2025,No,Unfurnished,New Property,West,Yes,2024-07-14,31998.0,3.6
+Delhi,Super built-up Area,3 BHK,1767,104.03,1,1,Sep 2024,No,Unfurnished,New Property,West,Yes,2024-10-10,31209.0,3.6
+Hyderabad,Super built-up Area,2 RK,2648,278.41,3,2,Ready to Move,Yes,Semi-Furnished,New Property,North,No,2025-04-16,83523.0,3.6
+Pune,Plot Area,2 RK,613,27.75,1,0,Ready to Move,Yes,Semi-Furnished,New Property,South,No,2024-05-31,8325.0,3.6
+Delhi,Plot Area,2 BHK,2820,297.44,2,0,Mar 2025,No,Unfurnished,New Property,East,Yes,2024-03-26,89232.0,3.6
+Chennai,Built-up Area,2 BHK,2487,131.55,4,0,Sep 2024,No,Semi-Furnished,New Property,South,Yes,2025-05-21,39465.0,3.6
+Kolkata,Built-up Area,1 RK,1991,98.43,3,2,Dec 2024,No,Semi-Furnished,Resale,North,No,2024-11-07,29529.0,3.6
+Delhi,Carpet Area,3 BHK,2879,208.23,1,3,Sep 2024,No,Unfurnished,Resale,West,Yes,2023-10-03,62469.0,3.6
+Delhi,Built-up Area,2 BHK,564,29.51,2,0,Ready to Move,Yes,Fully Furnished,Resale,West,Yes,2024-10-10,8853.0,3.6
+Delhi,Super built-up Area,2 RK,1260,111.88,1,3,Ready to Move,Yes,Semi-Furnished,New Property,South,Yes,2025-02-20,33564.0,3.6
+Delhi,Plot Area,3 BHK,2083,132.07,3,3,Dec 2024,No,Fully Furnished,New Property,West,No,2024-07-24,39621.0,3.6
+Chennai,Built-up Area,4 BHK,2402,255.06,4,0,Mar 2025,No,Unfurnished,Resale,South,Yes,2025-05-19,76518.0,3.6
+Mumbai,Carpet Area,1 RK,1584,79.66,1,2,Dec 2024,No,Semi-Furnished,Resale,West,No,2025-07-06,23898.0,3.6
+Ahmedabad,Super built-up Area,1 RK,2261,138.12,2,3,Dec 2024,No,Fully Furnished,Resale,South,No,2024-10-17,41436.0,3.6
+Bengaluru,Carpet Area,2 BHK,2194,225.68,1,1,Jun 2025,No,Semi-Furnished,New Property,West,Yes,2024-10-19,67704.0,3.6
+Pune,Plot Area,2 RK,804,44.53,3,3,Ready to Move,Yes,Unfurnished,New Property,West,No,2024-11-04,13359.0,3.6
+Chennai,Built-up Area,2 RK,2435,263.73,1,1,Ready to Move,Yes,Semi-Furnished,Resale,North,Yes,2024-03-15,79119.0,3.6
+Chennai,Built-up Area,1 BHK,1654,147.32,4,2,Mar 2025,No,Fully Furnished,New Property,South,No,2025-04-13,44196.0,3.6
+Kolkata,Carpet Area,1 RK,1203,122.43,3,0,Mar 2025,No,Semi-Furnished,Resale,West,No,2024-03-03,36729.0,3.6
+Chennai,Carpet Area,1 RK,467,40.5,1,1,Dec 2024,No,Semi-Furnished,New Property,West,No,2024-05-24,12150.0,3.6
+Delhi,Super built-up Area,2 RK,2646,180.18,2,1,Dec 2024,No,Unfurnished,Resale,East,Yes,2024-10-31,54054.0,3.6
+Mumbai,Carpet Area,1 BHK,1548,128.83,4,1,Ready to Move,Yes,Semi-Furnished,New Property,East,Yes,2024-11-06,38649.0,3.6
+Chennai,Super built-up Area,4 BHK,1534,115.94,1,3,Dec 2024,No,Semi-Furnished,Resale,East,Yes,2024-02-21,34782.0,3.6
+Chennai,Plot Area,1 BHK,2149,187.45,3,3,Sep 2024,No,Fully Furnished,New Property,East,Yes,2023-10-17,56235.0,3.6
+Mumbai,Plot Area,2 BHK,1104,106.73,2,0,Dec 2024,No,Unfurnished,New Property,West,Yes,2024-09-21,32019.0,3.6
+Ahmedabad,Super built-up Area,2 RK,2241,116.36,2,0,Ready to Move,Yes,Fully Furnished,New Property,North,No,2023-08-17,34908.0,3.6
+Kolkata,Built-up Area,2 RK,659,64.27,2,3,Jun 2025,No,Unfurnished,New Property,North,Yes,2024-01-22,19281.0,3.6
+Bengaluru,Carpet Area,1 BHK,747,68.97,2,0,Dec 2024,No,Semi-Furnished,New Property,South,Yes,2023-08-04,20691.0,3.6
+Bengaluru,Plot Area,2 RK,2530,223.98,3,3,Dec 2024,No,Fully Furnished,New Property,South,No,2025-01-25,67194.0,3.6
+Ahmedabad,Plot Area,3 BHK,1465,117.89,1,1,Jun 2025,No,Semi-Furnished,Resale,South,Yes,2023-12-03,35367.0,3.6
+Delhi,Built-up Area,1 BHK,1341,121.06,1,3,Jun 2025,No,Fully Furnished,New Property,East,Yes,2024-01-16,36318.0,3.6
+Chennai,Built-up Area,2 BHK,607,44.39,1,1,Sep 2024,No,Fully Furnished,New Property,North,Yes,2024-10-28,13317.0,3.6
+Hyderabad,Plot Area,1 RK,957,92.93,1,3,Jun 2025,No,Unfurnished,New Property,West,Yes,2024-02-06,27879.0,3.6
+Bengaluru,Carpet Area,1 BHK,2129,189.63,1,2,Jun 2025,No,Unfurnished,Resale,North,Yes,2025-06-17,56889.0,3.6
+Mumbai,Super built-up Area,2 RK,499,49.76,1,0,Mar 2025,No,Unfurnished,New Property,East,Yes,2024-03-15,14928.0,3.6
+Delhi,Carpet Area,1 RK,1921,75.48,1,1,Mar 2025,No,Semi-Furnished,Resale,East,No,2024-09-24,22644.0,3.6
+Hyderabad,Built-up Area,1 BHK,2635,252.85,4,2,Jun 2025,No,Fully Furnished,New Property,West,Yes,2024-09-28,75855.0,3.6
+Mumbai,Plot Area,4 BHK,2320,88.23,4,3,Ready to Move,Yes,Unfurnished,New Property,East,No,2024-11-11,26469.0,3.6
+Kolkata,Plot Area,2 RK,1798,74.89,3,1,Jun 2025,No,Semi-Furnished,New Property,West,No,2025-02-18,22467.0,3.6
+Hyderabad,Built-up Area,3 BHK,1913,161.84,3,2,Dec 2024,No,Fully Furnished,Resale,East,Yes,2023-10-19,48552.0,3.6
+Ahmedabad,Super built-up Area,4 BHK,1251,66.34,4,2,Ready to Move,Yes,Fully Furnished,New Property,West,Yes,2025-05-19,19902.0,3.6
+Hyderabad,Super built-up Area,1 BHK,2004,108.14,1,0,Mar 2025,No,Fully Furnished,Resale,West,No,2024-02-26,32442.0,3.6
+Chennai,Built-up Area,4 BHK,1168,87.16,1,3,Mar 2025,No,Unfurnished,New Property,East,Yes,2023-08-07,26148.0,3.6
+Kolkata,Plot Area,2 RK,1099,81.47,3,3,Mar 2025,No,Unfurnished,New Property,West,No,2025-03-09,24441.0,3.6
+Pune,Carpet Area,2 BHK,826,48.09,3,0,Jun 2025,No,Unfurnished,Resale,North,No,2025-02-10,14427.0,3.6
+Pune,Plot Area,3 BHK,573,28.07,2,2,Mar 2025,No,Fully Furnished,New Property,North,Yes,2025-06-27,8421.0,3.6
+Delhi,Carpet Area,4 BHK,1660,109.29,3,2,Sep 2024,No,Fully Furnished,New Property,West,Yes,2024-07-08,32787.0,3.6
+Chennai,Built-up Area,3 BHK,1758,157.19,2,3,Sep 2024,No,Fully Furnished,New Property,North,Yes,2024-09-27,47157.0,3.6
+Mumbai,Plot Area,2 BHK,1238,128.43,2,2,Dec 2024,No,Fully Furnished,Resale,North,Yes,2024-06-11,38529.0,3.6
+Chennai,Built-up Area,1 BHK,768,32.33,4,3,Ready to Move,Yes,Fully Furnished,New Property,West,Yes,2023-11-21,9699.0,3.6
+Delhi,Built-up Area,4 BHK,1287,58.05,3,1,Ready to Move,Yes,Semi-Furnished,New Property,East,Yes,2023-11-02,17415.0,3.6
+Ahmedabad,Plot Area,4 BHK,790,55.01,4,0,Ready to Move,Yes,Unfurnished,New Property,East,Yes,2023-11-28,16503.0,3.6
+Delhi,Plot Area,4 BHK,858,65.41,1,1,Jun 2025,No,Semi-Furnished,Resale,South,No,2024-10-03,19623.0,3.6
+Delhi,Carpet Area,1 BHK,2943,253.12,4,2,Sep 2024,No,Semi-Furnished,New Property,East,Yes,2024-09-05,75936.0,3.6
+Delhi,Super built-up Area,1 RK,2755,155.69,3,1,Dec 2024,No,Semi-Furnished,Resale,North,Yes,2023-11-28,46707.0,3.6
+Bengaluru,Carpet Area,2 BHK,1098,105.54,2,1,Sep 2024,No,Fully Furnished,New Property,East,Yes,2024-04-14,31662.0,3.6
+Hyderabad,Plot Area,3 BHK,2113,86.12,3,0,Mar 2025,No,Unfurnished,Resale,East,No,2023-10-14,25836.0,3.6
+Mumbai,Plot Area,2 BHK,2416,254.09,4,3,Ready to Move,Yes,Fully Furnished,New Property,East,Yes,2024-05-10,76227.0,3.6
+Mumbai,Super built-up Area,2 BHK,626,46.34,2,2,Jun 2025,No,Semi-Furnished,New Property,East,No,2025-02-13,13902.0,3.6
+Ahmedabad,Super built-up Area,3 BHK,1271,54.01,2,1,Mar 2025,No,Semi-Furnished,Resale,East,No,2024-02-15,16203.0,3.6
+Bengaluru,Carpet Area,1 RK,845,60.34,4,3,Sep 2024,No,Fully Furnished,New Property,West,No,2024-09-26,18102.0,3.6
+Mumbai,Super built-up Area,2 BHK,1645,168.16,1,3,Dec 2024,No,Semi-Furnished,Resale,West,No,2023-09-06,50448.0,3.6
+Bengaluru,Carpet Area,1 BHK,1268,66.61,3,0,Ready to Move,Yes,Unfurnished,Resale,South,Yes,2023-11-08,19983.0,3.6
+Mumbai,Plot Area,1 RK,2779,244.74,3,2,Sep 2024,No,Unfurnished,New Property,South,No,2023-12-02,73422.0,3.6
+Bengaluru,Carpet Area,1 RK,2746,224.58,4,3,Mar 2025,No,Fully Furnished,Resale,East,No,2025-02-22,67374.0,3.6
+Pune,Carpet Area,2 RK,2729,146.32,3,0,Mar 2025,No,Unfurnished,Resale,West,Yes,2025-01-07,43896.0,3.6
+Delhi,Built-up Area,2 BHK,1605,150.13,4,3,Sep 2024,No,Fully Furnished,New Property,South,Yes,2023-12-27,45039.0,3.6
+Ahmedabad,Built-up Area,4 BHK,882,61.11,4,0,Jun 2025,No,Unfurnished,New Property,North,Yes,2024-02-04,18333.0,3.6
+Chennai,Plot Area,2 RK,2867,295.56,2,1,Sep 2024,No,Unfurnished,Resale,East,No,2024-05-29,88668.0,3.6
+Delhi,Built-up Area,2 RK,2719,219.56,3,0,Sep 2024,No,Unfurnished,Resale,North,Yes,2024-05-02,65868.0,3.6
+Hyderabad,Super built-up Area,1 RK,1966,153.29,3,3,Ready to Move,Yes,Unfurnished,New Property,South,No,2025-04-11,45987.0,3.6
+Bengaluru,Built-up Area,1 RK,1684,131.12,1,2,Dec 2024,No,Semi-Furnished,Resale,West,Yes,2023-11-27,39336.0,3.6
+Hyderabad,Plot Area,2 RK,566,56.09,2,3,Dec 2024,No,Unfurnished,New Property,South,No,2024-06-17,16827.0,3.6
+Delhi,Super built-up Area,1 BHK,1985,144.49,1,0,Dec 2024,No,Fully Furnished,Resale,East,Yes,2025-05-14,43347.0,3.6
+Kolkata,Super built-up Area,1 RK,1543,63.28,1,2,Ready to Move,Yes,Semi-Furnished,Resale,West,Yes,2023-12-02,18984.0,3.6
+Ahmedabad,Carpet Area,2 RK,988,38.31,3,1,Mar 2025,No,Semi-Furnished,New Property,South,No,2024-04-23,11493.0,3.6
+Hyderabad,Carpet Area,2 BHK,638,56.51,4,1,Jun 2025,No,Semi-Furnished,New Property,West,No,2025-07-01,16953.0,3.6
+Delhi,Carpet Area,2 RK,2961,287.07,4,0,Dec 2024,No,Fully Furnished,New Property,North,Yes,2024-06-09,86121.0,3.6
+Hyderabad,Super built-up Area,2 BHK,1212,60.84,2,0,Dec 2024,No,Semi-Furnished,Resale,West,Yes,2024-08-01,18252.0,3.6
+Kolkata,Super built-up Area,4 BHK,2631,275.04,4,0,Dec 2024,No,Unfurnished,New Property,East,Yes,2025-07-20,82512.0,3.6
+Kolkata,Super built-up Area,2 BHK,2128,112.46,3,1,Jun 2025,No,Semi-Furnished,Resale,South,Yes,2025-01-07,33738.0,3.6
+Chennai,Carpet Area,1 BHK,2633,150.75,3,0,Dec 2024,No,Fully Furnished,Resale,East,Yes,2024-06-10,45225.0,3.6
+Hyderabad,Super built-up Area,1 BHK,2166,120.55,1,1,Jun 2025,No,Unfurnished,Resale,East,No,2024-03-26,36165.0,3.6
+Delhi,Built-up Area,4 BHK,2446,208.02,2,1,Ready to Move,Yes,Unfurnished,New Property,East,No,2023-11-25,62406.0,3.6
+Bengaluru,Super built-up Area,2 RK,1192,65.06,4,1,Sep 2024,No,Fully Furnished,Resale,South,No,2024-11-23,19518.0,3.6
+Kolkata,Built-up Area,1 RK,1395,140.54,2,2,Jun 2025,No,Unfurnished,Resale,West,No,2025-06-27,42162.0,3.6
+Ahmedabad,Carpet Area,4 BHK,887,61.22,1,3,Jun 2025,No,Unfurnished,Resale,West,Yes,2024-07-12,18366.0,3.6
+Mumbai,Carpet Area,1 RK,988,40.83,2,1,Dec 2024,No,Fully Furnished,Resale,North,Yes,2025-04-23,12249.0,3.6
+Kolkata,Plot Area,1 BHK,1772,133.66,4,0,Mar 2025,No,Semi-Furnished,New Property,East,Yes,2025-05-07,40098.0,3.6
+Bengaluru,Plot Area,1 RK,2029,218.46,1,2,Dec 2024,No,Semi-Furnished,Resale,East,Yes,2025-03-13,65538.0,3.6
+Mumbai,Plot Area,1 BHK,2878,250.05,2,3,Sep 2024,No,Fully Furnished,Resale,North,Yes,2024-09-18,75015.0,3.6
+Pune,Super built-up Area,2 RK,744,41.86,4,3,Ready to Move,Yes,Fully Furnished,Resale,East,No,2025-01-18,12558.0,3.6
+Chennai,Carpet Area,4 BHK,1999,141.57,2,0,Sep 2024,No,Semi-Furnished,Resale,South,Yes,2023-10-31,42471.0,3.6
+Delhi,Carpet Area,4 BHK,2900,217.25,4,1,Sep 2024,No,Fully Furnished,Resale,South,Yes,2025-03-10,65175.0,3.6
+Pune,Built-up Area,4 BHK,556,52.43,3,0,Jun 2025,No,Fully Furnished,New Property,West,No,2025-05-28,15729.0,3.6
+Hyderabad,Super built-up Area,2 RK,1876,171.97,4,3,Sep 2024,No,Semi-Furnished,Resale,East,Yes,2023-08-31,51591.0,3.6
+Delhi,Built-up Area,3 BHK,2619,126.22,3,2,Mar 2025,No,Semi-Furnished,New Property,South,No,2023-11-21,37866.0,3.6
+Kolkata,Built-up Area,2 BHK,1845,178.94,3,1,Dec 2024,No,Fully Furnished,New Property,North,No,2024-12-05,53682.0,3.6
+Chennai,Super built-up Area,3 BHK,2058,97.41,1,2,Dec 2024,No,Fully Furnished,Resale,South,Yes,2024-08-03,29223.0,3.6
+Kolkata,Built-up Area,1 RK,1103,72.0,2,1,Mar 2025,No,Fully Furnished,Resale,East,Yes,2024-02-20,21600.0,3.6
+Delhi,Carpet Area,3 BHK,1898,70.08,4,2,Jun 2025,No,Fully Furnished,Resale,East,No,2024-03-08,21024.0,3.6
+Hyderabad,Plot Area,2 BHK,431,21.36,1,0,Ready to Move,Yes,Semi-Furnished,Resale,West,Yes,2024-12-29,6408.0,3.6
+Pune,Built-up Area,3 BHK,554,22.96,3,1,Jun 2025,No,Semi-Furnished,New Property,North,No,2024-04-12,6888.0,3.6
+Delhi,Plot Area,3 BHK,1228,52.86,2,2,Sep 2024,No,Unfurnished,Resale,South,Yes,2024-11-19,15858.0,3.6
+Kolkata,Carpet Area,3 BHK,587,21.25,3,1,Ready to Move,Yes,Semi-Furnished,New Property,East,No,2025-01-20,6375.0,3.6
+Ahmedabad,Carpet Area,1 RK,2567,272.35,1,3,Sep 2024,No,Unfurnished,New Property,South,Yes,2024-10-15,81705.0,3.6
+Pune,Built-up Area,2 BHK,2506,186.72,3,3,Dec 2024,No,Unfurnished,Resale,South,No,2025-05-22,56016.0,3.6
+Pune,Carpet Area,4 BHK,2607,177.71,3,1,Dec 2024,No,Semi-Furnished,Resale,North,No,2024-01-13,53313.0,3.6
+Pune,Carpet Area,3 BHK,1699,159.83,3,1,Sep 2024,No,Unfurnished,Resale,East,Yes,2023-08-11,47949.0,3.6
+Kolkata,Plot Area,1 BHK,957,100.43,1,0,Ready to Move,Yes,Unfurnished,Resale,North,Yes,2023-11-28,30129.0,3.6
+Chennai,Super built-up Area,2 BHK,937,77.96,1,2,Mar 2025,No,Unfurnished,New Property,East,No,2024-08-06,23388.0,3.6
+Ahmedabad,Super built-up Area,1 RK,1235,101.9,4,1,Ready to Move,Yes,Semi-Furnished,Resale,North,No,2024-06-20,30570.0,3.6
+Ahmedabad,Built-up Area,4 BHK,1309,87.35,4,2,Jun 2025,No,Unfurnished,New Property,West,No,2024-02-09,26205.0,3.6
+Bengaluru,Plot Area,3 BHK,1256,133.42,1,1,Dec 2024,No,Fully Furnished,New Property,West,Yes,2025-05-17,40026.0,3.6
+Bengaluru,Built-up Area,1 RK,986,99.49,1,2,Sep 2024,No,Unfurnished,New Property,South,Yes,2025-04-19,29847.0,3.6
+Chennai,Carpet Area,3 BHK,2405,113.06,4,2,Ready to Move,Yes,Fully Furnished,New Property,South,No,2024-02-05,33918.0,3.6
+Delhi,Carpet Area,2 BHK,1140,116.84,4,3,Mar 2025,No,Semi-Furnished,Resale,North,No,2025-03-04,35052.0,3.6
+Kolkata,Built-up Area,1 RK,533,31.66,1,3,Jun 2025,No,Fully Furnished,New Property,East,No,2025-05-27,9498.0,3.6
+Bengaluru,Carpet Area,1 BHK,2320,111.75,4,1,Dec 2024,No,Semi-Furnished,New Property,West,Yes,2024-08-21,33525.0,3.6
+Bengaluru,Built-up Area,2 BHK,2761,294.43,2,3,Dec 2024,No,Unfurnished,Resale,North,Yes,2023-10-04,88329.0,3.6
+Hyderabad,Built-up Area,1 RK,2655,121.57,2,2,Mar 2025,No,Fully Furnished,New Property,West,No,2023-12-29,36471.0,3.6
+Hyderabad,Plot Area,4 BHK,900,64.51,4,3,Dec 2024,No,Unfurnished,Resale,North,Yes,2025-06-30,19353.0,3.6
+Pune,Plot Area,3 BHK,2765,264.91,4,0,Dec 2024,No,Semi-Furnished,Resale,East,Yes,2023-12-14,79473.0,3.6
+Bengaluru,Carpet Area,1 BHK,1063,41.62,2,3,Sep 2024,No,Semi-Furnished,New Property,West,No,2023-07-27,12486.0,3.6
+Pune,Built-up Area,1 RK,2686,284.54,2,1,Dec 2024,No,Unfurnished,New Property,West,No,2024-06-09,85362.0,3.6
+Mumbai,Built-up Area,2 BHK,554,56.09,3,3,Sep 2024,No,Fully Furnished,Resale,South,No,2023-08-20,16827.0,3.6
+Chennai,Plot Area,2 RK,2506,154.88,2,3,Ready to Move,Yes,Unfurnished,New Property,East,No,2024-09-14,46464.0,3.6
+Chennai,Carpet Area,2 RK,735,70.63,3,0,Jun 2025,No,Unfurnished,Resale,West,Yes,2023-12-14,21189.0,3.6
+Delhi,Super built-up Area,2 BHK,2764,131.46,3,0,Ready to Move,Yes,Semi-Furnished,New Property,South,No,2023-09-20,39438.0,3.6
+Chennai,Super built-up Area,1 RK,1204,124.46,4,3,Ready to Move,Yes,Unfurnished,Resale,East,Yes,2025-02-22,37338.0,3.6
+Kolkata,Super built-up Area,2 RK,1018,91.5,1,1,Dec 2024,No,Unfurnished,Resale,South,No,2023-09-13,27450.0,3.6
+Bengaluru,Super built-up Area,1 BHK,2881,267.51,1,0,Ready to Move,Yes,Semi-Furnished,Resale,East,Yes,2025-01-16,80253.0,3.6
+Mumbai,Super built-up Area,1 RK,530,36.3,3,3,Dec 2024,No,Unfurnished,New Property,East,No,2023-12-13,10890.0,3.6
+Chennai,Carpet Area,4 BHK,1781,90.17,1,1,Jun 2025,No,Fully Furnished,Resale,East,Yes,2024-10-05,27051.0,3.6
+Bengaluru,Super built-up Area,1 BHK,1565,57.44,4,1,Mar 2025,No,Unfurnished,Resale,West,Yes,2023-11-18,17232.0,3.6
+Hyderabad,Carpet Area,2 BHK,470,46.06,2,2,Mar 2025,No,Fully Furnished,Resale,East,Yes,2024-12-13,13818.0,3.6
+Pune,Built-up Area,2 RK,2789,201.48,1,0,Dec 2024,No,Semi-Furnished,New Property,West,No,2025-01-06,60444.0,3.6
+Kolkata,Plot Area,1 RK,1737,131.1,4,2,Dec 2024,No,Unfurnished,New Property,North,Yes,2025-02-11,39330.0,3.6
+Mumbai,Built-up Area,4 BHK,620,41.34,3,1,Jun 2025,No,Unfurnished,Resale,North,Yes,2025-01-31,12402.0,3.6
+Mumbai,Carpet Area,2 RK,749,50.44,1,3,Dec 2024,No,Unfurnished,New Property,North,Yes,2024-08-04,15132.0,3.6
+Pune,Plot Area,2 BHK,2987,248.38,2,2,Ready to Move,Yes,Unfurnished,New Property,East,Yes,2023-10-29,74514.0,3.6
+Pune,Carpet Area,4 BHK,2711,280.77,4,2,Jun 2025,No,Semi-Furnished,New Property,North,No,2023-11-24,84231.0,3.6
+Pune,Plot Area,3 BHK,2141,210.38,2,2,Jun 2025,No,Unfurnished,New Property,North,No,2024-05-02,63114.0,3.6
+Mumbai,Super built-up Area,1 BHK,2673,105.46,1,0,Ready to Move,Yes,Unfurnished,New Property,South,Yes,2025-04-09,31638.0,3.6
+Ahmedabad,Carpet Area,3 BHK,768,55.05,4,0,Sep 2024,No,Unfurnished,New Property,North,No,2025-04-02,16515.0,3.6
+Bengaluru,Super built-up Area,2 RK,843,91.1,1,3,Ready to Move,Yes,Unfurnished,New Property,South,No,2025-04-07,27330.0,3.6
+Chennai,Super built-up Area,4 BHK,1338,80.16,1,2,Mar 2025,No,Fully Furnished,Resale,South,No,2024-12-28,24048.0,3.6
+Kolkata,Built-up Area,1 BHK,1205,44.42,4,1,Mar 2025,No,Fully Furnished,Resale,South,No,2023-07-31,13326.0,3.6
+Kolkata,Plot Area,4 BHK,521,26.23,1,2,Dec 2024,No,Fully Furnished,New Property,South,Yes,2024-04-26,7869.0,3.6
+Hyderabad,Carpet Area,4 BHK,2189,211.76,1,2,Sep 2024,No,Unfurnished,New Property,West,No,2025-07-01,63528.0,3.6
+Mumbai,Super built-up Area,3 BHK,2050,135.53,1,2,Mar 2025,No,Fully Furnished,New Property,East,Yes,2025-05-30,40659.0,3.6
+Ahmedabad,Carpet Area,2 RK,2314,102.57,3,0,Ready to Move,Yes,Fully Furnished,Resale,West,Yes,2023-12-22,30771.0,3.6
+Hyderabad,Super built-up Area,3 BHK,1421,120.9,1,2,Dec 2024,No,Unfurnished,Resale,East,No,2023-09-27,36270.0,3.6
+Ahmedabad,Carpet Area,1 RK,2567,280.39,2,0,Dec 2024,No,Semi-Furnished,Resale,East,No,2024-06-24,84117.0,3.6
+Hyderabad,Super built-up Area,4 BHK,1964,209.48,2,1,Jun 2025,No,Semi-Furnished,New Property,South,No,2023-12-14,62844.0,3.6
+Hyderabad,Built-up Area,2 BHK,1113,102.58,4,1,Dec 2024,No,Fully Furnished,Resale,East,No,2025-07-05,30774.0,3.6
+Delhi,Plot Area,2 BHK,2164,213.39,2,0,Dec 2024,No,Semi-Furnished,New Property,South,Yes,2025-04-03,64017.0,3.6
+Delhi,Carpet Area,1 BHK,1048,88.62,1,2,Ready to Move,Yes,Fully Furnished,New Property,West,No,2023-08-20,26586.0,3.6
+Ahmedabad,Built-up Area,1 BHK,742,80.29,1,2,Sep 2024,No,Unfurnished,New Property,South,No,2024-09-12,24087.0,3.6
+Bengaluru,Built-up Area,1 BHK,2248,238.31,3,1,Sep 2024,No,Semi-Furnished,Resale,South,Yes,2024-01-15,71493.0,3.6
+Bengaluru,Super built-up Area,1 BHK,1462,110.39,4,3,Mar 2025,No,Semi-Furnished,New Property,West,Yes,2024-06-26,33117.0,3.6
+Delhi,Plot Area,1 RK,2051,85.86,1,1,Sep 2024,No,Semi-Furnished,Resale,West,No,2023-12-25,25758.0,3.6
+Bengaluru,Carpet Area,2 RK,2006,157.26,4,0,Mar 2025,No,Unfurnished,Resale,West,Yes,2024-10-29,47178.0,3.6
+Delhi,Carpet Area,1 BHK,1852,124.15,4,1,Dec 2024,No,Semi-Furnished,Resale,West,No,2024-06-29,37245.0,3.6
+Pune,Super built-up Area,4 BHK,2779,263.56,4,1,Mar 2025,No,Fully Furnished,New Property,South,No,2023-11-04,79068.0,3.6
+Kolkata,Carpet Area,1 RK,1418,126.24,4,0,Mar 2025,No,Semi-Furnished,Resale,West,Yes,2024-04-22,37872.0,3.6
+Mumbai,Built-up Area,1 RK,1784,76.12,2,1,Mar 2025,No,Fully Furnished,New Property,South,No,2024-01-12,22836.0,3.6
+Bengaluru,Super built-up Area,1 RK,2750,294.28,2,2,Sep 2024,No,Semi-Furnished,New Property,East,No,2025-03-02,88284.0,3.6
+Hyderabad,Carpet Area,4 BHK,1019,111.37,4,0,Jun 2025,No,Unfurnished,New Property,East,No,2025-05-06,33411.0,3.6
+Chennai,Super built-up Area,1 RK,1416,87.55,2,1,Jun 2025,No,Unfurnished,New Property,West,No,2024-05-29,26265.0,3.6
+Mumbai,Plot Area,2 BHK,1418,54.29,3,2,Sep 2024,No,Fully Furnished,New Property,South,No,2023-08-03,16287.0,3.6
+Mumbai,Built-up Area,3 BHK,1540,140.58,4,1,Mar 2025,No,Unfurnished,New Property,South,No,2023-09-24,42174.0,3.6
+Mumbai,Built-up Area,2 RK,1584,87.94,4,3,Ready to Move,Yes,Semi-Furnished,Resale,East,Yes,2023-08-04,26382.0,3.6
+Hyderabad,Super built-up Area,1 RK,2616,279.21,1,3,Jun 2025,No,Fully Furnished,New Property,East,No,2025-04-30,83763.0,3.6
+Ahmedabad,Plot Area,4 BHK,2517,248.14,1,1,Mar 2025,No,Fully Furnished,New Property,South,No,2024-10-22,74442.0,3.6
+Kolkata,Built-up Area,2 RK,2782,179.96,4,2,Sep 2024,No,Semi-Furnished,Resale,East,No,2024-08-06,53988.0,3.6
+Hyderabad,Plot Area,2 RK,601,26.02,2,1,Ready to Move,Yes,Fully Furnished,Resale,North,Yes,2023-08-07,7806.0,3.6
+Kolkata,Super built-up Area,3 BHK,864,34.8,1,3,Ready to Move,Yes,Unfurnished,Resale,West,No,2024-09-02,10440.0,3.6
+Chennai,Carpet Area,2 RK,915,38.89,3,2,Mar 2025,No,Fully Furnished,New Property,South,No,2025-07-13,11667.0,3.6
+Mumbai,Super built-up Area,1 RK,2744,158.01,2,2,Sep 2024,No,Fully Furnished,Resale,West,Yes,2024-09-23,47403.0,3.6
+Kolkata,Carpet Area,2 RK,1522,142.94,4,3,Jun 2025,No,Semi-Furnished,New Property,North,No,2024-10-25,42882.0,3.6
+Bengaluru,Super built-up Area,3 BHK,1689,112.77,3,3,Jun 2025,No,Semi-Furnished,New Property,South,No,2024-08-28,33831.0,3.6
+Chennai,Built-up Area,1 RK,2892,107.49,2,1,Mar 2025,No,Semi-Furnished,Resale,South,Yes,2023-10-11,32247.0,3.6
+Bengaluru,Carpet Area,3 BHK,1584,61.88,4,2,Sep 2024,No,Fully Furnished,Resale,West,Yes,2025-07-11,18564.0,3.6
+Kolkata,Built-up Area,2 BHK,885,42.58,3,1,Jun 2025,No,Semi-Furnished,Resale,South,No,2024-06-05,12774.0,3.6
+Bengaluru,Plot Area,1 RK,675,43.38,1,0,Dec 2024,No,Semi-Furnished,New Property,East,No,2024-02-21,13014.0,3.6
+Hyderabad,Carpet Area,1 BHK,425,39.12,1,0,Jun 2025,No,Fully Furnished,Resale,South,No,2023-12-26,11736.0,3.6
+Bengaluru,Built-up Area,1 BHK,1108,86.8,3,3,Ready to Move,Yes,Semi-Furnished,Resale,West,No,2024-10-24,26040.0,3.6
+Bengaluru,Carpet Area,1 BHK,1003,90.05,2,0,Dec 2024,No,Fully Furnished,Resale,West,No,2024-08-04,27015.0,3.6
+Chennai,Carpet Area,3 BHK,2811,252.18,1,3,Sep 2024,No,Semi-Furnished,New Property,North,No,2024-02-10,75654.0,3.6
+Bengaluru,Plot Area,2 BHK,905,77.27,2,2,Mar 2025,No,Semi-Furnished,Resale,East,Yes,2023-08-28,23181.0,3.6
+Kolkata,Plot Area,3 BHK,1904,107.37,4,2,Dec 2024,No,Unfurnished,New Property,East,Yes,2025-01-03,32211.0,3.6
+Bengaluru,Carpet Area,3 BHK,2600,210.88,4,0,Jun 2025,No,Semi-Furnished,Resale,West,Yes,2023-09-09,63264.0,3.6
+Hyderabad,Built-up Area,4 BHK,1095,40.85,4,1,Ready to Move,Yes,Semi-Furnished,Resale,East,Yes,2025-05-13,12255.0,3.6
+Kolkata,Built-up Area,1 BHK,1444,86.17,2,0,Jun 2025,No,Fully Furnished,New Property,North,Yes,2024-10-20,25851.0,3.6
+Chennai,Plot Area,2 BHK,1651,59.25,1,0,Jun 2025,No,Semi-Furnished,Resale,North,Yes,2024-05-11,17775.0,3.6
+Pune,Built-up Area,3 BHK,1440,77.87,3,2,Mar 2025,No,Semi-Furnished,New Property,West,No,2023-08-16,23361.0,3.6
+Delhi,Carpet Area,1 RK,2937,150.69,1,0,Mar 2025,No,Unfurnished,New Property,West,No,2024-02-22,45207.0,3.6
+Hyderabad,Carpet Area,1 RK,2726,213.84,2,0,Mar 2025,No,Semi-Furnished,Resale,West,No,2025-04-04,64152.0,3.6
+Hyderabad,Carpet Area,2 RK,963,52.04,2,0,Ready to Move,Yes,Fully Furnished,Resale,North,Yes,2024-10-19,15612.0,3.6
+Bengaluru,Built-up Area,1 RK,1327,105.4,2,1,Dec 2024,No,Fully Furnished,New Property,West,Yes,2023-09-28,31620.0,3.6
+Ahmedabad,Super built-up Area,4 BHK,1043,110.33,2,1,Sep 2024,No,Fully Furnished,New Property,West,Yes,2025-02-21,33099.0,3.6
+Delhi,Super built-up Area,1 BHK,461,22.54,2,0,Ready to Move,Yes,Unfurnished,Resale,South,No,2024-06-27,6762.0,3.6
+Delhi,Super built-up Area,1 BHK,2480,243.28,4,3,Ready to Move,Yes,Unfurnished,New Property,North,Yes,2024-07-04,72984.0,3.6
+Kolkata,Super built-up Area,3 BHK,652,67.67,2,2,Mar 2025,No,Fully Furnished,New Property,East,Yes,2024-03-13,20301.0,3.6
+Hyderabad,Carpet Area,1 RK,966,47.94,3,3,Sep 2024,No,Semi-Furnished,New Property,East,Yes,2024-12-29,14382.0,3.6
+Mumbai,Carpet Area,4 BHK,1147,40.45,3,2,Sep 2024,No,Semi-Furnished,Resale,East,No,2025-06-30,12135.0,3.6
+Mumbai,Carpet Area,4 BHK,1997,133.11,1,0,Ready to Move,Yes,Fully Furnished,Resale,North,No,2025-04-23,39933.0,3.6
+Delhi,Built-up Area,3 BHK,406,38.81,3,0,Jun 2025,No,Fully Furnished,Resale,South,Yes,2024-02-01,11643.0,3.6
+Mumbai,Plot Area,1 RK,1197,80.49,2,2,Sep 2024,No,Unfurnished,Resale,South,Yes,2024-06-18,24147.0,3.6
+Ahmedabad,Super built-up Area,1 RK,1358,102.52,1,3,Sep 2024,No,Fully Furnished,Resale,East,No,2025-06-19,30756.0,3.6
+Pune,Carpet Area,2 BHK,1886,130.16,1,3,Jun 2025,No,Unfurnished,New Property,West,Yes,2025-04-22,39048.0,3.6
+Bengaluru,Carpet Area,2 RK,1868,129.06,2,3,Ready to Move,Yes,Semi-Furnished,New Property,East,No,2025-02-28,38718.0,3.6
+Delhi,Carpet Area,3 BHK,1774,130.01,1,3,Jun 2025,No,Semi-Furnished,Resale,East,Yes,2024-03-08,39003.0,3.6
+Hyderabad,Carpet Area,1 RK,1157,108.53,1,1,Mar 2025,No,Unfurnished,Resale,West,No,2024-10-21,32559.0,3.6
+Bengaluru,Built-up Area,2 BHK,2870,303.44,3,0,Jun 2025,No,Unfurnished,Resale,North,No,2025-03-07,91032.0,3.6
+Delhi,Plot Area,2 RK,1602,100.87,1,2,Jun 2025,No,Fully Furnished,New Property,East,Yes,2025-03-13,30261.0,3.6
+Pune,Carpet Area,1 BHK,2753,100.08,1,0,Jun 2025,No,Unfurnished,Resale,South,No,2025-05-27,30024.0,3.6
+Ahmedabad,Built-up Area,2 BHK,957,53.48,4,1,Sep 2024,No,Unfurnished,Resale,North,Yes,2025-05-22,16044.0,3.6
+Delhi,Carpet Area,1 RK,2516,122.55,3,3,Dec 2024,No,Unfurnished,New Property,South,Yes,2024-06-17,36765.0,3.6
+Pune,Super built-up Area,4 BHK,669,26.37,3,0,Ready to Move,Yes,Unfurnished,Resale,East,Yes,2024-04-02,7911.0,3.6
+Delhi,Super built-up Area,3 BHK,1161,77.85,1,2,Dec 2024,No,Semi-Furnished,New Property,West,Yes,2025-06-06,23355.0,3.6
+Mumbai,Carpet Area,1 BHK,2162,171.93,1,0,Jun 2025,No,Semi-Furnished,New Property,North,No,2023-08-05,51579.0,3.6
+Hyderabad,Built-up Area,2 RK,976,92.53,4,3,Sep 2024,No,Fully Furnished,New Property,South,No,2025-03-08,27759.0,3.6
+Hyderabad,Plot Area,4 BHK,873,57.62,1,1,Jun 2025,No,Unfurnished,Resale,East,Yes,2025-05-09,17286.0,3.6
+Mumbai,Plot Area,3 BHK,585,27.22,4,1,Dec 2024,No,Unfurnished,Resale,North,Yes,2024-07-17,8166.0,3.6
+Ahmedabad,Plot Area,1 RK,1391,83.88,2,3,Sep 2024,No,Unfurnished,Resale,North,No,2025-06-11,25164.0,3.6
+Kolkata,Carpet Area,2 BHK,2809,213.76,3,2,Sep 2024,No,Fully Furnished,New Property,North,Yes,2024-08-29,64128.0,3.6
+Chennai,Carpet Area,2 RK,1620,106.02,2,0,Mar 2025,No,Semi-Furnished,New Property,South,No,2024-10-10,31806.0,3.6
+Mumbai,Carpet Area,3 BHK,2239,182.46,3,0,Mar 2025,No,Semi-Furnished,New Property,West,Yes,2025-07-11,54738.0,3.6
+Mumbai,Plot Area,3 BHK,838,32.0,3,0,Sep 2024,No,Unfurnished,New Property,East,Yes,2025-04-09,9600.0,3.6
+Ahmedabad,Carpet Area,1 BHK,2861,311.77,1,1,Mar 2025,No,Semi-Furnished,Resale,South,Yes,2023-08-17,93531.0,3.6
+Bengaluru,Built-up Area,2 RK,497,32.53,3,1,Mar 2025,No,Semi-Furnished,New Property,West,Yes,2025-04-27,9759.0,3.6
+Bengaluru,Built-up Area,4 BHK,1685,158.17,3,0,Ready to Move,Yes,Unfurnished,Resale,East,Yes,2024-08-27,47451.0,3.6
+Delhi,Plot Area,2 BHK,1149,118.33,3,2,Jun 2025,No,Fully Furnished,Resale,East,No,2024-10-04,35499.0,3.6
+Mumbai,Carpet Area,1 BHK,2214,194.42,2,3,Sep 2024,No,Fully Furnished,New Property,North,No,2023-09-30,58326.0,3.6
+Mumbai,Built-up Area,2 RK,669,25.83,4,2,Sep 2024,No,Unfurnished,Resale,East,Yes,2023-08-14,7749.0,3.6
+Delhi,Super built-up Area,3 BHK,1826,81.17,1,1,Jun 2025,No,Unfurnished,Resale,East,Yes,2024-01-12,24351.0,3.6
+Hyderabad,Super built-up Area,2 BHK,1779,179.75,2,2,Mar 2025,No,Unfurnished,Resale,North,Yes,2025-06-04,53925.0,3.6
+Pune,Carpet Area,1 BHK,536,21.14,4,0,Ready to Move,Yes,Semi-Furnished,Resale,East,Yes,2024-01-08,6342.0,3.6
+Kolkata,Carpet Area,4 BHK,1476,56.54,2,3,Sep 2024,No,Semi-Furnished,New Property,West,Yes,2023-12-15,16962.0,3.6
+Hyderabad,Plot Area,1 RK,1935,192.81,1,0,Jun 2025,No,Semi-Furnished,Resale,South,Yes,2024-08-12,57843.0,3.6
+Pune,Super built-up Area,2 BHK,1058,87.25,1,0,Jun 2025,No,Unfurnished,Resale,North,No,2025-03-09,26175.0,3.6
+Kolkata,Built-up Area,3 BHK,833,57.85,3,1,Sep 2024,No,Unfurnished,New Property,West,Yes,2024-12-06,17355.0,3.6
+Hyderabad,Plot Area,1 BHK,685,24.76,1,0,Jun 2025,No,Fully Furnished,New Property,North,Yes,2025-07-15,7428.0,3.6
+Kolkata,Plot Area,2 BHK,457,21.19,1,0,Jun 2025,No,Semi-Furnished,Resale,West,Yes,2023-10-28,6357.0,3.6
+Mumbai,Plot Area,2 RK,1770,189.08,4,2,Sep 2024,No,Fully Furnished,Resale,North,Yes,2025-04-22,56724.0,3.6
+Bengaluru,Carpet Area,3 BHK,1086,70.2,2,1,Jun 2025,No,Fully Furnished,New Property,East,Yes,2024-04-08,21060.0,3.6
+Pune,Plot Area,1 RK,1164,47.53,4,3,Ready to Move,Yes,Fully Furnished,New Property,East,No,2025-03-25,14259.0,3.6
+Delhi,Plot Area,2 BHK,1324,117.21,1,1,Dec 2024,No,Semi-Furnished,New Property,East,Yes,2025-05-12,35163.0,3.6
+Pune,Super built-up Area,1 RK,2746,283.5,1,2,Sep 2024,No,Unfurnished,Resale,East,Yes,2024-02-21,85050.0,3.6
+Kolkata,Built-up Area,1 RK,1921,115.11,1,2,Sep 2024,No,Fully Furnished,Resale,South,Yes,2023-07-31,34533.0,3.6
+Delhi,Carpet Area,1 RK,2516,96.45,1,2,Dec 2024,No,Semi-Furnished,New Property,East,No,2023-11-05,28935.0,3.6
+Bengaluru,Carpet Area,2 BHK,2485,138.44,3,0,Ready to Move,Yes,Fully Furnished,New Property,West,No,2025-02-04,41532.0,3.6
+Mumbai,Super built-up Area,2 BHK,2657,135.59,3,1,Dec 2024,No,Unfurnished,New Property,East,No,2025-04-21,40677.0,3.6
+Hyderabad,Plot Area,4 BHK,1541,129.62,2,0,Ready to Move,Yes,Semi-Furnished,Resale,West,Yes,2023-08-31,38886.0,3.6
+Bengaluru,Super built-up Area,2 BHK,547,45.16,1,2,Dec 2024,No,Unfurnished,New Property,West,No,2024-02-27,13548.0,3.6
+Pune,Built-up Area,2 RK,822,43.79,2,0,Dec 2024,No,Fully Furnished,New Property,South,No,2025-06-02,13137.0,3.6
+Kolkata,Plot Area,4 BHK,1207,42.51,1,2,Sep 2024,No,Unfurnished,Resale,South,No,2024-07-21,12753.0,3.6
+Kolkata,Super built-up Area,1 RK,2600,134.73,1,0,Dec 2024,No,Fully Furnished,New Property,South,Yes,2024-03-27,40419.0,3.6
+Hyderabad,Carpet Area,1 RK,567,56.44,2,1,Ready to Move,Yes,Unfurnished,Resale,West,No,2025-05-13,16932.0,3.6
+Kolkata,Carpet Area,2 BHK,1017,78.88,2,0,Jun 2025,No,Semi-Furnished,New Property,East,No,2024-05-31,23664.0,3.6
+Pune,Carpet Area,4 BHK,2286,243.58,1,3,Dec 2024,No,Fully Furnished,Resale,West,Yes,2023-12-14,73074.0,3.6
+Kolkata,Plot Area,3 BHK,647,37.36,3,2,Mar 2025,No,Fully Furnished,New Property,South,No,2024-06-15,11208.0,3.6
+Chennai,Plot Area,1 RK,1172,104.07,4,2,Ready to Move,Yes,Semi-Furnished,Resale,West,No,2025-01-07,31221.0,3.6
+Bengaluru,Built-up Area,4 BHK,951,64.23,1,0,Mar 2025,No,Unfurnished,Resale,West,No,2023-09-08,19269.0,3.6
+Bengaluru,Plot Area,2 RK,2672,232.88,3,1,Ready to Move,Yes,Fully Furnished,New Property,South,Yes,2023-10-22,69864.0,3.6
+Kolkata,Built-up Area,2 RK,1383,123.54,1,3,Mar 2025,No,Unfurnished,New Property,North,Yes,2025-03-05,37062.0,3.6
+Hyderabad,Carpet Area,2 BHK,1897,161.25,3,1,Dec 2024,No,Unfurnished,Resale,West,Yes,2023-08-14,48375.0,3.6
+Chennai,Super built-up Area,1 BHK,1898,187.19,4,3,Ready to Move,Yes,Semi-Furnished,Resale,North,No,2024-06-16,56157.0,3.6
+Hyderabad,Carpet Area,3 BHK,2257,146.94,3,2,Dec 2024,No,Semi-Furnished,New Property,South,No,2023-12-21,44082.0,3.6
+Ahmedabad,Plot Area,4 BHK,1983,207.9,4,0,Jun 2025,No,Unfurnished,Resale,West,Yes,2025-01-20,62370.0,3.6
+Pune,Plot Area,3 BHK,490,36.83,1,2,Sep 2024,No,Semi-Furnished,New Property,North,Yes,2024-06-07,11049.0,3.6
+Bengaluru,Plot Area,3 BHK,2758,175.4,3,3,Dec 2024,No,Unfurnished,New Property,East,No,2024-10-11,52620.0,3.6
+Bengaluru,Built-up Area,3 BHK,2810,306.42,3,1,Jun 2025,No,Unfurnished,Resale,East,No,2023-09-23,91926.0,3.6
+Chennai,Built-up Area,2 BHK,2101,202.21,3,2,Mar 2025,No,Unfurnished,New Property,South,No,2024-12-07,60663.0,3.6
+Ahmedabad,Built-up Area,1 BHK,474,17.66,1,3,Sep 2024,No,Semi-Furnished,New Property,West,Yes,2025-04-30,5298.0,3.6
+Pune,Carpet Area,1 BHK,2681,150.31,2,1,Mar 2025,No,Fully Furnished,Resale,West,No,2024-02-19,45093.0,3.6
+Ahmedabad,Plot Area,3 BHK,2440,94.3,4,1,Dec 2024,No,Fully Furnished,New Property,South,No,2025-02-19,28290.0,3.6
+Chennai,Carpet Area,4 BHK,2255,101.26,4,3,Mar 2025,No,Semi-Furnished,New Property,West,No,2025-07-17,30378.0,3.6
+Delhi,Plot Area,1 BHK,591,61.69,3,1,Jun 2025,No,Fully Furnished,New Property,East,No,2024-08-21,18507.0,3.6
+Mumbai,Super built-up Area,1 BHK,1022,72.86,2,1,Ready to Move,Yes,Semi-Furnished,New Property,North,No,2023-09-11,21858.0,3.6
+Chennai,Super built-up Area,4 BHK,508,40.8,2,0,Dec 2024,No,Semi-Furnished,New Property,South,Yes,2025-06-15,12240.0,3.6
+Chennai,Super built-up Area,2 BHK,1948,159.12,3,1,Sep 2024,No,Semi-Furnished,New Property,East,Yes,2023-12-09,47736.0,3.6
+Ahmedabad,Built-up Area,3 BHK,923,82.09,3,1,Dec 2024,No,Unfurnished,New Property,West,No,2024-11-30,24627.0,3.6
+Chennai,Built-up Area,1 BHK,1576,98.14,4,1,Mar 2025,No,Unfurnished,New Property,West,No,2024-05-09,29442.0,3.6
+Delhi,Plot Area,1 BHK,2323,150.49,1,3,Ready to Move,Yes,Fully Furnished,New Property,South,No,2025-03-19,45147.0,3.6
+Bengaluru,Built-up Area,4 BHK,558,23.66,4,0,Dec 2024,No,Semi-Furnished,New Property,North,Yes,2023-12-27,7098.0,3.6
+Bengaluru,Super built-up Area,4 BHK,2981,201.53,3,2,Jun 2025,No,Semi-Furnished,New Property,North,No,2024-10-25,60459.0,3.6
+Bengaluru,Built-up Area,2 BHK,1287,139.85,2,1,Dec 2024,No,Fully Furnished,New Property,East,No,2024-11-03,41955.0,3.6
+Bengaluru,Plot Area,1 RK,2718,126.58,2,1,Mar 2025,No,Semi-Furnished,New Property,South,Yes,2023-10-27,37974.0,3.6
+Pune,Built-up Area,3 BHK,601,61.61,2,3,Dec 2024,No,Unfurnished,New Property,East,No,2024-06-09,18483.0,3.6
+Ahmedabad,Plot Area,1 BHK,1367,48.49,3,1,Sep 2024,No,Semi-Furnished,New Property,North,Yes,2025-07-07,14547.0,3.6
+Delhi,Built-up Area,4 BHK,1114,72.52,1,2,Jun 2025,No,Unfurnished,Resale,North,No,2025-05-17,21756.0,3.6
+Pune,Plot Area,4 BHK,584,36.28,3,0,Dec 2024,No,Fully Furnished,New Property,North,Yes,2024-05-08,10884.0,3.6
+Hyderabad,Super built-up Area,1 BHK,2719,251.46,3,2,Jun 2025,No,Semi-Furnished,New Property,East,No,2023-11-22,75438.0,3.6
+Chennai,Plot Area,4 BHK,2641,190.81,2,0,Jun 2025,No,Unfurnished,New Property,East,No,2025-01-29,57243.0,3.6
+Kolkata,Built-up Area,2 RK,461,18.59,4,0,Dec 2024,No,Fully Furnished,New Property,West,No,2025-05-06,5577.0,3.6
+Chennai,Built-up Area,2 RK,2161,222.46,4,3,Sep 2024,No,Fully Furnished,Resale,South,Yes,2023-12-19,66738.0,3.6
+Ahmedabad,Built-up Area,1 BHK,1075,72.0,4,1,Ready to Move,Yes,Fully Furnished,New Property,West,No,2023-09-22,21600.0,3.6
+Kolkata,Super built-up Area,4 BHK,1789,155.93,4,3,Mar 2025,No,Unfurnished,New Property,North,Yes,2025-03-24,46779.0,3.6
+Delhi,Carpet Area,3 BHK,1664,81.75,3,1,Dec 2024,No,Unfurnished,New Property,East,Yes,2025-03-19,24525.0,3.6
+Delhi,Plot Area,1 BHK,1829,130.72,4,2,Mar 2025,No,Fully Furnished,Resale,North,No,2025-07-13,39216.0,3.6
+Mumbai,Super built-up Area,2 BHK,2123,228.46,4,3,Mar 2025,No,Semi-Furnished,Resale,South,No,2024-09-19,68538.0,3.6
+Ahmedabad,Carpet Area,3 BHK,764,50.79,2,3,Mar 2025,No,Semi-Furnished,New Property,North,No,2025-06-17,15237.0,3.6
+Mumbai,Carpet Area,2 BHK,1845,108.13,2,3,Dec 2024,No,Unfurnished,Resale,North,No,2023-10-28,32439.0,3.6
+Bengaluru,Carpet Area,4 BHK,723,31.26,3,1,Sep 2024,No,Fully Furnished,Resale,West,No,2024-12-22,9378.0,3.6
+Mumbai,Plot Area,1 RK,2308,205.24,2,2,Mar 2025,No,Unfurnished,New Property,West,No,2024-05-23,61572.0,3.6
+Chennai,Carpet Area,3 BHK,1361,148.43,3,2,Sep 2024,No,Fully Furnished,Resale,South,No,2024-10-05,44529.0,3.6
+Kolkata,Carpet Area,2 BHK,1622,175.06,3,2,Dec 2024,No,Semi-Furnished,Resale,East,No,2023-11-02,52518.0,3.6
+Delhi,Carpet Area,1 RK,2871,227.33,2,2,Mar 2025,No,Fully Furnished,Resale,North,Yes,2023-12-10,68199.0,3.6
+Hyderabad,Carpet Area,3 BHK,470,34.99,2,1,Dec 2024,No,Unfurnished,Resale,South,Yes,2023-11-09,10497.0,3.6
+Ahmedabad,Built-up Area,1 RK,2583,214.88,3,0,Dec 2024,No,Unfurnished,New Property,East,No,2025-03-10,64464.0,3.6
+Mumbai,Built-up Area,1 BHK,2360,217.42,4,2,Mar 2025,No,Fully Furnished,Resale,West,No,2023-10-14,65226.0,3.6
+Kolkata,Plot Area,3 BHK,2335,221.89,2,1,Ready to Move,Yes,Unfurnished,New Property,East,No,2024-10-09,66567.0,3.6
+Kolkata,Plot Area,4 BHK,662,30.54,2,0,Ready to Move,Yes,Unfurnished,Resale,East,Yes,2025-03-25,9162.0,3.6
+Chennai,Carpet Area,3 BHK,2011,200.75,4,1,Mar 2025,No,Fully Furnished,Resale,South,Yes,2023-12-30,60225.0,3.6
+Kolkata,Super built-up Area,1 RK,2896,148.8,1,2,Mar 2025,No,Fully Furnished,Resale,West,No,2023-08-08,44640.0,3.6
+Pune,Carpet Area,4 BHK,1306,54.0,2,2,Ready to Move,Yes,Unfurnished,Resale,West,Yes,2024-05-29,16200.0,3.6
+Bengaluru,Built-up Area,1 BHK,1418,70.36,4,2,Dec 2024,No,Semi-Furnished,Resale,West,Yes,2025-07-01,21108.0,3.6
+Hyderabad,Built-up Area,2 RK,2246,198.92,4,3,Sep 2024,No,Unfurnished,New Property,North,Yes,2023-12-16,59676.0,3.6
+Hyderabad,Carpet Area,1 RK,605,28.12,1,3,Jun 2025,No,Semi-Furnished,New Property,South,No,2025-01-09,8436.0,3.6
+Mumbai,Plot Area,2 BHK,1704,67.11,2,2,Ready to Move,Yes,Unfurnished,New Property,North,No,2024-06-15,20133.0,3.6
+Pune,Built-up Area,4 BHK,1779,159.64,2,1,Dec 2024,No,Unfurnished,New Property,West,Yes,2025-03-03,47892.0,3.6
+Mumbai,Built-up Area,3 BHK,2043,159.4,1,1,Dec 2024,No,Unfurnished,New Property,East,Yes,2024-12-30,47820.0,3.6
+Hyderabad,Carpet Area,4 BHK,2206,88.41,1,3,Jun 2025,No,Semi-Furnished,New Property,South,No,2025-02-25,26523.0,3.6
+Ahmedabad,Plot Area,3 BHK,1420,145.41,1,1,Mar 2025,No,Fully Furnished,Resale,West,Yes,2025-05-01,43623.0,3.6
+Bengaluru,Built-up Area,2 RK,2782,213.41,3,3,Dec 2024,No,Unfurnished,New Property,West,No,2025-03-08,64023.0,3.6
+Mumbai,Built-up Area,1 RK,1612,111.85,1,0,Jun 2025,No,Fully Furnished,New Property,West,Yes,2024-09-24,33555.0,3.6
+Mumbai,Plot Area,1 BHK,2199,211.27,4,2,Sep 2024,No,Semi-Furnished,New Property,South,No,2024-08-26,63381.0,3.6
+Hyderabad,Carpet Area,1 BHK,2948,277.11,2,2,Ready to Move,Yes,Semi-Furnished,Resale,West,No,2025-02-13,83133.0,3.6
+Ahmedabad,Built-up Area,3 BHK,2471,248.13,1,1,Dec 2024,No,Semi-Furnished,New Property,North,No,2024-06-12,74439.0,3.6
+Hyderabad,Plot Area,1 RK,1003,106.35,4,1,Dec 2024,No,Semi-Furnished,New Property,West,Yes,2025-03-09,31905.0,3.6
+Delhi,Super built-up Area,1 BHK,888,66.44,1,1,Mar 2025,No,Fully Furnished,Resale,East,Yes,2024-04-11,19932.0,3.6
+Mumbai,Carpet Area,3 BHK,547,51.88,2,1,Mar 2025,No,Unfurnished,Resale,North,Yes,2023-11-16,15564.0,3.6
+Pune,Super built-up Area,4 BHK,817,39.17,2,3,Jun 2025,No,Fully Furnished,Resale,West,Yes,2023-12-28,11751.0,3.6
+Ahmedabad,Built-up Area,2 BHK,487,30.22,3,1,Dec 2024,No,Unfurnished,Resale,West,No,2023-08-25,9066.0,3.6
+Pune,Plot Area,1 RK,1966,194.14,2,1,Ready to Move,Yes,Fully Furnished,New Property,West,No,2024-09-22,58242.0,3.6
+Hyderabad,Carpet Area,1 BHK,1648,119.75,4,2,Ready to Move,Yes,Semi-Furnished,Resale,East,Yes,2025-07-10,35925.0,3.6
+Pune,Carpet Area,1 RK,1830,73.85,3,1,Jun 2025,No,Semi-Furnished,Resale,West,No,2024-05-09,22155.0,3.6
+Chennai,Built-up Area,1 RK,1696,112.04,3,1,Jun 2025,No,Semi-Furnished,Resale,North,Yes,2025-02-07,33612.0,3.6
+Pune,Built-up Area,1 BHK,2113,86.72,4,2,Sep 2024,No,Unfurnished,New Property,West,Yes,2023-09-20,26016.0,3.6
+Pune,Built-up Area,2 BHK,2826,159.49,1,2,Jun 2025,No,Unfurnished,New Property,West,No,2024-08-31,47847.0,3.6
+Kolkata,Built-up Area,4 BHK,1400,97.64,2,3,Dec 2024,No,Fully Furnished,Resale,West,Yes,2024-05-05,29292.0,3.6
+Kolkata,Super built-up Area,3 BHK,1461,119.46,1,2,Ready to Move,Yes,Unfurnished,New Property,East,Yes,2023-09-19,35838.0,3.6
+Mumbai,Super built-up Area,3 BHK,2750,206.48,2,1,Ready to Move,Yes,Fully Furnished,New Property,West,Yes,2025-04-15,61944.0,3.6
+Bengaluru,Super built-up Area,3 BHK,1612,118.24,1,2,Sep 2024,No,Unfurnished,Resale,South,No,2024-06-04,35472.0,3.6
+Hyderabad,Super built-up Area,1 BHK,2787,120.48,3,2,Sep 2024,No,Fully Furnished,New Property,South,No,2024-09-11,36144.0,3.6
+Bengaluru,Super built-up Area,1 BHK,1990,96.17,4,3,Sep 2024,No,Semi-Furnished,New Property,North,No,2024-06-18,28851.0,3.6
+Kolkata,Plot Area,4 BHK,1673,155.81,1,3,Dec 2024,No,Unfurnished,Resale,West,Yes,2023-11-03,46743.0,3.6
+Bengaluru,Carpet Area,2 BHK,1133,46.04,2,0,Mar 2025,No,Fully Furnished,New Property,East,No,2025-02-03,13812.0,3.6
+Hyderabad,Built-up Area,1 BHK,1552,139.61,1,0,Jun 2025,No,Fully Furnished,Resale,West,No,2023-11-26,41883.0,3.6
+Hyderabad,Super built-up Area,2 RK,1058,77.79,2,0,Sep 2024,No,Unfurnished,New Property,West,No,2024-05-14,23337.0,3.6
+Kolkata,Super built-up Area,2 RK,1088,95.71,1,0,Mar 2025,No,Unfurnished,New Property,North,Yes,2024-01-10,28713.0,3.6
+Kolkata,Built-up Area,1 BHK,415,24.54,1,2,Dec 2024,No,Semi-Furnished,New Property,West,Yes,2024-07-22,7362.0,3.6
+Bengaluru,Carpet Area,1 RK,1100,92.95,1,0,Jun 2025,No,Semi-Furnished,Resale,West,No,2024-04-30,27885.0,3.6
+Chennai,Built-up Area,2 BHK,2676,292.94,2,3,Dec 2024,No,Unfurnished,Resale,South,Yes,2024-02-19,87882.0,3.6
+Pune,Super built-up Area,2 RK,2621,271.22,4,1,Jun 2025,No,Semi-Furnished,New Property,West,No,2024-01-02,81366.0,3.6
+Hyderabad,Super built-up Area,1 BHK,704,34.67,2,1,Dec 2024,No,Fully Furnished,New Property,East,Yes,2024-07-28,10401.0,3.6
+Bengaluru,Carpet Area,2 RK,2857,256.06,1,3,Mar 2025,No,Fully Furnished,New Property,South,No,2024-03-03,76818.0,3.6
+Kolkata,Super built-up Area,2 RK,577,38.48,3,1,Ready to Move,Yes,Fully Furnished,New Property,North,Yes,2025-05-05,11544.0,3.6
+Bengaluru,Carpet Area,1 RK,2221,237.07,1,3,Sep 2024,No,Fully Furnished,New Property,North,No,2023-12-05,71121.0,3.6
+Chennai,Plot Area,3 BHK,2437,117.86,1,1,Jun 2025,No,Semi-Furnished,Resale,South,No,2025-01-27,35358.0,3.6
+Pune,Super built-up Area,2 BHK,1725,118.36,3,1,Mar 2025,No,Semi-Furnished,New Property,North,No,2023-10-16,35508.0,3.6
+Mumbai,Carpet Area,2 RK,1620,164.42,1,3,Mar 2025,No,Fully Furnished,Resale,West,No,2024-05-13,49326.0,3.6
+Hyderabad,Super built-up Area,4 BHK,2751,223.95,4,0,Sep 2024,No,Unfurnished,Resale,North,No,2024-11-01,67185.0,3.6
+Pune,Plot Area,4 BHK,1529,62.15,2,2,Ready to Move,Yes,Semi-Furnished,Resale,West,No,2024-04-07,18645.0,3.6
+Pune,Built-up Area,4 BHK,2781,209.22,1,3,Mar 2025,No,Fully Furnished,New Property,North,No,2024-08-31,62766.0,3.6
+Mumbai,Built-up Area,2 RK,2508,239.43,1,2,Dec 2024,No,Unfurnished,New Property,West,No,2025-02-28,71829.0,3.6
+Ahmedabad,Super built-up Area,4 BHK,2039,115.69,1,0,Sep 2024,No,Unfurnished,Resale,North,No,2024-02-04,34707.0,3.6
+Delhi,Built-up Area,1 BHK,2678,269.93,2,0,Mar 2025,No,Semi-Furnished,Resale,West,No,2024-10-25,80979.0,3.6
+Delhi,Plot Area,4 BHK,1368,49.37,4,2,Ready to Move,Yes,Unfurnished,New Property,West,Yes,2023-08-25,14811.0,3.6
+Pune,Carpet Area,2 RK,2051,87.45,3,1,Ready to Move,Yes,Semi-Furnished,Resale,North,Yes,2023-12-27,26235.0,3.6
+Hyderabad,Built-up Area,4 BHK,2617,222.11,3,3,Jun 2025,No,Fully Furnished,New Property,South,Yes,2023-09-20,66633.0,3.6
+Delhi,Carpet Area,2 BHK,2097,211.51,1,0,Ready to Move,Yes,Fully Furnished,New Property,South,No,2023-08-16,63453.0,3.6
+Delhi,Super built-up Area,2 BHK,1511,157.02,3,2,Dec 2024,No,Fully Furnished,New Property,South,No,2024-10-13,47106.0,3.6
+Pune,Carpet Area,1 RK,2041,196.73,3,1,Mar 2025,No,Unfurnished,Resale,West,Yes,2025-03-23,59019.0,3.6
+Pune,Plot Area,1 RK,2846,192.71,4,1,Mar 2025,No,Semi-Furnished,New Property,West,Yes,2025-03-15,57813.0,3.6
+Mumbai,Plot Area,2 BHK,1282,134.47,3,3,Ready to Move,Yes,Semi-Furnished,Resale,North,No,2024-06-17,40341.0,3.6
+Hyderabad,Plot Area,2 RK,1733,109.05,2,3,Mar 2025,No,Unfurnished,New Property,West,Yes,2024-09-03,32715.0,3.6
+Mumbai,Carpet Area,1 BHK,961,54.35,3,1,Ready to Move,Yes,Unfurnished,New Property,East,Yes,2024-06-12,16305.0,3.6
+Bengaluru,Built-up Area,1 BHK,678,70.98,4,1,Dec 2024,No,Fully Furnished,Resale,South,Yes,2024-05-11,21294.0,3.6
+Hyderabad,Built-up Area,1 RK,1819,139.47,3,2,Dec 2024,No,Unfurnished,Resale,West,No,2025-02-27,41841.0,3.6
+Pune,Super built-up Area,4 BHK,873,94.56,3,3,Mar 2025,No,Fully Furnished,New Property,South,Yes,2025-05-25,28368.0,3.6
+Pune,Super built-up Area,1 RK,593,36.91,1,2,Jun 2025,No,Semi-Furnished,Resale,North,No,2024-11-27,11073.0,3.6
+Pune,Built-up Area,3 BHK,978,56.06,3,0,Jun 2025,No,Unfurnished,Resale,North,No,2024-12-28,16818.0,3.6
+Hyderabad,Plot Area,1 RK,1232,46.51,2,3,Sep 2024,No,Fully Furnished,New Property,West,Yes,2025-03-15,13953.0,3.6
+Chennai,Carpet Area,1 BHK,681,58.99,2,1,Jun 2025,No,Unfurnished,Resale,West,Yes,2024-07-24,17697.0,3.6
+Bengaluru,Carpet Area,1 RK,2346,116.65,3,3,Dec 2024,No,Semi-Furnished,New Property,North,Yes,2025-03-17,34995.0,3.6
+Ahmedabad,Plot Area,4 BHK,1738,169.25,2,2,Dec 2024,No,Semi-Furnished,New Property,East,Yes,2024-07-21,50775.0,3.6
+Kolkata,Carpet Area,2 BHK,1598,89.39,4,3,Ready to Move,Yes,Fully Furnished,Resale,South,No,2025-02-04,26817.0,3.6
+Kolkata,Super built-up Area,3 BHK,1319,66.93,4,1,Sep 2024,No,Fully Furnished,Resale,South,No,2024-10-25,20079.0,3.6
+Pune,Super built-up Area,1 RK,2806,219.24,1,0,Ready to Move,Yes,Unfurnished,Resale,South,Yes,2023-12-07,65772.0,3.6
+Mumbai,Built-up Area,2 RK,1794,84.82,1,3,Sep 2024,No,Semi-Furnished,Resale,West,No,2024-06-16,25446.0,3.6
+Hyderabad,Plot Area,1 RK,2919,260.71,3,3,Dec 2024,No,Fully Furnished,Resale,South,No,2023-10-09,78213.0,3.6
+Pune,Built-up Area,1 RK,855,83.96,1,1,Dec 2024,No,Unfurnished,Resale,South,Yes,2025-03-02,25188.0,3.6
+Hyderabad,Built-up Area,2 RK,2892,298.01,4,0,Jun 2025,No,Unfurnished,Resale,North,No,2024-08-18,89403.0,3.6
+Delhi,Plot Area,2 BHK,2142,154.71,2,3,Sep 2024,No,Unfurnished,New Property,West,Yes,2023-10-06,46413.0,3.6
+Mumbai,Built-up Area,1 RK,2459,149.09,4,0,Ready to Move,Yes,Fully Furnished,New Property,South,Yes,2024-10-12,44727.0,3.6
+Pune,Super built-up Area,1 BHK,2928,246.69,2,0,Jun 2025,No,Semi-Furnished,New Property,North,No,2025-02-19,74007.0,3.6
+Kolkata,Carpet Area,1 RK,1250,64.47,3,0,Mar 2025,No,Fully Furnished,New Property,South,Yes,2023-09-05,19341.0,3.6
+Pune,Built-up Area,2 BHK,2016,73.58,1,0,Sep 2024,No,Unfurnished,New Property,East,Yes,2024-01-22,22074.0,3.6
+Bengaluru,Carpet Area,3 BHK,950,79.3,3,2,Ready to Move,Yes,Unfurnished,Resale,East,Yes,2023-08-14,23790.0,3.6
+Pune,Super built-up Area,1 RK,903,34.5,3,0,Dec 2024,No,Semi-Furnished,New Property,South,Yes,2024-06-05,10350.0,3.6
+Delhi,Plot Area,2 RK,2574,185.88,4,3,Dec 2024,No,Semi-Furnished,New Property,West,No,2024-02-15,55764.0,3.6
+Kolkata,Built-up Area,2 BHK,1846,98.11,1,0,Mar 2025,No,Fully Furnished,Resale,South,Yes,2024-07-10,29433.0,3.6
+Hyderabad,Carpet Area,2 RK,1408,58.36,3,3,Jun 2025,No,Unfurnished,Resale,West,No,2024-07-30,17508.0,3.6
+Delhi,Super built-up Area,4 BHK,1588,84.89,1,1,Sep 2024,No,Unfurnished,Resale,South,Yes,2024-04-09,25467.0,3.6
+Mumbai,Built-up Area,1 RK,2835,188.92,4,3,Ready to Move,Yes,Semi-Furnished,New Property,North,Yes,2024-02-03,56676.0,3.6
+Delhi,Carpet Area,3 BHK,1450,58.22,4,0,Ready to Move,Yes,Unfurnished,Resale,North,Yes,2024-08-12,17466.0,3.6
+Hyderabad,Carpet Area,3 BHK,575,62.19,1,0,Dec 2024,No,Fully Furnished,New Property,West,No,2024-12-13,18657.0,3.6
+Mumbai,Plot Area,2 BHK,2393,159.08,4,1,Sep 2024,No,Unfurnished,Resale,North,No,2024-04-12,47724.0,3.6
+Delhi,Built-up Area,1 RK,1698,160.58,1,3,Sep 2024,No,Unfurnished,Resale,South,No,2024-10-27,48174.0,3.6
+Mumbai,Built-up Area,2 BHK,2471,185.93,3,3,Mar 2025,No,Semi-Furnished,Resale,East,Yes,2024-08-18,55779.0,3.6
+Ahmedabad,Built-up Area,4 BHK,904,62.39,2,0,Jun 2025,No,Fully Furnished,New Property,East,No,2024-10-16,18717.0,3.6
+Mumbai,Built-up Area,3 BHK,1253,99.36,1,3,Dec 2024,No,Fully Furnished,Resale,South,No,2024-02-12,29808.0,3.6
+Chennai,Built-up Area,2 BHK,2057,115.8,4,3,Ready to Move,Yes,Semi-Furnished,New Property,West,Yes,2023-11-09,34740.0,3.6
+Mumbai,Super built-up Area,3 BHK,1190,87.4,4,0,Dec 2024,No,Fully Furnished,New Property,South,Yes,2024-07-28,26220.0,3.6
+Hyderabad,Built-up Area,1 BHK,1473,59.05,2,1,Ready to Move,Yes,Fully Furnished,New Property,North,No,2024-04-04,17715.0,3.6
+Bengaluru,Super built-up Area,3 BHK,1544,61.72,1,3,Sep 2024,No,Fully Furnished,Resale,East,Yes,2025-02-07,18516.0,3.6
+Hyderabad,Plot Area,2 BHK,2656,221.09,1,3,Sep 2024,No,Semi-Furnished,New Property,West,Yes,2024-10-10,66327.0,3.6
+Ahmedabad,Super built-up Area,1 RK,2685,189.56,4,2,Sep 2024,No,Semi-Furnished,New Property,West,Yes,2024-07-03,56868.0,3.6
+Delhi,Carpet Area,3 BHK,990,48.43,1,2,Dec 2024,No,Unfurnished,Resale,East,Yes,2024-01-21,14529.0,3.6
+Mumbai,Super built-up Area,2 BHK,1651,105.16,4,0,Jun 2025,No,Unfurnished,New Property,South,Yes,2025-02-18,31548.0,3.6
+Kolkata,Carpet Area,2 RK,1095,42.93,2,0,Ready to Move,Yes,Fully Furnished,Resale,West,No,2024-05-22,12879.0,3.6
+Bengaluru,Super built-up Area,1 RK,1876,93.32,1,0,Mar 2025,No,Semi-Furnished,Resale,North,Yes,2025-05-20,27996.0,3.6
+Delhi,Carpet Area,2 BHK,959,57.55,1,0,Jun 2025,No,Unfurnished,Resale,East,Yes,2025-06-15,17265.0,3.6
+Ahmedabad,Built-up Area,2 BHK,783,33.82,4,0,Sep 2024,No,Semi-Furnished,New Property,South,No,2025-02-25,10146.0,3.6
+Bengaluru,Super built-up Area,1 BHK,1439,84.49,3,3,Ready to Move,Yes,Semi-Furnished,New Property,West,Yes,2024-03-22,25347.0,3.6
+Mumbai,Carpet Area,3 BHK,1654,88.27,1,1,Dec 2024,No,Semi-Furnished,Resale,West,Yes,2024-07-16,26481.0,3.6
+Bengaluru,Super built-up Area,2 RK,2027,73.29,3,1,Dec 2024,No,Fully Furnished,Resale,East,Yes,2023-09-09,21987.0,3.6
+Mumbai,Plot Area,3 BHK,2227,211.2,4,1,Jun 2025,No,Fully Furnished,New Property,West,Yes,2024-05-16,63360.0,3.6
+Pune,Plot Area,1 BHK,1320,137.57,4,3,Ready to Move,Yes,Fully Furnished,Resale,North,Yes,2023-08-27,41271.0,3.6
+Bengaluru,Plot Area,3 BHK,1870,147.4,3,0,Jun 2025,No,Unfurnished,New Property,East,Yes,2023-12-10,44220.0,3.6
+Delhi,Plot Area,1 RK,2781,289.68,1,1,Jun 2025,No,Fully Furnished,Resale,North,No,2024-11-01,86904.0,3.6
+Ahmedabad,Carpet Area,1 RK,2125,94.6,4,3,Ready to Move,Yes,Unfurnished,Resale,North,No,2024-10-28,28380.0,3.6
+Mumbai,Built-up Area,4 BHK,2683,290.39,1,0,Jun 2025,No,Semi-Furnished,New Property,East,No,2024-09-16,87117.0,3.6
+Mumbai,Super built-up Area,4 BHK,2739,247.26,2,3,Sep 2024,No,Fully Furnished,New Property,West,No,2024-11-27,74178.0,3.6
+Hyderabad,Plot Area,1 RK,2190,121.07,1,1,Ready to Move,Yes,Unfurnished,Resale,North,No,2024-05-04,36321.0,3.6
+Bengaluru,Built-up Area,2 RK,439,20.9,2,1,Jun 2025,No,Fully Furnished,New Property,East,No,2024-08-18,6270.0,3.6
+Mumbai,Built-up Area,2 BHK,408,16.15,1,3,Dec 2024,No,Semi-Furnished,Resale,South,Yes,2023-11-21,4845.0,3.6
+Delhi,Super built-up Area,1 BHK,2514,186.24,1,0,Mar 2025,No,Unfurnished,Resale,East,Yes,2023-12-05,55872.0,3.6
+Delhi,Carpet Area,1 RK,2971,137.91,2,1,Jun 2025,No,Unfurnished,Resale,South,Yes,2024-06-18,41373.0,3.6
+Mumbai,Plot Area,3 BHK,2625,286.58,1,3,Jun 2025,No,Semi-Furnished,Resale,West,Yes,2025-05-30,85974.0,3.6
+Mumbai,Plot Area,2 RK,1297,69.62,1,0,Dec 2024,No,Semi-Furnished,New Property,East,Yes,2024-08-29,20886.0,3.6
+Delhi,Plot Area,2 RK,1461,87.26,2,2,Dec 2024,No,Unfurnished,New Property,North,Yes,2025-05-11,26178.0,3.6
+Pune,Built-up Area,3 BHK,1379,76.99,4,0,Jun 2025,No,Semi-Furnished,Resale,North,No,2023-12-03,23097.0,3.6
+Hyderabad,Carpet Area,4 BHK,2208,101.83,1,0,Ready to Move,Yes,Fully Furnished,New Property,North,Yes,2025-02-28,30549.0,3.6
+Delhi,Built-up Area,2 BHK,1311,96.36,3,0,Dec 2024,No,Semi-Furnished,New Property,East,No,2024-02-24,28908.0,3.6
+Delhi,Carpet Area,3 BHK,1730,177.95,4,1,Mar 2025,No,Fully Furnished,New Property,South,No,2025-02-07,53385.0,3.6
+Chennai,Plot Area,4 BHK,471,16.78,1,1,Sep 2024,No,Unfurnished,New Property,North,Yes,2024-01-05,5034.0,3.6
+Delhi,Carpet Area,1 BHK,2973,143.45,3,2,Sep 2024,No,Unfurnished,Resale,South,Yes,2025-06-18,43035.0,3.6
+Mumbai,Carpet Area,1 RK,1108,56.98,3,3,Jun 2025,No,Unfurnished,New Property,East,Yes,2023-12-23,17094.0,3.6
+Chennai,Built-up Area,4 BHK,754,28.07,2,1,Dec 2024,No,Fully Furnished,Resale,East,No,2025-04-20,8421.0,3.6
+Bengaluru,Super built-up Area,2 RK,1483,157.18,3,0,Jun 2025,No,Fully Furnished,Resale,South,No,2024-12-03,47154.0,3.6
+Hyderabad,Plot Area,4 BHK,588,63.39,3,1,Dec 2024,No,Semi-Furnished,Resale,West,No,2024-06-23,19017.0,3.6
+Mumbai,Super built-up Area,1 RK,760,45.58,1,2,Jun 2025,No,Fully Furnished,New Property,North,No,2025-02-18,13674.0,3.6
+Hyderabad,Built-up Area,3 BHK,2686,287.62,1,3,Jun 2025,No,Fully Furnished,New Property,West,No,2025-04-08,86286.0,3.6
+Bengaluru,Carpet Area,2 RK,1150,74.25,1,3,Jun 2025,No,Fully Furnished,Resale,North,No,2025-02-14,22275.0,3.6
+Bengaluru,Plot Area,1 BHK,2945,297.3,4,3,Sep 2024,No,Semi-Furnished,Resale,South,No,2025-04-29,89190.0,3.6
+Bengaluru,Super built-up Area,2 RK,1250,77.65,1,3,Ready to Move,Yes,Fully Furnished,Resale,South,No,2025-02-21,23295.0,3.6
+Bengaluru,Built-up Area,3 BHK,1513,145.06,3,0,Mar 2025,No,Fully Furnished,Resale,South,Yes,2025-03-29,43518.0,3.6
+Bengaluru,Super built-up Area,3 BHK,2172,213.42,3,1,Mar 2025,No,Semi-Furnished,New Property,East,No,2023-09-14,64026.0,3.6
+Hyderabad,Plot Area,2 RK,760,70.29,1,3,Dec 2024,No,Fully Furnished,New Property,West,No,2024-11-07,21087.0,3.6
+Mumbai,Carpet Area,2 BHK,1656,85.95,3,1,Ready to Move,Yes,Fully Furnished,Resale,South,Yes,2024-06-01,25785.0,3.6
+Kolkata,Plot Area,1 BHK,1822,179.48,1,0,Dec 2024,No,Unfurnished,New Property,North,No,2025-01-01,53844.0,3.6
+Hyderabad,Super built-up Area,2 RK,1163,62.26,1,0,Jun 2025,No,Unfurnished,Resale,South,Yes,2024-11-17,18678.0,3.6
+Ahmedabad,Built-up Area,1 BHK,2469,157.72,1,1,Dec 2024,No,Unfurnished,New Property,East,No,2024-01-04,47316.0,3.6
+Mumbai,Super built-up Area,1 BHK,1530,57.27,1,1,Mar 2025,No,Semi-Furnished,New Property,West,Yes,2023-08-14,17181.0,3.6
+Ahmedabad,Super built-up Area,1 RK,2311,212.95,4,0,Ready to Move,Yes,Fully Furnished,Resale,West,No,2023-08-20,63885.0,3.6
+Mumbai,Plot Area,1 BHK,2783,232.66,4,2,Mar 2025,No,Unfurnished,New Property,East,Yes,2024-04-28,69798.0,3.6
+Pune,Built-up Area,3 BHK,2571,121.93,1,0,Jun 2025,No,Unfurnished,Resale,East,No,2025-03-02,36579.0,3.6
+Ahmedabad,Super built-up Area,2 RK,1328,93.09,4,0,Jun 2025,No,Unfurnished,New Property,South,Yes,2025-03-10,27927.0,3.6
+Chennai,Carpet Area,3 BHK,2370,170.12,1,1,Jun 2025,No,Semi-Furnished,New Property,East,No,2024-05-17,51036.0,3.6
+Delhi,Super built-up Area,2 BHK,1574,119.67,3,2,Jun 2025,No,Fully Furnished,New Property,East,Yes,2023-09-23,35901.0,3.6
+Hyderabad,Plot Area,2 BHK,952,48.55,4,1,Dec 2024,No,Unfurnished,Resale,East,No,2023-11-12,14565.0,3.6
+Kolkata,Plot Area,4 BHK,1463,94.92,4,0,Jun 2025,No,Semi-Furnished,Resale,East,No,2023-10-25,28476.0,3.6
+Delhi,Built-up Area,1 RK,1893,165.21,2,0,Mar 2025,No,Unfurnished,New Property,South,No,2025-02-22,49563.0,3.6
+Kolkata,Super built-up Area,1 BHK,2367,247.54,2,1,Mar 2025,No,Unfurnished,Resale,West,No,2024-12-16,74262.0,3.6
+Delhi,Built-up Area,1 RK,960,54.38,3,0,Dec 2024,No,Unfurnished,New Property,North,Yes,2024-05-11,16314.0,3.6
+Delhi,Super built-up Area,3 BHK,1336,51.45,1,2,Ready to Move,Yes,Semi-Furnished,Resale,North,No,2023-08-05,15435.0,3.6
+Hyderabad,Carpet Area,2 RK,1403,73.42,3,1,Mar 2025,No,Fully Furnished,New Property,East,Yes,2024-08-21,22026.0,3.6
+Mumbai,Super built-up Area,3 BHK,2442,162.5,2,3,Sep 2024,No,Fully Furnished,Resale,East,No,2024-03-24,48750.0,3.6
+Chennai,Plot Area,3 BHK,855,38.7,1,3,Jun 2025,No,Semi-Furnished,New Property,West,Yes,2023-11-22,11610.0,3.6
+Pune,Carpet Area,1 RK,803,48.66,3,1,Jun 2025,No,Fully Furnished,New Property,South,Yes,2024-11-30,14598.0,3.6
+Kolkata,Super built-up Area,2 BHK,1610,151.35,4,2,Mar 2025,No,Semi-Furnished,Resale,South,Yes,2025-06-13,45405.0,3.6
+Pune,Super built-up Area,4 BHK,816,30.23,2,0,Sep 2024,No,Semi-Furnished,New Property,North,No,2024-10-24,9069.0,3.6
+Ahmedabad,Built-up Area,4 BHK,650,33.31,4,2,Mar 2025,No,Unfurnished,New Property,West,No,2024-09-20,9993.0,3.6
+Delhi,Plot Area,1 RK,1728,151.94,2,3,Ready to Move,Yes,Unfurnished,New Property,North,No,2024-06-12,45582.0,3.6
+Kolkata,Built-up Area,4 BHK,1161,88.96,3,0,Jun 2025,No,Semi-Furnished,Resale,North,Yes,2025-07-10,26688.0,3.6
+Ahmedabad,Carpet Area,2 RK,1247,57.1,1,1,Mar 2025,No,Unfurnished,Resale,South,No,2023-08-12,17130.0,3.6
+Bengaluru,Plot Area,1 RK,913,46.87,4,3,Sep 2024,No,Unfurnished,Resale,East,No,2024-02-07,14061.0,3.6
+Kolkata,Built-up Area,2 BHK,635,55.27,3,1,Mar 2025,No,Unfurnished,Resale,East,Yes,2024-03-22,16581.0,3.6
+Chennai,Carpet Area,2 RK,743,79.33,3,3,Jun 2025,No,Semi-Furnished,New Property,North,Yes,2023-08-22,23799.0,3.6
+Pune,Carpet Area,4 BHK,636,57.4,4,3,Mar 2025,No,Semi-Furnished,Resale,West,No,2025-05-03,17220.0,3.6
+Mumbai,Built-up Area,1 RK,1463,67.35,2,3,Dec 2024,No,Semi-Furnished,New Property,South,Yes,2025-01-17,20205.0,3.6
+Mumbai,Built-up Area,2 BHK,1003,71.37,1,0,Jun 2025,No,Semi-Furnished,Resale,South,Yes,2024-03-04,21411.0,3.6
+Delhi,Carpet Area,2 BHK,634,59.25,2,2,Ready to Move,Yes,Semi-Furnished,Resale,South,Yes,2025-06-17,17775.0,3.6
+Pune,Built-up Area,1 BHK,2140,228.23,1,1,Sep 2024,No,Unfurnished,New Property,East,Yes,2024-05-23,68469.0,3.6
+Mumbai,Super built-up Area,3 BHK,1155,99.21,3,3,Ready to Move,Yes,Unfurnished,Resale,East,Yes,2024-04-15,29763.0,3.6
+Ahmedabad,Super built-up Area,2 BHK,729,47.39,2,3,Ready to Move,Yes,Semi-Furnished,New Property,East,No,2023-12-01,14217.0,3.6
+Chennai,Built-up Area,2 BHK,2092,204.25,2,2,Mar 2025,No,Semi-Furnished,New Property,East,No,2025-02-07,61275.0,3.6
+Hyderabad,Carpet Area,4 BHK,1389,144.03,1,1,Sep 2024,No,Unfurnished,Resale,North,No,2025-05-19,43209.0,3.6
+Bengaluru,Plot Area,1 RK,2909,280.2,3,0,Sep 2024,No,Unfurnished,New Property,West,No,2023-08-03,84060.0,3.6
+Bengaluru,Carpet Area,2 BHK,2615,260.42,2,0,Jun 2025,No,Unfurnished,Resale,East,No,2023-12-22,78126.0,3.6
+Kolkata,Super built-up Area,2 BHK,2163,192.27,4,3,Mar 2025,No,Unfurnished,Resale,West,No,2024-07-21,57681.0,3.6
+Chennai,Carpet Area,3 BHK,2953,269.22,3,0,Jun 2025,No,Fully Furnished,New Property,South,No,2025-07-18,80766.0,3.6
+Kolkata,Carpet Area,3 BHK,2090,205.84,1,1,Ready to Move,Yes,Fully Furnished,New Property,East,Yes,2023-11-19,61752.0,3.6
+Mumbai,Built-up Area,2 BHK,718,73.82,3,1,Sep 2024,No,Unfurnished,Resale,North,Yes,2023-11-30,22146.0,3.6
+Chennai,Built-up Area,2 BHK,1827,195.09,2,1,Dec 2024,No,Unfurnished,New Property,West,No,2025-05-13,58527.0,3.6
+Mumbai,Built-up Area,3 BHK,1757,106.83,1,0,Sep 2024,No,Fully Furnished,New Property,North,No,2024-08-18,32049.0,3.6
+Mumbai,Built-up Area,4 BHK,2779,202.37,3,1,Sep 2024,No,Unfurnished,New Property,West,Yes,2024-09-22,60711.0,3.6
+Chennai,Carpet Area,2 BHK,2825,189.29,1,0,Mar 2025,No,Fully Furnished,New Property,East,Yes,2024-10-18,56787.0,3.6
+Hyderabad,Super built-up Area,2 BHK,2774,109.06,3,3,Mar 2025,No,Fully Furnished,New Property,East,Yes,2025-02-24,32718.0,3.6
+Chennai,Carpet Area,4 BHK,1211,49.22,4,2,Sep 2024,No,Semi-Furnished,Resale,West,Yes,2025-07-05,14766.0,3.6
+Kolkata,Built-up Area,1 RK,1498,124.44,2,3,Mar 2025,No,Fully Furnished,New Property,West,Yes,2024-06-10,37332.0,3.6
+Ahmedabad,Super built-up Area,2 RK,1338,56.85,3,1,Jun 2025,No,Unfurnished,Resale,North,No,2024-08-28,17055.0,3.6
+Bengaluru,Carpet Area,3 BHK,1969,84.11,2,0,Sep 2024,No,Semi-Furnished,New Property,South,Yes,2025-06-23,25233.0,3.6
+Mumbai,Built-up Area,2 RK,2583,265.22,3,1,Mar 2025,No,Unfurnished,New Property,West,Yes,2025-05-17,79566.0,3.6
+Pune,Built-up Area,3 BHK,1852,66.2,1,2,Dec 2024,No,Fully Furnished,New Property,East,Yes,2024-09-17,19860.0,3.6
+Chennai,Super built-up Area,1 RK,2208,157.61,4,1,Mar 2025,No,Semi-Furnished,New Property,North,No,2025-03-08,47283.0,3.6
+Bengaluru,Super built-up Area,1 RK,2633,138.81,3,2,Sep 2024,No,Unfurnished,New Property,East,No,2024-01-12,41643.0,3.6
+Ahmedabad,Carpet Area,1 BHK,2167,155.92,4,1,Dec 2024,No,Unfurnished,New Property,South,No,2025-04-14,46776.0,3.6
+Pune,Super built-up Area,2 BHK,1793,125.59,3,3,Mar 2025,No,Unfurnished,Resale,North,Yes,2024-01-13,37677.0,3.6
+Bengaluru,Plot Area,2 RK,2190,193.37,4,1,Jun 2025,No,Unfurnished,New Property,North,No,2024-03-14,58011.0,3.6
+Bengaluru,Built-up Area,3 BHK,1649,171.99,3,2,Ready to Move,Yes,Fully Furnished,Resale,West,Yes,2025-01-25,51597.0,3.6
+Bengaluru,Plot Area,1 BHK,835,62.62,3,3,Dec 2024,No,Semi-Furnished,Resale,West,No,2025-01-08,18786.0,3.6
+Hyderabad,Built-up Area,2 RK,452,18.89,2,1,Dec 2024,No,Semi-Furnished,New Property,North,Yes,2023-11-20,5667.0,3.6
+Mumbai,Super built-up Area,1 RK,2110,136.27,4,0,Dec 2024,No,Semi-Furnished,Resale,East,No,2024-08-04,40881.0,3.6
+Mumbai,Plot Area,4 BHK,1195,58.42,4,2,Ready to Move,Yes,Unfurnished,New Property,East,Yes,2025-04-25,17526.0,3.6
+Chennai,Built-up Area,3 BHK,1222,92.15,2,1,Dec 2024,No,Semi-Furnished,Resale,East,Yes,2023-11-22,27645.0,3.6
+Chennai,Carpet Area,1 BHK,591,39.3,1,1,Jun 2025,No,Semi-Furnished,New Property,North,No,2024-10-06,11790.0,3.6
+Kolkata,Super built-up Area,2 RK,2112,205.54,1,3,Jun 2025,No,Unfurnished,Resale,North,Yes,2023-07-26,61662.0,3.6
+Pune,Super built-up Area,1 BHK,2744,163.04,4,1,Dec 2024,No,Semi-Furnished,Resale,East,No,2024-05-11,48912.0,3.6
+Bengaluru,Built-up Area,2 RK,855,43.11,2,3,Ready to Move,Yes,Unfurnished,Resale,North,Yes,2024-05-01,12933.0,3.6
+Hyderabad,Built-up Area,2 BHK,806,51.73,3,2,Ready to Move,Yes,Fully Furnished,New Property,South,Yes,2024-04-01,15519.0,3.6
+Ahmedabad,Carpet Area,1 RK,1882,133.14,4,0,Jun 2025,No,Fully Furnished,New Property,North,No,2025-01-17,39942.0,3.6
+Mumbai,Plot Area,4 BHK,684,48.22,3,0,Sep 2024,No,Fully Furnished,Resale,East,Yes,2024-03-01,14466.0,3.6
+Chennai,Built-up Area,3 BHK,1148,43.73,2,2,Sep 2024,No,Unfurnished,Resale,North,No,2024-10-20,13119.0,3.6
+Delhi,Carpet Area,2 BHK,1297,71.53,4,2,Dec 2024,No,Fully Furnished,Resale,North,No,2023-12-15,21459.0,3.6
+Mumbai,Built-up Area,3 BHK,1601,148.82,3,1,Jun 2025,No,Unfurnished,Resale,East,No,2023-08-16,44646.0,3.6
+Ahmedabad,Built-up Area,2 BHK,2512,169.66,3,0,Ready to Move,Yes,Unfurnished,Resale,West,No,2023-10-19,50898.0,3.6
+Pune,Carpet Area,2 RK,1497,71.97,4,2,Dec 2024,No,Semi-Furnished,New Property,East,Yes,2024-03-19,21591.0,3.6
+Delhi,Plot Area,2 RK,2150,83.3,4,3,Ready to Move,Yes,Semi-Furnished,New Property,South,No,2024-10-11,24990.0,3.6
+Chennai,Carpet Area,1 BHK,2022,181.13,1,3,Mar 2025,No,Semi-Furnished,Resale,South,No,2025-03-08,54339.0,3.6
+Kolkata,Built-up Area,4 BHK,2666,278.19,1,2,Mar 2025,No,Fully Furnished,New Property,North,Yes,2025-05-20,83457.0,3.6
+Bengaluru,Carpet Area,4 BHK,1083,84.76,1,0,Sep 2024,No,Semi-Furnished,Resale,East,No,2023-09-24,25428.0,3.6
+Kolkata,Super built-up Area,3 BHK,1367,85.1,4,0,Mar 2025,No,Unfurnished,New Property,West,No,2024-10-20,25530.0,3.6
+Kolkata,Built-up Area,2 BHK,510,33.01,4,1,Ready to Move,Yes,Semi-Furnished,Resale,East,Yes,2025-01-14,9903.0,3.6
+Bengaluru,Carpet Area,4 BHK,2347,242.54,3,0,Sep 2024,No,Unfurnished,Resale,South,No,2024-12-09,72762.0,3.6
+Pune,Super built-up Area,4 BHK,2328,212.68,4,1,Mar 2025,No,Fully Furnished,New Property,South,No,2025-06-26,63804.0,3.6
+Pune,Plot Area,1 BHK,1639,127.56,2,0,Jun 2025,No,Unfurnished,Resale,South,Yes,2024-01-09,38268.0,3.6
+Kolkata,Carpet Area,1 BHK,2067,132.92,2,0,Ready to Move,Yes,Semi-Furnished,New Property,East,No,2025-01-05,39876.0,3.6
+Bengaluru,Super built-up Area,2 RK,2720,261.75,2,3,Ready to Move,Yes,Fully Furnished,New Property,South,No,2024-12-24,78525.0,3.6
+Chennai,Carpet Area,1 BHK,2274,205.38,1,3,Mar 2025,No,Fully Furnished,Resale,West,No,2023-11-27,61614.0,3.6
+Hyderabad,Built-up Area,1 BHK,1244,110.53,2,0,Dec 2024,No,Semi-Furnished,Resale,East,Yes,2024-10-04,33159.0,3.6
+Pune,Carpet Area,4 BHK,509,55.76,2,0,Sep 2024,No,Semi-Furnished,Resale,West,Yes,2024-07-09,16728.0,3.6
+Hyderabad,Built-up Area,3 BHK,1350,104.09,3,1,Ready to Move,Yes,Fully Furnished,New Property,East,No,2024-01-16,31227.0,3.6
+Delhi,Carpet Area,4 BHK,2456,244.38,1,3,Jun 2025,No,Fully Furnished,Resale,West,Yes,2024-08-03,73314.0,3.6
+Mumbai,Super built-up Area,4 BHK,1434,145.1,2,0,Mar 2025,No,Unfurnished,New Property,South,Yes,2025-03-25,43530.0,3.6
+Ahmedabad,Super built-up Area,1 RK,1039,68.49,3,0,Jun 2025,No,Unfurnished,New Property,East,Yes,2024-02-06,20547.0,3.6
+Delhi,Carpet Area,2 BHK,2047,94.71,2,3,Sep 2024,No,Unfurnished,Resale,North,No,2025-06-20,28413.0,3.6
+Mumbai,Carpet Area,2 BHK,2514,183.71,3,1,Jun 2025,No,Fully Furnished,Resale,East,Yes,2024-05-17,55113.0,3.6
+Mumbai,Carpet Area,1 RK,860,76.49,4,0,Dec 2024,No,Semi-Furnished,Resale,South,Yes,2025-07-05,22947.0,3.6
+Mumbai,Built-up Area,1 BHK,1383,113.22,4,0,Dec 2024,No,Semi-Furnished,New Property,North,No,2024-10-18,33966.0,3.6
+Chennai,Plot Area,1 RK,1962,161.41,2,2,Mar 2025,No,Fully Furnished,Resale,East,Yes,2025-01-19,48423.0,3.6
+Mumbai,Plot Area,2 RK,984,56.45,3,1,Jun 2025,No,Fully Furnished,New Property,East,Yes,2024-12-04,16935.0,3.6
+Ahmedabad,Plot Area,2 BHK,436,21.23,3,3,Jun 2025,No,Fully Furnished,New Property,West,No,2023-09-25,6369.0,3.6
+Ahmedabad,Super built-up Area,2 BHK,1602,85.18,3,1,Mar 2025,No,Unfurnished,Resale,North,Yes,2023-08-05,25554.0,3.6
+Kolkata,Plot Area,1 RK,724,63.35,4,2,Mar 2025,No,Fully Furnished,New Property,West,No,2023-08-02,19005.0,3.6
+Hyderabad,Built-up Area,1 BHK,1842,185.25,4,3,Dec 2024,No,Fully Furnished,Resale,North,No,2024-05-26,55575.0,3.6
+Bengaluru,Built-up Area,2 BHK,1345,90.24,4,3,Jun 2025,No,Fully Furnished,Resale,North,Yes,2025-03-10,27072.0,3.6
+Pune,Plot Area,1 RK,2384,256.48,2,1,Ready to Move,Yes,Semi-Furnished,New Property,South,Yes,2025-02-01,76944.0,3.6
+Kolkata,Built-up Area,1 BHK,1972,130.69,1,3,Sep 2024,No,Fully Furnished,Resale,West,Yes,2024-08-01,39207.0,3.6
+Kolkata,Built-up Area,1 RK,2870,270.74,2,1,Mar 2025,No,Fully Furnished,Resale,South,No,2023-07-24,81222.0,3.6
+Ahmedabad,Carpet Area,1 RK,1167,73.42,4,0,Mar 2025,No,Unfurnished,New Property,North,Yes,2025-05-31,22026.0,3.6
+Hyderabad,Built-up Area,1 BHK,1740,87.02,2,0,Dec 2024,No,Unfurnished,Resale,East,Yes,2025-07-16,26106.0,3.6
+Delhi,Plot Area,3 BHK,603,50.61,4,3,Dec 2024,No,Fully Furnished,New Property,North,Yes,2025-06-16,15183.0,3.6
+Hyderabad,Super built-up Area,2 BHK,1630,71.5,2,3,Mar 2025,No,Unfurnished,Resale,West,Yes,2023-11-23,21450.0,3.6
+Kolkata,Plot Area,2 RK,1971,112.91,2,2,Ready to Move,Yes,Semi-Furnished,New Property,East,Yes,2024-11-23,33873.0,3.6
+Pune,Built-up Area,1 BHK,2735,287.0,4,3,Sep 2024,No,Unfurnished,Resale,South,Yes,2023-12-16,86100.0,3.6
+Mumbai,Plot Area,4 BHK,2587,116.1,1,0,Jun 2025,No,Fully Furnished,Resale,West,Yes,2024-04-17,34830.0,3.6
+Kolkata,Carpet Area,1 BHK,2555,171.94,3,3,Dec 2024,No,Fully Furnished,Resale,East,No,2024-11-09,51582.0,3.6
+Hyderabad,Carpet Area,3 BHK,893,78.86,3,1,Ready to Move,Yes,Fully Furnished,New Property,South,No,2024-06-01,23658.0,3.6
+Delhi,Super built-up Area,1 BHK,2432,174.53,2,1,Ready to Move,Yes,Semi-Furnished,Resale,East,Yes,2024-05-17,52359.0,3.6
+Delhi,Built-up Area,1 BHK,1000,87.13,1,1,Sep 2024,No,Semi-Furnished,New Property,West,No,2025-06-09,26139.0,3.6
+Chennai,Plot Area,2 RK,1153,110.43,3,2,Jun 2025,No,Semi-Furnished,New Property,North,No,2024-05-05,33129.0,3.6
+Mumbai,Carpet Area,2 RK,2589,171.39,2,1,Mar 2025,No,Unfurnished,New Property,South,No,2024-08-25,51417.0,3.6
+Delhi,Super built-up Area,4 BHK,2979,111.89,3,0,Jun 2025,No,Fully Furnished,New Property,West,No,2025-05-01,33567.0,3.6
+Hyderabad,Plot Area,4 BHK,1188,128.15,1,0,Sep 2024,No,Semi-Furnished,New Property,North,No,2024-01-10,38445.0,3.6
+Delhi,Super built-up Area,3 BHK,2250,122.72,4,2,Dec 2024,No,Fully Furnished,New Property,South,Yes,2023-09-27,36816.0,3.6
+Ahmedabad,Carpet Area,1 BHK,607,34.22,2,0,Mar 2025,No,Semi-Furnished,Resale,East,No,2025-07-02,10266.0,3.6
+Chennai,Built-up Area,2 BHK,733,69.87,1,1,Sep 2024,No,Semi-Furnished,Resale,West,Yes,2024-11-18,20961.0,3.6
+Pune,Carpet Area,2 RK,1541,126.56,1,3,Sep 2024,No,Fully Furnished,New Property,West,No,2024-08-25,37968.0,3.6
+Bengaluru,Plot Area,1 BHK,1965,110.41,4,1,Dec 2024,No,Fully Furnished,New Property,North,No,2025-03-07,33123.0,3.6
+Chennai,Super built-up Area,2 BHK,2877,313.33,3,2,Ready to Move,Yes,Fully Furnished,New Property,South,No,2025-06-07,93999.0,3.6
+Ahmedabad,Super built-up Area,1 RK,1088,41.43,1,0,Sep 2024,No,Fully Furnished,Resale,West,Yes,2025-04-17,12429.0,3.6
+Chennai,Built-up Area,4 BHK,1950,82.91,3,2,Sep 2024,No,Semi-Furnished,New Property,North,Yes,2024-06-07,24873.0,3.6
+Chennai,Built-up Area,2 RK,888,38.5,4,0,Mar 2025,No,Semi-Furnished,New Property,West,Yes,2024-09-02,11550.0,3.6
+Chennai,Carpet Area,2 RK,428,30.26,3,2,Mar 2025,No,Semi-Furnished,Resale,East,Yes,2023-10-04,9078.0,3.6
+Chennai,Super built-up Area,4 BHK,660,37.42,1,2,Dec 2024,No,Fully Furnished,Resale,South,No,2024-06-19,11226.0,3.6
+Kolkata,Built-up Area,4 BHK,1136,60.91,4,0,Mar 2025,No,Unfurnished,New Property,West,No,2025-05-06,18273.0,3.6
+Hyderabad,Super built-up Area,2 BHK,1931,137.99,4,0,Dec 2024,No,Semi-Furnished,Resale,East,No,2025-05-28,41397.0,3.6
+Kolkata,Built-up Area,1 BHK,2022,130.79,4,0,Mar 2025,No,Unfurnished,New Property,East,No,2024-10-21,39237.0,3.6
+Mumbai,Super built-up Area,1 BHK,1286,101.59,1,1,Ready to Move,Yes,Fully Furnished,New Property,East,Yes,2024-07-12,30477.0,3.6
+Bengaluru,Super built-up Area,1 RK,1474,89.06,2,3,Mar 2025,No,Fully Furnished,Resale,North,Yes,2025-03-28,26718.0,3.6
+Bengaluru,Carpet Area,1 BHK,602,49.21,4,0,Dec 2024,No,Semi-Furnished,Resale,South,No,2023-09-12,14763.0,3.6
+Pune,Plot Area,3 BHK,2981,236.36,2,0,Mar 2025,No,Semi-Furnished,Resale,North,No,2024-12-02,70908.0,3.6
+Delhi,Super built-up Area,1 RK,466,38.35,1,3,Mar 2025,No,Fully Furnished,Resale,West,No,2024-10-04,11505.0,3.6
+Pune,Carpet Area,4 BHK,1042,104.22,3,1,Ready to Move,Yes,Semi-Furnished,Resale,East,No,2023-08-04,31266.0,3.6
+Kolkata,Carpet Area,1 BHK,1361,146.6,4,0,Jun 2025,No,Unfurnished,Resale,South,Yes,2024-04-18,43980.0,3.6
+Mumbai,Plot Area,4 BHK,1031,94.68,4,0,Dec 2024,No,Unfurnished,Resale,East,No,2024-02-20,28404.0,3.6
+Pune,Super built-up Area,1 BHK,1933,206.09,1,0,Jun 2025,No,Unfurnished,New Property,South,No,2025-04-15,61827.0,3.6
+Pune,Carpet Area,1 BHK,1820,135.58,1,2,Dec 2024,No,Unfurnished,Resale,North,Yes,2024-12-18,40674.0,3.6
+Chennai,Plot Area,3 BHK,2211,171.44,1,3,Mar 2025,No,Fully Furnished,Resale,West,Yes,2023-08-24,51432.0,3.6
+Pune,Carpet Area,1 RK,622,36.67,4,0,Sep 2024,No,Fully Furnished,New Property,South,No,2024-09-16,11001.0,3.6
+Kolkata,Built-up Area,4 BHK,1752,112.35,1,1,Dec 2024,No,Semi-Furnished,Resale,North,No,2024-06-10,33705.0,3.6
+Mumbai,Plot Area,2 RK,2319,89.72,2,1,Jun 2025,No,Semi-Furnished,New Property,North,Yes,2025-07-14,26916.0,3.6
+Delhi,Built-up Area,2 BHK,504,40.45,4,3,Dec 2024,No,Unfurnished,New Property,West,No,2024-12-15,12135.0,3.6
+Bengaluru,Built-up Area,1 RK,2058,116.65,1,1,Sep 2024,No,Unfurnished,Resale,West,Yes,2024-06-11,34995.0,3.6
+Ahmedabad,Carpet Area,1 RK,2831,237.68,3,1,Jun 2025,No,Semi-Furnished,New Property,West,Yes,2024-01-20,71304.0,3.6
+Pune,Built-up Area,1 BHK,959,50.7,2,0,Sep 2024,No,Unfurnished,Resale,East,Yes,2024-05-13,15210.0,3.6
+Chennai,Built-up Area,2 BHK,2514,140.58,2,1,Mar 2025,No,Semi-Furnished,New Property,West,Yes,2023-09-01,42174.0,3.6
+Ahmedabad,Plot Area,3 BHK,744,44.36,3,2,Dec 2024,No,Semi-Furnished,New Property,South,No,2024-04-30,13308.0,3.6
+Delhi,Built-up Area,1 RK,1305,57.84,1,3,Mar 2025,No,Unfurnished,New Property,West,Yes,2024-05-04,17352.0,3.6
+Bengaluru,Built-up Area,4 BHK,2240,156.93,2,1,Ready to Move,Yes,Semi-Furnished,New Property,South,No,2024-09-18,47079.0,3.6
+Ahmedabad,Super built-up Area,4 BHK,414,20.93,3,0,Dec 2024,No,Semi-Furnished,New Property,North,No,2025-01-28,6279.0,3.6
+Hyderabad,Built-up Area,2 RK,1578,65.27,1,3,Mar 2025,No,Fully Furnished,New Property,West,No,2024-10-17,19581.0,3.6
+Mumbai,Carpet Area,4 BHK,1902,138.8,4,3,Jun 2025,No,Unfurnished,Resale,East,No,2025-02-07,41640.0,3.6
+Mumbai,Super built-up Area,2 BHK,2058,101.5,3,3,Mar 2025,No,Semi-Furnished,New Property,North,No,2024-10-20,30450.0,3.6
+Pune,Carpet Area,2 RK,2801,141.91,2,3,Sep 2024,No,Fully Furnished,Resale,East,No,2023-11-15,42573.0,3.6
+Kolkata,Super built-up Area,1 RK,2940,298.87,3,0,Mar 2025,No,Fully Furnished,New Property,West,No,2024-04-30,89661.0,3.6
+Hyderabad,Built-up Area,2 BHK,939,85.35,3,3,Ready to Move,Yes,Unfurnished,New Property,West,Yes,2023-09-13,25605.0,3.6
+Delhi,Plot Area,1 RK,1580,121.94,3,1,Mar 2025,No,Unfurnished,New Property,East,Yes,2023-08-19,36582.0,3.6
+Ahmedabad,Carpet Area,2 RK,1069,48.44,2,2,Jun 2025,No,Semi-Furnished,New Property,West,No,2024-06-08,14532.0,3.6
+Ahmedabad,Carpet Area,1 BHK,2502,232.88,2,1,Dec 2024,No,Semi-Furnished,Resale,East,No,2023-09-16,69864.0,3.6
+Hyderabad,Super built-up Area,4 BHK,2538,98.25,1,1,Mar 2025,No,Fully Furnished,Resale,South,No,2024-03-29,29475.0,3.6
+Hyderabad,Carpet Area,1 BHK,1729,127.34,4,2,Sep 2024,No,Semi-Furnished,New Property,West,Yes,2023-10-24,38202.0,3.6
+Ahmedabad,Built-up Area,2 BHK,2017,192.22,1,0,Sep 2024,No,Unfurnished,Resale,East,No,2024-06-05,57666.0,3.6
+Bengaluru,Super built-up Area,1 BHK,2114,125.15,3,3,Sep 2024,No,Semi-Furnished,Resale,North,No,2023-09-08,37545.0,3.6
+Kolkata,Plot Area,3 BHK,1868,189.85,3,0,Dec 2024,No,Semi-Furnished,Resale,South,No,2025-07-15,56955.0,3.6
+Mumbai,Super built-up Area,4 BHK,2545,174.28,4,1,Mar 2025,No,Fully Furnished,New Property,North,Yes,2024-05-22,52284.0,3.6
+Kolkata,Plot Area,3 BHK,1731,74.41,2,2,Mar 2025,No,Semi-Furnished,New Property,South,No,2025-07-15,22323.0,3.6
+Bengaluru,Built-up Area,2 BHK,2567,168.11,4,0,Sep 2024,No,Unfurnished,Resale,South,Yes,2025-05-16,50433.0,3.6
+Ahmedabad,Super built-up Area,2 BHK,2072,102.67,3,2,Dec 2024,No,Unfurnished,Resale,East,Yes,2025-06-04,30801.0,3.6
+Pune,Super built-up Area,1 RK,2904,261.92,2,0,Sep 2024,No,Semi-Furnished,New Property,West,No,2023-09-05,78576.0,3.6
+Mumbai,Carpet Area,2 RK,671,64.94,4,3,Sep 2024,No,Semi-Furnished,New Property,North,No,2025-02-14,19482.0,3.6
+Hyderabad,Super built-up Area,2 BHK,1885,121.0,3,0,Mar 2025,No,Semi-Furnished,New Property,South,Yes,2024-07-23,36300.0,3.6
+Kolkata,Carpet Area,3 BHK,2486,268.55,1,2,Jun 2025,No,Fully Furnished,New Property,North,Yes,2024-08-10,80565.0,3.6
+Mumbai,Built-up Area,2 RK,2170,76.13,3,2,Dec 2024,No,Fully Furnished,New Property,West,Yes,2024-07-23,22839.0,3.6
+Bengaluru,Plot Area,1 RK,1548,125.06,1,3,Dec 2024,No,Semi-Furnished,New Property,East,Yes,2025-04-13,37518.0,3.6
+Ahmedabad,Carpet Area,4 BHK,1570,117.66,4,2,Sep 2024,No,Semi-Furnished,New Property,North,Yes,2024-02-11,35298.0,3.6
+Kolkata,Plot Area,2 RK,2540,226.37,2,0,Sep 2024,No,Fully Furnished,New Property,North,No,2023-08-07,67911.0,3.6
+Hyderabad,Super built-up Area,1 RK,2121,99.56,2,1,Jun 2025,No,Unfurnished,Resale,South,No,2025-02-01,29868.0,3.6
+Ahmedabad,Carpet Area,4 BHK,1598,167.16,2,0,Jun 2025,No,Unfurnished,New Property,South,No,2025-01-15,50148.0,3.6
+Chennai,Super built-up Area,3 BHK,777,84.41,1,3,Sep 2024,No,Fully Furnished,New Property,North,Yes,2024-06-25,25323.0,3.6
+Pune,Plot Area,1 RK,1679,110.94,1,3,Dec 2024,No,Unfurnished,New Property,South,Yes,2024-12-07,33282.0,3.6
+Ahmedabad,Super built-up Area,4 BHK,2958,215.03,1,1,Dec 2024,No,Unfurnished,Resale,East,Yes,2023-07-26,64509.0,3.6
+Kolkata,Plot Area,3 BHK,2620,215.04,4,0,Sep 2024,No,Semi-Furnished,Resale,South,No,2023-07-31,64512.0,3.6
+Hyderabad,Super built-up Area,2 RK,2223,147.95,3,2,Dec 2024,No,Fully Furnished,New Property,East,No,2024-12-17,44385.0,3.6
+Ahmedabad,Super built-up Area,3 BHK,2788,111.13,4,0,Sep 2024,No,Fully Furnished,Resale,North,No,2025-01-30,33339.0,3.6
+Kolkata,Built-up Area,1 RK,1479,112.83,4,3,Dec 2024,No,Fully Furnished,New Property,West,Yes,2023-08-19,33849.0,3.6
+Ahmedabad,Carpet Area,1 BHK,1018,53.79,4,0,Dec 2024,No,Unfurnished,New Property,North,Yes,2024-01-07,16137.0,3.6
+Delhi,Built-up Area,1 RK,2611,193.8,4,0,Sep 2024,No,Unfurnished,New Property,South,Yes,2024-06-04,58140.0,3.6
+Kolkata,Super built-up Area,1 BHK,592,40.91,2,1,Jun 2025,No,Unfurnished,New Property,South,Yes,2024-12-03,12273.0,3.6
+Hyderabad,Carpet Area,2 RK,1644,132.44,4,0,Dec 2024,No,Fully Furnished,Resale,East,No,2024-03-05,39732.0,3.6
+Pune,Carpet Area,1 RK,2915,192.48,2,1,Mar 2025,No,Semi-Furnished,Resale,East,No,2024-04-24,57744.0,3.6
+Chennai,Super built-up Area,2 BHK,1293,54.97,3,2,Ready to Move,Yes,Fully Furnished,Resale,South,Yes,2024-07-19,16491.0,3.6
+Bengaluru,Super built-up Area,1 RK,2359,191.88,2,2,Mar 2025,No,Semi-Furnished,New Property,North,No,2024-02-15,57564.0,3.6
+Chennai,Super built-up Area,1 BHK,1675,66.65,4,0,Ready to Move,Yes,Unfurnished,New Property,North,Yes,2024-12-29,19995.0,3.6
+Kolkata,Carpet Area,1 BHK,1728,141.84,4,0,Ready to Move,Yes,Fully Furnished,Resale,South,No,2024-01-17,42552.0,3.6
+Mumbai,Built-up Area,2 BHK,1639,156.23,3,2,Jun 2025,No,Fully Furnished,Resale,North,No,2024-03-23,46869.0,3.6
+Hyderabad,Super built-up Area,2 BHK,2133,190.74,4,2,Ready to Move,Yes,Unfurnished,Resale,West,Yes,2023-11-01,57222.0,3.6
+Pune,Carpet Area,2 BHK,2442,178.15,2,0,Mar 2025,No,Fully Furnished,Resale,North,No,2023-07-28,53445.0,3.6
+Bengaluru,Built-up Area,2 RK,2198,115.43,4,1,Ready to Move,Yes,Unfurnished,New Property,North,No,2023-07-29,34629.0,3.6
+Hyderabad,Built-up Area,2 BHK,1328,63.92,1,3,Mar 2025,No,Unfurnished,Resale,North,Yes,2023-12-01,19176.0,3.6
+Kolkata,Carpet Area,1 BHK,2311,238.68,3,2,Jun 2025,No,Semi-Furnished,Resale,South,Yes,2025-03-17,71604.0,3.6
+Pune,Plot Area,1 RK,1560,130.69,4,2,Sep 2024,No,Unfurnished,Resale,East,No,2025-07-17,39207.0,3.6
+Pune,Super built-up Area,2 BHK,1078,43.95,1,3,Sep 2024,No,Fully Furnished,New Property,North,Yes,2024-11-29,13185.0,3.6
+Hyderabad,Plot Area,2 RK,2364,151.28,1,2,Sep 2024,No,Unfurnished,Resale,South,No,2025-06-24,45384.0,3.6
+Bengaluru,Built-up Area,1 RK,2059,116.63,2,1,Ready to Move,Yes,Unfurnished,Resale,North,Yes,2023-12-10,34989.0,3.6
+Kolkata,Built-up Area,1 BHK,2684,273.24,4,3,Jun 2025,No,Semi-Furnished,New Property,South,No,2024-05-23,81972.0,3.6
+Kolkata,Super built-up Area,1 BHK,971,106.62,4,1,Mar 2025,No,Unfurnished,New Property,West,Yes,2025-03-06,31986.0,3.6
+Chennai,Plot Area,1 RK,2810,213.04,1,1,Jun 2025,No,Semi-Furnished,New Property,South,No,2024-07-19,63912.0,3.6
+Mumbai,Super built-up Area,4 BHK,2252,182.57,3,1,Mar 2025,No,Semi-Furnished,Resale,East,No,2024-09-23,54771.0,3.6
+Mumbai,Built-up Area,2 BHK,1404,130.94,3,0,Jun 2025,No,Semi-Furnished,Resale,North,No,2024-09-09,39282.0,3.6
+Bengaluru,Carpet Area,1 BHK,850,64.79,2,3,Dec 2024,No,Semi-Furnished,New Property,East,No,2023-10-01,19437.0,3.6
+Kolkata,Plot Area,3 BHK,2786,255.88,2,3,Jun 2025,No,Semi-Furnished,Resale,East,No,2023-11-06,76764.0,3.6
+Mumbai,Super built-up Area,2 BHK,2642,156.55,2,2,Mar 2025,No,Unfurnished,New Property,North,No,2023-08-21,46965.0,3.6
+Hyderabad,Carpet Area,4 BHK,976,47.38,2,0,Mar 2025,No,Semi-Furnished,New Property,West,Yes,2024-11-04,14214.0,3.6
+Pune,Plot Area,4 BHK,742,46.77,4,2,Sep 2024,No,Unfurnished,New Property,North,Yes,2025-03-25,14031.0,3.6
+Hyderabad,Carpet Area,1 RK,2517,176.17,3,1,Ready to Move,Yes,Unfurnished,New Property,North,Yes,2023-12-01,52851.0,3.6
+Pune,Plot Area,2 BHK,2205,159.13,4,3,Ready to Move,Yes,Fully Furnished,New Property,East,No,2024-02-22,47739.0,3.6
+Mumbai,Super built-up Area,1 BHK,2595,184.33,2,0,Mar 2025,No,Unfurnished,New Property,North,Yes,2025-05-15,55299.0,3.6
+Hyderabad,Built-up Area,4 BHK,2371,178.1,2,0,Ready to Move,Yes,Semi-Furnished,New Property,South,Yes,2025-06-04,53430.0,3.6
+Kolkata,Plot Area,4 BHK,1633,72.94,4,0,Jun 2025,No,Fully Furnished,New Property,West,No,2023-12-06,21882.0,3.6
+Chennai,Built-up Area,2 RK,695,43.73,3,1,Dec 2024,No,Unfurnished,Resale,East,Yes,2025-01-12,13119.0,3.6
+Chennai,Super built-up Area,2 BHK,2457,165.55,3,2,Ready to Move,Yes,Fully Furnished,Resale,West,Yes,2024-09-28,49665.0,3.6
+Delhi,Super built-up Area,3 BHK,1028,38.09,4,3,Ready to Move,Yes,Unfurnished,Resale,East,No,2024-08-27,11427.0,3.6
+Bengaluru,Super built-up Area,1 BHK,2045,136.67,2,1,Sep 2024,No,Unfurnished,New Property,West,Yes,2024-10-09,41001.0,3.6
+Mumbai,Super built-up Area,3 BHK,1350,135.24,2,1,Dec 2024,No,Unfurnished,Resale,South,Yes,2023-09-19,40572.0,3.6
+Mumbai,Super built-up Area,2 RK,2914,267.54,1,0,Dec 2024,No,Semi-Furnished,Resale,West,Yes,2023-12-09,80262.0,3.6
+Delhi,Built-up Area,2 BHK,1113,69.31,4,0,Dec 2024,No,Unfurnished,New Property,North,No,2024-05-25,20793.0,3.6
+Hyderabad,Plot Area,2 BHK,1287,74.42,4,2,Mar 2025,No,Fully Furnished,Resale,South,Yes,2025-01-24,22326.0,3.6
+Hyderabad,Carpet Area,4 BHK,1191,65.59,1,2,Dec 2024,No,Semi-Furnished,Resale,South,Yes,2024-10-10,19677.0,3.6
+Pune,Built-up Area,1 RK,2332,226.85,3,3,Ready to Move,Yes,Semi-Furnished,New Property,South,No,2024-07-06,68055.0,3.6
+Pune,Super built-up Area,3 BHK,2398,221.34,4,1,Mar 2025,No,Unfurnished,New Property,South,No,2024-09-16,66402.0,3.6
+Delhi,Plot Area,4 BHK,1913,98.4,4,2,Dec 2024,No,Semi-Furnished,Resale,North,No,2024-05-02,29520.0,3.6
+Pune,Built-up Area,3 BHK,1253,96.59,4,1,Sep 2024,No,Fully Furnished,Resale,West,Yes,2024-09-27,28977.0,3.6
+Chennai,Carpet Area,4 BHK,2826,130.86,1,2,Jun 2025,No,Unfurnished,New Property,South,No,2024-12-31,39258.0,3.6
+Chennai,Plot Area,3 BHK,1270,134.0,3,3,Sep 2024,No,Semi-Furnished,Resale,West,Yes,2024-05-24,40200.0,3.6
+Delhi,Carpet Area,2 RK,2605,119.92,4,1,Sep 2024,No,Fully Furnished,New Property,South,Yes,2024-07-23,35976.0,3.6
+Chennai,Super built-up Area,1 BHK,2012,205.77,2,3,Ready to Move,Yes,Unfurnished,New Property,East,No,2024-12-19,61731.0,3.6
