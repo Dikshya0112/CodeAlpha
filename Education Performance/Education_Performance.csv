@@ -1,0 +1,1001 @@
+StudentID,Department,Subject,Score,Grade,Semester,Year,Attendance(%),LibraryUsage,LabHours,TeachersAllocated,ClassroomsAllocated,FundingAllocated
+S0001,Medicine,Anatomy,89,A,4,2024,98,0,5,4,3,321316
+S0002,Arts,History,96,A,8,2026,93,6,37,5,2,713476
+S0003,Medicine,Physiology,52,C,7,2025,54,0,26,5,4,474094
+S0004,Engineering,Electronics,78,B,2,2023,53,3,39,8,4,137614
+S0005,Commerce,Accounting,41,D,3,2023,83,26,30,3,5,341544
+S0006,Science,Math,73,B,3,2023,89,30,41,1,4,373974
+S0007,Commerce,Economics,84,B,6,2025,51,16,6,7,2,772081
+S0008,Commerce,Economics,70,B,6,2025,86,30,13,1,2,569674
+S0009,Medicine,Anatomy,46,D,5,2024,58,28,48,5,5,560246
+S0010,Engineering,Civil,44,D,7,2025,90,11,25,2,1,589431
+S0011,Engineering,Electronics,41,D,7,2025,54,25,21,9,3,180692
+S0012,Arts,Sociology,93,A,5,2024,75,11,50,8,4,949913
+S0013,Science,Math,100,A,6,2025,79,12,28,5,5,690261
+S0014,Arts,Political Science,73,B,1,2022,65,17,38,10,3,123789
+S0015,Engineering,Electronics,38,D,4,2024,89,20,14,3,5,952151
+S0016,Medicine,Pathology,96,A,4,2024,72,21,20,7,1,580649
+S0017,Arts,Political Science,71,B,7,2025,68,18,22,3,4,484550
+S0018,Medicine,Pharmacology,89,A,5,2024,76,30,10,2,2,898007
+S0019,Medicine,Physiology,82,B,4,2024,84,5,5,10,2,296077
+S0020,Science,Biology,32,D,8,2026,50,8,30,4,3,771064
+S0021,Arts,Sociology,48,D,5,2024,82,18,38,4,2,753741
+S0022,Arts,Political Science,87,A,5,2024,98,16,39,3,2,384010
+S0023,Commerce,Business Studies,89,A,3,2023,68,23,48,6,5,205696
+S0024,Science,Chemistry,93,A,8,2026,55,10,24,9,1,679165
+S0025,Engineering,Electronics,45,D,5,2024,97,20,1,5,2,728063
+S0026,Engineering,Computer Science,63,C,8,2026,50,23,26,9,3,678897
+S0027,Science,Math,65,C,2,2023,96,25,22,6,1,561401
+S0028,Medicine,Physiology,60,C,3,2023,91,13,13,6,4,692163
+S0029,Arts,Political Science,83,B,1,2022,69,26,2,3,3,978197
+S0030,Engineering,Electronics,33,D,6,2025,96,24,39,8,3,678920
+S0031,Commerce,Statistics,34,D,2,2023,87,2,24,8,4,944024
+S0032,Science,Math,62,C,7,2025,56,15,35,5,1,949872
+S0033,Arts,Sociology,66,C,1,2022,74,12,3,10,4,240057
+S0034,Arts,Sociology,66,C,2,2023,52,21,8,2,5,666615
+S0035,Engineering,Mechanical,56,C,3,2023,96,17,2,3,2,636182
+S0036,Science,Biology,64,C,7,2025,100,24,18,3,2,596888
+S0037,Commerce,Accounting,41,D,2,2023,55,18,0,9,2,634261
+S0038,Medicine,Pathology,52,C,3,2023,94,9,23,7,2,793216
+S0039,Arts,Philosophy,95,A,5,2024,66,16,18,2,4,314389
+S0040,Science,Math,61,C,5,2024,50,9,39,10,2,711947
+S0041,Engineering,Computer Science,51,C,8,2026,78,17,3,9,2,686487
+S0042,Science,Math,57,C,4,2024,83,12,26,10,5,800342
+S0043,Medicine,Pharmacology,35,D,4,2024,79,13,0,3,1,575643
+S0044,Commerce,Statistics,35,D,2,2023,88,4,49,3,5,814953
+S0045,Commerce,Business Studies,44,D,8,2026,97,21,2,10,2,294968
+S0046,Science,Math,47,D,6,2025,77,7,45,4,4,587925
+S0047,Commerce,Accounting,48,D,7,2025,98,6,13,7,2,884328
+S0048,Science,Math,54,C,4,2024,77,13,41,4,3,647199
+S0049,Arts,Political Science,52,C,7,2025,89,22,26,10,3,820116
+S0050,Medicine,Pathology,74,B,7,2025,67,25,30,10,2,459161
+S0051,Arts,Sociology,54,C,1,2022,57,10,41,3,4,972828
+S0052,Arts,Philosophy,78,B,7,2025,78,1,14,7,5,663441
+S0053,Engineering,Civil,81,B,1,2022,53,15,9,9,3,137928
+S0054,Medicine,Pharmacology,91,A,8,2026,80,0,1,10,3,981946
+S0055,Science,Biology,49,D,2,2023,89,27,50,10,1,751610
+S0056,Medicine,Pathology,73,B,7,2025,83,10,9,7,1,749471
+S0057,Commerce,Accounting,49,D,8,2026,52,24,41,2,2,329264
+S0058,Science,Chemistry,63,C,7,2025,86,13,49,2,5,901171
+S0059,Engineering,Civil,41,D,3,2023,100,30,26,10,5,480627
+S0060,Arts,Political Science,69,C,8,2026,68,27,16,8,2,942364
+S0061,Engineering,Electronics,56,C,3,2023,74,5,40,6,3,518616
+S0062,Arts,Philosophy,51,C,6,2025,98,3,47,1,5,807568
+S0063,Engineering,Civil,57,C,8,2026,100,6,48,8,1,132353
+S0064,Commerce,Business Studies,31,D,7,2025,91,13,7,4,3,170214
+S0065,Science,Math,66,C,2,2023,71,24,26,6,5,488028
+S0066,Commerce,Statistics,82,B,5,2024,66,30,13,10,5,315393
+S0067,Science,Chemistry,71,B,2,2023,63,6,28,6,5,374992
+S0068,Engineering,Electronics,37,D,6,2025,89,0,1,1,2,808415
+S0069,Science,Chemistry,89,A,2,2023,88,12,41,4,4,472132
+S0070,Medicine,Pathology,79,B,2,2023,94,7,41,10,5,467765
+S0071,Engineering,Computer Science,62,C,6,2025,60,0,25,6,5,100740
+S0072,Commerce,Business Studies,80,B,6,2025,91,30,11,10,5,188196
+S0073,Science,Math,53,C,6,2025,67,22,9,4,4,424795
+S0074,Commerce,Economics,73,B,6,2025,65,7,37,8,5,175579
+S0075,Commerce,Accounting,69,C,2,2023,100,1,39,1,5,719543
+S0076,Arts,Political Science,98,A,6,2025,90,5,26,2,3,464729
+S0077,Engineering,Computer Science,59,C,6,2025,88,4,34,10,3,299851
+S0078,Engineering,Civil,81,B,4,2024,71,21,18,4,1,587376
+S0079,Science,Math,31,D,7,2025,98,22,45,1,2,774890
+S0080,Commerce,Statistics,80,B,7,2025,65,7,18,3,5,911630
+S0081,Arts,Sociology,50,C,5,2024,61,28,42,3,3,844544
+S0082,Commerce,Economics,42,D,7,2025,69,23,11,5,4,213682
+S0083,Arts,Philosophy,53,C,7,2025,99,23,36,3,2,230156
+S0084,Arts,Sociology,97,A,4,2024,98,9,45,6,4,185877
+S0085,Medicine,Anatomy,80,B,4,2024,69,22,36,8,4,796106
+S0086,Commerce,Accounting,54,C,4,2024,68,16,29,10,5,285920
+S0087,Science,Physics,39,D,5,2024,62,16,33,8,5,316553
+S0088,Engineering,Electronics,64,C,5,2024,55,1,24,3,4,883136
+S0089,Medicine,Physiology,59,C,5,2024,91,21,31,10,3,262713
+S0090,Arts,History,85,A,6,2025,72,2,34,6,5,345293
+S0091,Medicine,Physiology,69,C,7,2025,58,6,17,1,3,997863
+S0092,Science,Math,59,C,2,2023,67,13,36,5,3,603763
+S0093,Arts,History,69,C,2,2023,50,17,21,2,1,755361
+S0094,Science,Physics,100,A,4,2024,52,29,9,1,3,468231
+S0095,Commerce,Business Studies,86,A,6,2025,76,29,34,1,2,582159
+S0096,Commerce,Economics,68,C,2,2023,94,29,48,3,5,868967
+S0097,Commerce,Economics,32,D,6,2025,95,3,34,9,4,124572
+S0098,Science,Chemistry,50,C,7,2025,82,17,44,9,1,387295
+S0099,Arts,Sociology,96,A,3,2023,63,12,42,1,1,827246
+S0100,Medicine,Pathology,90,A,3,2023,54,26,28,8,5,811065
+S0101,Medicine,Pharmacology,89,A,8,2026,54,5,24,2,4,141528
+S0102,Engineering,Mechanical,57,C,8,2026,100,2,15,9,4,968318
+S0103,Commerce,Economics,87,A,6,2025,50,17,47,8,1,863401
+S0104,Medicine,Pharmacology,85,A,6,2025,51,15,0,5,1,843619
+S0105,Engineering,Electronics,93,A,2,2023,72,25,3,4,3,271025
+S0106,Engineering,Computer Science,44,D,3,2023,50,3,2,4,5,259908
+S0107,Science,Biology,54,C,4,2024,92,18,31,4,2,558320
+S0108,Medicine,Pathology,69,C,7,2025,59,14,36,1,5,300918
+S0109,Commerce,Economics,33,D,7,2025,60,3,25,1,3,730092
+S0110,Engineering,Computer Science,53,C,8,2026,65,30,16,3,1,734514
+S0111,Commerce,Business Studies,97,A,2,2023,99,2,48,2,2,986234
+S0112,Medicine,Physiology,55,C,8,2026,71,26,14,7,5,697842
+S0113,Medicine,Physiology,45,D,3,2023,86,1,4,3,3,230652
+S0114,Arts,Sociology,40,D,7,2025,99,6,38,9,4,109707
+S0115,Arts,Philosophy,41,D,8,2026,72,18,48,10,1,554419
+S0116,Engineering,Computer Science,63,C,8,2026,95,15,5,2,4,275152
+S0117,Science,Chemistry,75,B,2,2023,74,0,5,9,5,386215
+S0118,Medicine,Anatomy,57,C,4,2024,60,30,31,2,3,378349
+S0119,Science,Physics,44,D,6,2025,95,14,23,10,3,868573
+S0120,Commerce,Business Studies,78,B,4,2024,89,21,42,4,5,979201
+S0121,Medicine,Physiology,96,A,7,2025,85,3,36,6,3,605901
+S0122,Commerce,Statistics,62,C,5,2024,72,21,28,6,1,356123
+S0123,Science,Math,91,A,6,2025,57,12,29,7,3,263959
+S0124,Medicine,Pharmacology,49,D,8,2026,70,18,17,3,2,990784
+S0125,Science,Math,73,B,1,2022,85,17,25,7,5,248979
+S0126,Commerce,Business Studies,80,B,3,2023,71,20,19,5,4,115065
+S0127,Science,Math,65,C,5,2024,61,1,10,4,4,290157
+S0128,Medicine,Physiology,56,C,5,2024,98,10,9,10,1,111597
+S0129,Medicine,Physiology,79,B,6,2025,50,16,41,5,3,657123
+S0130,Commerce,Statistics,73,B,8,2026,62,12,41,9,5,528506
+S0131,Commerce,Accounting,78,B,6,2025,60,2,13,3,5,456236
+S0132,Arts,Philosophy,38,D,1,2022,62,26,24,5,2,658644
+S0133,Medicine,Anatomy,47,D,3,2023,86,9,30,10,3,787711
+S0134,Science,Chemistry,98,A,5,2024,59,7,37,8,3,929008
+S0135,Engineering,Electronics,54,C,5,2024,68,13,35,8,4,146285
+S0136,Engineering,Civil,63,C,4,2024,65,13,19,9,2,960721
+S0137,Science,Physics,40,D,2,2023,56,2,4,7,3,160217
+S0138,Commerce,Accounting,62,C,7,2025,58,11,36,3,2,283627
+S0139,Arts,History,52,C,4,2024,96,20,29,9,2,674824
+S0140,Arts,Philosophy,42,D,8,2026,64,21,4,4,4,655692
+S0141,Arts,Sociology,90,A,8,2026,81,8,29,5,5,460370
+S0142,Commerce,Statistics,78,B,4,2024,75,13,25,7,4,481501
+S0143,Medicine,Anatomy,53,C,8,2026,52,29,10,1,4,834069
+S0144,Commerce,Business Studies,49,D,2,2023,50,9,44,4,5,898513
+S0145,Science,Biology,97,A,6,2025,51,21,21,4,5,100101
+S0146,Commerce,Business Studies,77,B,4,2024,60,6,3,1,2,660118
+S0147,Science,Chemistry,82,B,6,2025,92,0,26,7,5,435008
+S0148,Commerce,Accounting,74,B,5,2024,50,14,39,4,1,649037
+S0149,Medicine,Anatomy,98,A,4,2024,50,4,28,4,4,142354
+S0150,Medicine,Pathology,76,B,6,2025,80,29,26,10,2,491378
+S0151,Medicine,Physiology,62,C,2,2023,93,23,17,8,5,133034
+S0152,Medicine,Anatomy,54,C,3,2023,52,4,45,4,2,315410
+S0153,Engineering,Computer Science,94,A,4,2024,66,14,25,7,4,483472
+S0154,Engineering,Civil,89,A,1,2022,52,18,16,8,4,380514
+S0155,Engineering,Civil,92,A,2,2023,100,15,46,2,5,970184
+S0156,Arts,Philosophy,98,A,1,2022,58,5,13,8,1,103660
+S0157,Commerce,Statistics,79,B,7,2025,86,27,38,9,3,863554
+S0158,Commerce,Business Studies,79,B,4,2024,55,8,35,7,1,490462
+S0159,Medicine,Anatomy,46,D,3,2023,58,25,2,8,3,645010
+S0160,Medicine,Physiology,62,C,2,2023,94,13,43,10,1,877087
+S0161,Engineering,Computer Science,48,D,3,2023,100,19,11,3,4,975499
+S0162,Science,Physics,53,C,8,2026,79,12,9,4,2,140922
+S0163,Science,Biology,51,C,1,2022,71,29,6,9,1,712093
+S0164,Commerce,Business Studies,63,C,3,2023,92,9,39,3,2,855281
+S0165,Engineering,Computer Science,64,C,6,2025,81,15,0,4,5,663571
+S0166,Engineering,Computer Science,70,B,6,2025,63,28,37,1,2,838332
+S0167,Medicine,Pathology,96,A,5,2024,96,15,29,8,5,406283
+S0168,Medicine,Physiology,91,A,1,2022,63,6,3,4,3,308043
+S0169,Medicine,Pharmacology,52,C,6,2025,53,23,28,7,3,973224
+S0170,Arts,Political Science,45,D,7,2025,69,24,47,4,4,873074
+S0171,Commerce,Business Studies,44,D,2,2023,96,18,43,3,2,120268
+S0172,Science,Chemistry,68,C,6,2025,85,30,4,9,1,386052
+S0173,Arts,Political Science,99,A,3,2023,60,30,38,2,3,832681
+S0174,Arts,Sociology,34,D,2,2023,55,5,10,6,2,912136
+S0175,Arts,Philosophy,98,A,4,2024,50,9,11,1,4,564393
+S0176,Medicine,Anatomy,71,B,5,2024,77,20,22,3,1,307635
+S0177,Science,Chemistry,67,C,8,2026,50,11,16,2,2,464323
+S0178,Commerce,Accounting,83,B,3,2023,87,3,43,2,3,330395
+S0179,Commerce,Economics,87,A,3,2023,100,11,42,6,3,775507
+S0180,Engineering,Electronics,89,A,7,2025,81,13,19,4,3,512979
+S0181,Science,Chemistry,90,A,7,2025,62,17,24,1,5,230013
+S0182,Science,Chemistry,67,C,6,2025,72,20,28,9,1,701457
+S0183,Commerce,Business Studies,77,B,7,2025,89,2,17,10,4,794813
+S0184,Science,Physics,97,A,5,2024,72,29,45,1,3,342841
+S0185,Science,Physics,31,D,7,2025,50,24,8,7,1,918501
+S0186,Commerce,Business Studies,47,D,4,2024,53,1,26,9,4,583741
+S0187,Science,Biology,35,D,3,2023,87,22,34,5,3,205605
+S0188,Arts,Political Science,93,A,8,2026,57,6,27,5,3,854514
+S0189,Engineering,Electronics,70,B,5,2024,92,2,13,2,3,836754
+S0190,Commerce,Accounting,42,D,2,2023,90,24,2,2,4,107971
+S0191,Commerce,Statistics,41,D,2,2023,78,3,39,1,5,806232
+S0192,Science,Chemistry,50,C,6,2025,80,18,47,7,5,704703
+S0193,Engineering,Computer Science,93,A,8,2026,76,18,18,10,3,381250
+S0194,Engineering,Civil,42,D,5,2024,56,6,38,10,4,714531
+S0195,Arts,Political Science,73,B,8,2026,63,23,16,4,4,829733
+S0196,Medicine,Anatomy,57,C,5,2024,82,10,26,4,4,288053
+S0197,Arts,Political Science,70,B,8,2026,99,14,19,4,5,815244
+S0198,Science,Biology,94,A,2,2023,52,15,6,1,4,467805
+S0199,Engineering,Electronics,100,A,8,2026,65,8,38,2,4,308758
+S0200,Engineering,Computer Science,56,C,4,2024,76,0,41,10,3,634075
+S0201,Engineering,Civil,58,C,8,2026,87,3,39,8,5,357907
+S0202,Science,Math,59,C,4,2024,63,3,19,4,5,179334
+S0203,Medicine,Pathology,84,B,2,2023,54,23,5,1,5,578551
+S0204,Arts,History,41,D,6,2025,88,9,4,9,4,133057
+S0205,Engineering,Civil,81,B,3,2023,71,0,33,1,5,674911
+S0206,Medicine,Physiology,57,C,1,2022,93,17,8,1,4,449844
+S0207,Engineering,Civil,92,A,4,2024,81,13,12,10,4,329465
+S0208,Science,Physics,68,C,2,2023,60,21,17,10,1,504927
+S0209,Arts,Sociology,69,C,7,2025,51,1,16,6,1,973738
+S0210,Science,Physics,62,C,8,2026,72,17,25,10,4,257493
+S0211,Science,Chemistry,49,D,2,2023,91,20,20,9,3,374052
+S0212,Arts,Political Science,33,D,1,2022,84,19,19,8,2,714690
+S0213,Commerce,Business Studies,86,A,8,2026,84,30,22,7,4,531371
+S0214,Commerce,Accounting,56,C,4,2024,89,24,20,3,1,246404
+S0215,Medicine,Pharmacology,82,B,8,2026,63,11,34,10,2,678746
+S0216,Science,Physics,68,C,8,2026,56,25,10,2,3,808153
+S0217,Medicine,Anatomy,60,C,7,2025,87,9,14,5,1,695430
+S0218,Commerce,Accounting,79,B,5,2024,94,20,29,5,2,300198
+S0219,Commerce,Statistics,35,D,7,2025,82,14,33,10,5,537531
+S0220,Medicine,Physiology,70,B,1,2022,89,18,12,6,5,366358
+S0221,Engineering,Computer Science,77,B,6,2025,76,2,10,2,5,843290
+S0222,Commerce,Accounting,73,B,8,2026,71,2,16,2,4,608667
+S0223,Commerce,Business Studies,70,B,8,2026,95,17,41,3,5,640909
+S0224,Arts,History,100,A,1,2022,53,9,41,10,4,545008
+S0225,Commerce,Statistics,54,C,4,2024,76,19,40,7,2,700389
+S0226,Engineering,Mechanical,69,C,4,2024,74,19,3,4,3,488089
+S0227,Engineering,Mechanical,100,A,4,2024,90,17,25,6,4,700272
+S0228,Science,Physics,82,B,8,2026,57,14,41,1,1,797773
+S0229,Science,Physics,57,C,7,2025,92,0,7,2,2,716598
+S0230,Arts,Sociology,91,A,3,2023,64,15,49,7,5,176236
+S0231,Medicine,Anatomy,38,D,2,2023,61,3,48,6,5,193293
+S0232,Commerce,Economics,34,D,4,2024,59,15,32,3,5,285114
+S0233,Engineering,Computer Science,99,A,2,2023,93,29,22,9,2,217894
+S0234,Engineering,Civil,70,B,5,2024,91,8,18,6,3,995643
+S0235,Commerce,Accounting,66,C,8,2026,77,30,9,4,5,768944
+S0236,Science,Chemistry,48,D,8,2026,99,28,21,8,1,104489
+S0237,Commerce,Economics,74,B,6,2025,71,30,33,5,1,561100
+S0238,Arts,Political Science,60,C,8,2026,65,12,13,5,1,603281
+S0239,Commerce,Accounting,32,D,8,2026,50,11,45,8,4,640349
+S0240,Arts,Political Science,73,B,5,2024,80,3,4,3,4,566965
+S0241,Arts,History,67,C,8,2026,61,13,22,4,1,671121
+S0242,Engineering,Computer Science,88,A,7,2025,52,17,5,5,5,153172
+S0243,Commerce,Accounting,69,C,5,2024,53,21,36,3,2,783189
+S0244,Arts,Philosophy,44,D,6,2025,98,21,21,5,5,256719
+S0245,Commerce,Economics,60,C,6,2025,90,29,28,3,1,609091
+S0246,Medicine,Physiology,30,D,6,2025,82,15,29,3,1,739428
+S0247,Engineering,Mechanical,74,B,5,2024,90,17,16,4,1,272068
+S0248,Arts,Philosophy,31,D,7,2025,97,12,33,5,2,189458
+S0249,Medicine,Physiology,68,C,3,2023,74,28,47,7,2,946616
+S0250,Arts,Philosophy,40,D,3,2023,90,16,24,7,4,523176
+S0251,Commerce,Statistics,59,C,1,2022,58,11,8,9,3,954560
+S0252,Arts,Philosophy,87,A,2,2023,88,17,44,4,3,483999
+S0253,Engineering,Mechanical,56,C,2,2023,62,20,38,4,2,386115
+S0254,Commerce,Accounting,70,B,6,2025,97,27,50,8,4,557526
+S0255,Engineering,Computer Science,93,A,6,2025,96,1,20,2,5,547028
+S0256,Engineering,Electronics,55,C,4,2024,82,0,36,2,5,353587
+S0257,Science,Math,43,D,5,2024,64,7,0,1,3,846992
+S0258,Science,Chemistry,72,B,4,2024,56,4,37,5,3,233400
+S0259,Medicine,Anatomy,87,A,1,2022,68,28,38,6,1,879215
+S0260,Engineering,Mechanical,33,D,8,2026,99,4,8,3,3,793114
+S0261,Commerce,Accounting,85,A,8,2026,72,10,44,9,2,239557
+S0262,Engineering,Mechanical,95,A,8,2026,76,22,2,4,3,115328
+S0263,Engineering,Civil,97,A,5,2024,59,22,32,1,3,872877
+S0264,Science,Biology,60,C,7,2025,71,26,43,3,3,598781
+S0265,Engineering,Mechanical,42,D,4,2024,100,27,39,10,1,689166
+S0266,Commerce,Statistics,34,D,8,2026,55,7,22,9,1,338109
+S0267,Engineering,Electronics,53,C,2,2023,50,0,14,5,4,571753
+S0268,Medicine,Pathology,73,B,4,2024,55,28,7,1,4,557174
+S0269,Commerce,Business Studies,51,C,6,2025,100,13,35,4,4,369289
+S0270,Medicine,Physiology,94,A,2,2023,70,25,23,9,1,608073
+S0271,Medicine,Pathology,96,A,6,2025,97,8,43,1,2,917256
+S0272,Commerce,Accounting,37,D,5,2024,68,18,37,3,5,737249
+S0273,Medicine,Physiology,92,A,2,2023,83,8,44,8,5,398640
+S0274,Medicine,Anatomy,48,D,2,2023,58,18,23,6,5,837653
+S0275,Arts,Sociology,38,D,7,2025,76,14,16,9,5,331411
+S0276,Commerce,Business Studies,87,A,1,2022,66,12,20,4,1,141647
+S0277,Commerce,Business Studies,51,C,6,2025,89,3,47,7,4,240021
+S0278,Arts,Philosophy,74,B,3,2023,100,17,21,7,1,538038
+S0279,Commerce,Economics,32,D,3,2023,70,5,37,8,4,575913
+S0280,Engineering,Electronics,38,D,4,2024,83,4,31,2,3,944276
+S0281,Medicine,Physiology,35,D,1,2022,97,27,48,10,1,725741
+S0282,Engineering,Computer Science,87,A,7,2025,88,3,0,9,3,252083
+S0283,Science,Chemistry,70,B,5,2024,84,19,28,5,5,919918
+S0284,Commerce,Accounting,69,C,8,2026,61,11,22,8,3,977649
+S0285,Medicine,Physiology,51,C,3,2023,66,26,4,6,4,115342
+S0286,Science,Chemistry,75,B,3,2023,79,10,9,9,4,927017
+S0287,Medicine,Pharmacology,61,C,5,2024,61,0,20,1,2,710037
+S0288,Medicine,Pathology,47,D,5,2024,69,22,26,8,2,368692
+S0289,Medicine,Pharmacology,96,A,3,2023,61,4,28,5,5,172357
+S0290,Science,Chemistry,95,A,2,2023,74,0,18,2,3,578157
+S0291,Commerce,Economics,84,B,1,2022,69,23,48,3,3,774464
+S0292,Science,Physics,44,D,7,2025,91,15,3,10,5,904571
+S0293,Medicine,Pharmacology,88,A,3,2023,52,15,38,1,5,670295
+S0294,Science,Biology,40,D,1,2022,50,29,7,8,3,646893
+S0295,Arts,History,100,A,7,2025,74,6,46,7,4,467778
+S0296,Science,Math,88,A,3,2023,61,0,5,4,1,736728
+S0297,Medicine,Physiology,76,B,8,2026,50,12,35,5,5,924770
+S0298,Science,Math,45,D,8,2026,76,14,27,3,3,157301
+S0299,Engineering,Civil,85,A,5,2024,95,30,0,9,1,762205
+S0300,Arts,Political Science,59,C,7,2025,94,6,1,5,1,244252
+S0301,Medicine,Pharmacology,37,D,2,2023,61,10,20,6,2,216132
+S0302,Science,Physics,46,D,7,2025,77,4,23,9,5,447199
+S0303,Medicine,Physiology,87,A,7,2025,90,20,25,10,1,332741
+S0304,Commerce,Statistics,58,C,7,2025,92,11,3,4,4,112202
+S0305,Engineering,Computer Science,68,C,3,2023,54,4,25,5,4,646623
+S0306,Engineering,Electronics,64,C,4,2024,98,2,6,8,3,368004
+S0307,Engineering,Civil,84,B,5,2024,56,6,44,4,3,331227
+S0308,Science,Chemistry,73,B,3,2023,64,9,40,1,3,108590
+S0309,Commerce,Statistics,53,C,5,2024,88,3,18,10,3,107741
+S0310,Medicine,Anatomy,75,B,6,2025,70,0,28,5,1,583744
+S0311,Arts,Political Science,44,D,4,2024,62,0,17,1,4,659719
+S0312,Engineering,Mechanical,63,C,6,2025,99,5,43,2,1,788596
+S0313,Engineering,Civil,91,A,8,2026,54,0,50,1,5,433445
+S0314,Commerce,Statistics,70,B,2,2023,99,15,20,5,1,157497
+S0315,Engineering,Electronics,77,B,4,2024,61,3,18,8,5,455199
+S0316,Medicine,Physiology,75,B,8,2026,73,2,29,8,3,447595
+S0317,Science,Chemistry,33,D,3,2023,73,2,29,6,2,407124
+S0318,Commerce,Economics,59,C,5,2024,56,1,46,10,4,696432
+S0319,Medicine,Pathology,86,A,2,2023,84,1,48,1,3,803458
+S0320,Science,Math,51,C,4,2024,90,1,10,6,1,420583
+S0321,Medicine,Pathology,52,C,2,2023,50,30,25,10,2,216996
+S0322,Arts,Philosophy,96,A,1,2022,62,29,21,2,5,831783
+S0323,Medicine,Anatomy,91,A,6,2025,80,23,42,4,4,943523
+S0324,Commerce,Economics,77,B,8,2026,57,14,22,8,1,501184
+S0325,Commerce,Accounting,48,D,1,2022,72,29,28,9,5,756060
+S0326,Science,Physics,87,A,7,2025,53,15,6,5,2,580243
+S0327,Commerce,Accounting,91,A,6,2025,92,28,2,1,5,747433
+S0328,Engineering,Computer Science,37,D,2,2023,76,17,9,1,2,512532
+S0329,Engineering,Computer Science,79,B,6,2025,55,3,14,3,2,978272
+S0330,Science,Chemistry,39,D,7,2025,99,2,38,4,5,371285
+S0331,Engineering,Electronics,45,D,6,2025,88,1,24,7,4,109643
+S0332,Engineering,Civil,70,B,8,2026,69,2,9,3,4,618725
+S0333,Science,Chemistry,40,D,5,2024,94,8,7,4,4,249008
+S0334,Medicine,Physiology,91,A,5,2024,93,7,23,7,2,488664
+S0335,Commerce,Business Studies,98,A,4,2024,100,19,47,3,5,298739
+S0336,Arts,History,96,A,3,2023,59,19,28,7,1,687558
+S0337,Medicine,Physiology,95,A,3,2023,53,20,14,7,3,331476
+S0338,Commerce,Business Studies,81,B,8,2026,52,27,19,2,2,281385
+S0339,Medicine,Pharmacology,77,B,1,2022,55,14,4,2,5,446688
+S0340,Arts,Sociology,31,D,3,2023,53,11,26,8,2,548699
+S0341,Science,Biology,63,C,3,2023,84,1,9,6,4,240285
+S0342,Science,Math,40,D,6,2025,89,16,16,4,4,470449
+S0343,Commerce,Accounting,35,D,1,2022,57,16,18,8,3,362107
+S0344,Science,Math,99,A,4,2024,82,16,2,1,2,700047
+S0345,Arts,Political Science,65,C,5,2024,73,27,13,8,4,705989
+S0346,Arts,History,34,D,7,2025,78,10,20,10,5,783665
+S0347,Science,Biology,94,A,3,2023,67,21,20,7,4,245527
+S0348,Engineering,Computer Science,74,B,5,2024,100,26,40,1,3,736632
+S0349,Arts,Sociology,61,C,7,2025,96,16,18,3,2,872870
+S0350,Arts,Political Science,78,B,4,2024,84,14,32,1,2,531797
+S0351,Engineering,Civil,55,C,7,2025,69,3,0,10,3,191708
+S0352,Engineering,Civil,89,A,3,2023,67,20,32,8,2,459302
+S0353,Commerce,Business Studies,65,C,3,2023,71,21,3,5,3,410385
+S0354,Commerce,Business Studies,49,D,2,2023,77,9,19,8,3,486983
+S0355,Commerce,Accounting,56,C,1,2022,52,4,49,3,4,597771
+S0356,Engineering,Computer Science,68,C,4,2024,87,4,38,4,4,215869
+S0357,Arts,History,98,A,1,2022,93,26,10,4,5,426147
+S0358,Commerce,Business Studies,55,C,5,2024,97,3,23,9,4,580125
+S0359,Commerce,Statistics,92,A,3,2023,66,27,46,3,4,844077
+S0360,Engineering,Mechanical,71,B,1,2022,58,9,0,10,1,861488
+S0361,Engineering,Civil,50,C,3,2023,90,16,11,3,1,736402
+S0362,Engineering,Computer Science,30,D,6,2025,95,28,34,2,3,427000
+S0363,Commerce,Economics,83,B,5,2024,53,29,9,7,4,417795
+S0364,Arts,Sociology,99,A,5,2024,57,2,27,4,1,713863
+S0365,Commerce,Accounting,99,A,2,2023,77,25,26,2,1,256648
+S0366,Commerce,Statistics,48,D,1,2022,66,17,41,4,3,580780
+S0367,Science,Math,42,D,7,2025,62,1,32,4,5,586090
+S0368,Science,Chemistry,82,B,1,2022,78,9,9,2,1,739372
+S0369,Commerce,Statistics,54,C,2,2023,83,17,33,4,4,380810
+S0370,Engineering,Computer Science,80,B,8,2026,83,27,0,9,3,492635
+S0371,Commerce,Business Studies,99,A,1,2022,63,30,2,3,3,720148
+S0372,Science,Biology,46,D,5,2024,98,9,38,9,5,269328
+S0373,Commerce,Accounting,61,C,7,2025,75,2,14,1,1,841675
+S0374,Medicine,Anatomy,30,D,7,2025,90,18,12,10,4,674421
+S0375,Engineering,Civil,85,A,3,2023,59,27,21,2,1,996281
+S0376,Engineering,Electronics,68,C,3,2023,68,4,44,9,2,198555
+S0377,Science,Math,36,D,1,2022,85,25,13,1,3,655156
+S0378,Medicine,Physiology,62,C,8,2026,66,12,3,9,5,388212
+S0379,Medicine,Pharmacology,89,A,7,2025,92,21,8,5,1,964186
+S0380,Commerce,Economics,86,A,3,2023,54,0,46,7,2,253697
+S0381,Arts,History,84,B,4,2024,72,25,17,5,5,114896
+S0382,Science,Physics,67,C,3,2023,74,26,17,4,5,394056
+S0383,Science,Chemistry,88,A,7,2025,73,19,35,7,2,812317
+S0384,Arts,History,91,A,3,2023,51,9,15,2,2,276857
+S0385,Arts,History,78,B,1,2022,70,4,38,1,4,740864
+S0386,Medicine,Physiology,50,C,5,2024,93,13,41,9,2,742869
+S0387,Medicine,Anatomy,63,C,5,2024,65,7,17,1,2,898961
+S0388,Engineering,Computer Science,61,C,2,2023,58,6,5,5,1,560267
+S0389,Medicine,Physiology,59,C,7,2025,77,0,1,4,5,362110
+S0390,Medicine,Pharmacology,44,D,7,2025,58,23,49,2,2,155956
+S0391,Engineering,Civil,60,C,7,2025,93,14,27,4,3,159781
+S0392,Engineering,Mechanical,87,A,1,2022,93,6,18,1,1,871291
+S0393,Arts,History,39,D,3,2023,88,11,27,6,3,374748
+S0394,Engineering,Civil,73,B,6,2025,65,3,0,6,5,110212
+S0395,Arts,Philosophy,51,C,8,2026,93,12,34,2,5,323760
+S0396,Arts,Philosophy,94,A,6,2025,87,13,33,10,4,355334
+S0397,Engineering,Electronics,38,D,5,2024,52,2,17,1,4,211681
+S0398,Commerce,Economics,40,D,5,2024,88,12,33,6,3,499036
+S0399,Medicine,Physiology,32,D,8,2026,95,25,24,2,1,386991
+S0400,Medicine,Pharmacology,98,A,7,2025,76,14,44,6,5,675299
+S0401,Medicine,Pharmacology,58,C,6,2025,63,16,11,8,5,392941
+S0402,Engineering,Mechanical,72,B,5,2024,80,19,25,5,4,433227
+S0403,Arts,Sociology,79,B,3,2023,54,12,20,7,2,289815
+S0404,Medicine,Physiology,69,C,2,2023,57,0,9,5,4,501652
+S0405,Commerce,Economics,73,B,8,2026,82,1,39,6,5,947904
+S0406,Science,Chemistry,58,C,8,2026,62,13,19,5,5,519261
+S0407,Arts,Political Science,60,C,6,2025,59,30,5,7,2,421075
+S0408,Engineering,Electronics,42,D,8,2026,98,16,14,4,5,297052
+S0409,Science,Physics,51,C,7,2025,70,0,18,7,5,798954
+S0410,Science,Biology,60,C,1,2022,100,9,16,1,5,817930
+S0411,Engineering,Electronics,94,A,2,2023,76,13,37,8,4,223554
+S0412,Medicine,Anatomy,68,C,3,2023,74,29,41,10,3,801723
+S0413,Medicine,Pathology,50,C,1,2022,76,27,1,1,1,504881
+S0414,Arts,Sociology,35,D,4,2024,78,22,34,10,2,575745
+S0415,Commerce,Business Studies,43,D,4,2024,78,7,20,1,1,883580
+S0416,Medicine,Pathology,49,D,3,2023,88,13,34,6,5,193001
+S0417,Engineering,Electronics,73,B,1,2022,75,5,25,2,4,907580
+S0418,Commerce,Statistics,47,D,2,2023,92,6,26,6,5,193064
+S0419,Commerce,Economics,89,A,8,2026,95,25,17,1,1,849601
+S0420,Engineering,Computer Science,93,A,8,2026,62,30,1,3,5,251778
+S0421,Commerce,Economics,84,B,7,2025,81,0,22,6,1,316510
+S0422,Engineering,Civil,89,A,4,2024,56,17,42,2,2,564851
+S0423,Medicine,Pathology,76,B,6,2025,60,2,33,1,2,931060
+S0424,Commerce,Economics,83,B,5,2024,75,7,23,10,5,911296
+S0425,Science,Physics,59,C,5,2024,63,14,26,3,1,408137
+S0426,Arts,Political Science,50,C,3,2023,50,25,30,8,3,416614
+S0427,Arts,Sociology,90,A,7,2025,95,14,37,2,1,856219
+S0428,Medicine,Pharmacology,78,B,4,2024,74,22,10,6,1,155811
+S0429,Arts,History,80,B,5,2024,99,27,38,5,4,677030
+S0430,Commerce,Business Studies,46,D,1,2022,93,24,34,2,4,287041
+S0431,Arts,Political Science,62,C,4,2024,59,20,21,9,2,957684
+S0432,Engineering,Computer Science,59,C,5,2024,50,2,10,7,2,434182
+S0433,Science,Biology,51,C,6,2025,92,30,9,10,5,954876
+S0434,Engineering,Computer Science,87,A,8,2026,68,6,25,3,2,260902
+S0435,Engineering,Civil,62,C,4,2024,82,7,4,7,3,229026
+S0436,Medicine,Anatomy,100,A,6,2025,59,10,8,3,4,176323
+S0437,Science,Chemistry,92,A,8,2026,67,28,10,10,4,428369
+S0438,Arts,Philosophy,33,D,3,2023,67,9,14,7,2,676943
+S0439,Engineering,Civil,81,B,4,2024,73,17,39,9,1,540107
+S0440,Science,Chemistry,35,D,8,2026,57,24,43,3,3,224530
+S0441,Engineering,Mechanical,76,B,5,2024,66,19,20,10,2,580941
+S0442,Engineering,Computer Science,61,C,3,2023,56,1,5,6,2,191067
+S0443,Arts,Sociology,69,C,7,2025,60,13,43,7,1,509146
+S0444,Arts,Sociology,81,B,7,2025,92,28,10,1,5,549799
+S0445,Commerce,Economics,86,A,4,2024,89,10,9,6,5,747627
+S0446,Medicine,Physiology,97,A,5,2024,52,16,7,1,2,168585
+S0447,Arts,Sociology,46,D,7,2025,100,4,14,4,2,585185
+S0448,Medicine,Pathology,87,A,2,2023,60,29,39,3,5,697400
+S0449,Engineering,Civil,50,C,2,2023,92,4,9,2,2,906330
+S0450,Arts,Philosophy,39,D,8,2026,77,9,28,6,3,135119
+S0451,Commerce,Accounting,37,D,6,2025,74,14,36,6,4,232654
+S0452,Commerce,Economics,39,D,7,2025,59,4,32,7,4,289981
+S0453,Medicine,Pathology,70,B,2,2023,80,24,19,4,1,968311
+S0454,Medicine,Pathology,61,C,2,2023,60,9,27,10,5,115032
+S0455,Science,Physics,53,C,2,2023,81,23,35,1,4,923589
+S0456,Engineering,Computer Science,67,C,6,2025,50,29,19,2,2,230096
+S0457,Commerce,Economics,93,A,2,2023,99,7,2,8,5,259970
+S0458,Medicine,Pathology,79,B,7,2025,96,7,28,6,1,954215
+S0459,Science,Physics,58,C,3,2023,53,5,33,8,4,470975
+S0460,Commerce,Economics,98,A,7,2025,79,6,20,6,2,908228
+S0461,Medicine,Pathology,97,A,2,2023,97,7,24,2,5,553998
+S0462,Science,Physics,58,C,8,2026,93,23,46,9,2,434733
+S0463,Engineering,Mechanical,94,A,7,2025,64,20,19,2,4,461850
+S0464,Science,Biology,88,A,4,2024,96,11,12,8,2,622355
+S0465,Medicine,Pathology,97,A,6,2025,51,14,45,9,1,351155
+S0466,Arts,Philosophy,47,D,3,2023,96,1,47,4,4,101022
+S0467,Engineering,Civil,57,C,6,2025,80,4,43,10,1,811818
+S0468,Commerce,Statistics,30,D,5,2024,73,9,15,9,5,876487
+S0469,Engineering,Civil,74,B,6,2025,96,5,6,1,2,902593
+S0470,Arts,Sociology,39,D,7,2025,59,23,21,5,4,702875
+S0471,Arts,Philosophy,71,B,3,2023,75,23,47,9,2,662951
+S0472,Engineering,Civil,51,C,1,2022,85,23,23,10,4,653190
+S0473,Arts,History,30,D,3,2023,84,15,26,9,1,170334
+S0474,Science,Chemistry,74,B,2,2023,51,30,33,10,2,529371
+S0475,Arts,History,31,D,4,2024,63,23,10,8,2,945671
+S0476,Engineering,Electronics,86,A,7,2025,52,0,38,10,4,855667
+S0477,Engineering,Computer Science,37,D,3,2023,67,19,11,1,3,505760
+S0478,Science,Chemistry,51,C,7,2025,66,17,13,1,2,600978
+S0479,Commerce,Business Studies,69,C,7,2025,75,16,6,3,5,865687
+S0480,Engineering,Computer Science,58,C,1,2022,57,2,13,6,2,750800
+S0481,Commerce,Accounting,75,B,2,2023,75,7,22,9,3,241377
+S0482,Science,Math,42,D,3,2023,51,3,40,1,5,412204
+S0483,Science,Physics,62,C,4,2024,61,4,43,9,3,664082
+S0484,Arts,Political Science,39,D,3,2023,59,12,4,6,2,618697
+S0485,Science,Biology,41,D,2,2023,84,5,21,8,3,762450
+S0486,Medicine,Pathology,47,D,3,2023,65,8,46,7,3,503109
+S0487,Arts,Political Science,60,C,6,2025,100,8,41,9,2,119967
+S0488,Commerce,Economics,85,A,5,2024,76,17,49,7,5,814947
+S0489,Commerce,Statistics,88,A,8,2026,97,25,29,10,4,200944
+S0490,Engineering,Civil,81,B,8,2026,65,18,26,10,1,257017
+S0491,Engineering,Mechanical,53,C,1,2022,58,11,3,3,4,383100
+S0492,Medicine,Pathology,98,A,5,2024,71,10,27,10,2,155961
+S0493,Commerce,Economics,44,D,7,2025,79,27,23,2,2,936701
+S0494,Engineering,Computer Science,30,D,4,2024,74,19,10,5,5,539320
+S0495,Medicine,Anatomy,59,C,8,2026,53,13,23,8,4,123805
+S0496,Engineering,Electronics,80,B,4,2024,57,13,38,10,2,271877
+S0497,Medicine,Physiology,75,B,1,2022,50,14,2,7,5,717754
+S0498,Medicine,Pathology,61,C,2,2023,67,1,24,10,4,651833
+S0499,Engineering,Mechanical,37,D,3,2023,88,24,39,4,4,507420
+S0500,Engineering,Electronics,79,B,7,2025,77,9,27,10,2,840774
+S0501,Science,Physics,33,D,8,2026,50,13,33,9,2,183426
+S0502,Commerce,Statistics,83,B,5,2024,50,21,8,5,3,670983
+S0503,Arts,History,32,D,8,2026,89,20,6,3,1,239286
+S0504,Medicine,Pharmacology,82,B,7,2025,55,7,18,9,3,670759
+S0505,Engineering,Computer Science,86,A,5,2024,55,23,3,2,1,201567
+S0506,Science,Chemistry,32,D,8,2026,74,19,33,2,3,395127
+S0507,Engineering,Mechanical,70,B,7,2025,92,26,20,3,2,724038
+S0508,Science,Chemistry,80,B,3,2023,70,19,13,7,5,284646
+S0509,Science,Biology,74,B,2,2023,79,23,22,2,2,223381
+S0510,Arts,Sociology,44,D,4,2024,92,17,42,1,1,489585
+S0511,Engineering,Mechanical,71,B,4,2024,87,18,44,2,2,571342
+S0512,Engineering,Computer Science,67,C,8,2026,90,23,19,5,4,305863
+S0513,Commerce,Business Studies,74,B,1,2022,55,4,38,8,2,914939
+S0514,Engineering,Electronics,49,D,7,2025,64,4,41,9,2,484487
+S0515,Commerce,Accounting,49,D,7,2025,64,7,23,3,2,586462
+S0516,Commerce,Accounting,62,C,5,2024,86,27,15,3,5,560960
+S0517,Science,Chemistry,100,A,5,2024,58,7,18,7,2,841697
+S0518,Engineering,Mechanical,49,D,1,2022,56,24,25,6,2,483665
+S0519,Arts,Sociology,86,A,4,2024,50,25,15,3,3,747285
+S0520,Engineering,Mechanical,60,C,5,2024,71,0,16,10,2,737319
+S0521,Commerce,Business Studies,63,C,4,2024,58,26,32,9,2,861218
+S0522,Arts,Philosophy,50,C,5,2024,80,4,4,2,2,869338
+S0523,Science,Chemistry,45,D,5,2024,98,10,36,3,2,525223
+S0524,Engineering,Computer Science,55,C,1,2022,57,11,14,7,1,106604
+S0525,Engineering,Mechanical,50,C,8,2026,74,24,29,3,1,116708
+S0526,Science,Physics,83,B,2,2023,92,3,44,1,4,347680
+S0527,Medicine,Anatomy,38,D,7,2025,91,10,11,6,5,655464
+S0528,Commerce,Business Studies,59,C,3,2023,72,9,45,2,4,656616
+S0529,Arts,Sociology,83,B,6,2025,89,18,7,9,5,369173
+S0530,Commerce,Economics,90,A,8,2026,76,19,48,8,2,336731
+S0531,Commerce,Business Studies,53,C,5,2024,69,23,9,4,5,607829
+S0532,Commerce,Statistics,60,C,3,2023,99,18,48,1,2,288059
+S0533,Engineering,Electronics,56,C,8,2026,60,10,9,8,1,378082
+S0534,Medicine,Physiology,64,C,8,2026,60,28,7,1,4,712207
+S0535,Engineering,Computer Science,61,C,3,2023,78,1,14,2,5,792938
+S0536,Engineering,Electronics,86,A,8,2026,66,8,33,4,1,233325
+S0537,Engineering,Civil,70,B,5,2024,53,0,19,6,5,707172
+S0538,Medicine,Pathology,70,B,7,2025,93,17,20,5,4,580265
+S0539,Commerce,Statistics,63,C,7,2025,84,0,30,3,5,157174
+S0540,Arts,Philosophy,57,C,1,2022,98,14,20,6,1,457210
+S0541,Medicine,Anatomy,93,A,3,2023,86,3,19,1,3,558438
+S0542,Medicine,Anatomy,71,B,3,2023,59,20,6,9,4,181208
+S0543,Engineering,Computer Science,46,D,3,2023,71,7,46,1,2,519522
+S0544,Science,Physics,80,B,4,2024,51,16,7,7,4,718054
+S0545,Engineering,Civil,78,B,6,2025,86,2,44,6,5,260979
+S0546,Commerce,Statistics,36,D,4,2024,97,16,6,7,5,428946
+S0547,Arts,Philosophy,45,D,5,2024,71,7,21,8,3,468581
+S0548,Medicine,Physiology,85,A,1,2022,57,20,8,7,1,484288
+S0549,Arts,Political Science,44,D,5,2024,91,15,36,8,5,407413
+S0550,Engineering,Electronics,40,D,6,2025,76,30,21,1,5,143248
+S0551,Science,Chemistry,64,C,7,2025,52,5,19,5,1,733726
+S0552,Engineering,Mechanical,63,C,3,2023,62,1,49,2,2,217083
+S0553,Medicine,Physiology,55,C,1,2022,82,25,48,10,5,458275
+S0554,Science,Physics,42,D,6,2025,75,7,14,7,5,786569
+S0555,Engineering,Civil,31,D,6,2025,61,29,28,3,1,961786
+S0556,Arts,History,63,C,4,2024,89,14,16,1,1,275422
+S0557,Science,Biology,44,D,3,2023,76,23,18,10,5,185517
+S0558,Commerce,Statistics,76,B,3,2023,83,18,31,10,5,533686
+S0559,Engineering,Electronics,85,A,6,2025,61,0,25,4,2,672456
+S0560,Arts,Sociology,70,B,2,2023,52,24,5,9,1,544569
+S0561,Medicine,Pathology,56,C,8,2026,75,2,19,5,2,631626
+S0562,Science,Biology,48,D,3,2023,86,7,7,3,2,767050
+S0563,Medicine,Pharmacology,44,D,8,2026,61,21,2,7,4,556450
+S0564,Engineering,Computer Science,86,A,3,2023,74,2,24,5,5,540268
+S0565,Science,Chemistry,72,B,3,2023,85,30,28,7,3,915666
+S0566,Commerce,Accounting,55,C,4,2024,57,30,20,3,2,109544
+S0567,Engineering,Electronics,60,C,2,2023,52,23,35,9,2,890804
+S0568,Commerce,Statistics,33,D,5,2024,56,22,44,3,2,854419
+S0569,Arts,History,72,B,5,2024,80,27,5,8,2,367139
+S0570,Arts,Philosophy,94,A,7,2025,54,29,0,10,3,572941
+S0571,Commerce,Statistics,80,B,3,2023,65,19,32,7,5,941567
+S0572,Arts,History,53,C,3,2023,55,1,10,5,5,613563
+S0573,Science,Chemistry,85,A,5,2024,52,10,14,1,1,898561
+S0574,Engineering,Computer Science,48,D,1,2022,61,5,1,8,5,116444
+S0575,Medicine,Pharmacology,30,D,5,2024,71,6,3,2,1,673101
+S0576,Medicine,Pathology,46,D,5,2024,61,25,20,3,1,269202
+S0577,Science,Physics,31,D,4,2024,61,28,49,9,3,668313
+S0578,Science,Physics,38,D,5,2024,71,19,14,10,5,593363
+S0579,Arts,Sociology,95,A,1,2022,52,18,40,2,1,111030
+S0580,Arts,Philosophy,75,B,7,2025,60,2,34,1,5,365575
+S0581,Commerce,Economics,86,A,4,2024,56,16,48,4,2,579537
+S0582,Medicine,Pharmacology,61,C,4,2024,99,28,30,10,4,967498
+S0583,Medicine,Physiology,32,D,8,2026,99,29,44,8,2,785221
+S0584,Science,Math,62,C,1,2022,90,22,39,10,2,959992
+S0585,Arts,Philosophy,90,A,8,2026,64,13,36,7,2,673507
+S0586,Arts,Sociology,76,B,7,2025,65,26,21,4,3,789701
+S0587,Science,Biology,59,C,7,2025,93,20,44,3,3,558585
+S0588,Medicine,Physiology,78,B,2,2023,69,27,10,9,3,763270
+S0589,Arts,Philosophy,95,A,5,2024,60,25,37,2,3,702824
+S0590,Medicine,Physiology,86,A,8,2026,61,13,22,2,5,222101
+S0591,Commerce,Business Studies,98,A,5,2024,58,30,41,9,4,842623
+S0592,Medicine,Anatomy,74,B,8,2026,76,2,21,4,3,493293
+S0593,Engineering,Civil,30,D,7,2025,66,2,24,2,4,937426
+S0594,Medicine,Pathology,45,D,4,2024,100,3,34,1,1,181716
+S0595,Arts,Political Science,52,C,1,2022,59,7,18,3,3,874828
+S0596,Arts,Political Science,64,C,1,2022,53,25,46,2,3,843612
+S0597,Science,Physics,75,B,7,2025,61,3,49,1,4,927789
+S0598,Arts,Philosophy,46,D,7,2025,56,9,39,3,2,563044
+S0599,Commerce,Accounting,92,A,2,2023,89,9,1,4,4,982205
+S0600,Arts,Philosophy,36,D,2,2023,63,8,18,2,3,244014
+S0601,Engineering,Computer Science,92,A,4,2024,54,12,5,4,2,281734
+S0602,Medicine,Anatomy,71,B,5,2024,69,17,16,2,2,313582
+S0603,Science,Math,40,D,5,2024,84,28,45,10,3,101317
+S0604,Science,Biology,76,B,6,2025,65,19,36,10,2,804688
+S0605,Arts,Philosophy,39,D,4,2024,62,7,14,6,1,772657
+S0606,Science,Biology,37,D,4,2024,100,4,42,10,4,346364
+S0607,Medicine,Pharmacology,36,D,2,2023,80,3,41,6,1,881509
+S0608,Medicine,Physiology,93,A,2,2023,74,20,18,7,5,177738
+S0609,Engineering,Computer Science,58,C,8,2026,53,0,36,5,4,547494
+S0610,Commerce,Business Studies,55,C,7,2025,87,20,50,10,4,699010
+S0611,Science,Math,79,B,6,2025,99,11,48,9,4,862844
+S0612,Arts,Political Science,64,C,4,2024,54,14,14,6,5,197204
+S0613,Engineering,Electronics,66,C,6,2025,80,21,19,3,4,982378
+S0614,Science,Math,67,C,6,2025,72,21,11,6,4,752575
+S0615,Commerce,Business Studies,72,B,3,2023,77,19,32,2,3,253412
+S0616,Science,Biology,59,C,7,2025,53,6,6,7,2,467225
+S0617,Commerce,Accounting,78,B,8,2026,83,4,37,1,5,734262
+S0618,Arts,Philosophy,72,B,5,2024,92,27,49,5,4,200921
+S0619,Arts,History,92,A,7,2025,62,7,32,7,2,641122
+S0620,Engineering,Electronics,65,C,4,2024,70,1,19,1,2,524830
+S0621,Arts,Philosophy,57,C,3,2023,50,24,34,9,4,639887
+S0622,Arts,History,35,D,2,2023,59,14,43,1,4,579088
+S0623,Science,Biology,98,A,3,2023,85,27,19,7,4,167431
+S0624,Arts,Sociology,64,C,7,2025,60,30,28,4,5,398324
+S0625,Arts,Philosophy,98,A,8,2026,74,22,28,10,1,572885
+S0626,Medicine,Physiology,80,B,8,2026,84,4,1,8,4,684683
+S0627,Science,Biology,57,C,4,2024,88,13,43,3,2,550158
+S0628,Engineering,Civil,59,C,7,2025,76,19,8,2,2,295745
+S0629,Engineering,Computer Science,52,C,4,2024,83,10,50,8,5,994393
+S0630,Arts,History,68,C,8,2026,60,15,22,9,5,100770
+S0631,Arts,Sociology,96,A,8,2026,65,10,35,3,1,959182
+S0632,Medicine,Pharmacology,98,A,1,2022,72,18,4,3,4,817175
+S0633,Arts,Political Science,30,D,8,2026,82,21,23,7,5,912481
+S0634,Arts,History,77,B,4,2024,92,21,8,3,4,691373
+S0635,Science,Biology,93,A,2,2023,92,16,44,8,2,403941
+S0636,Medicine,Pharmacology,85,A,4,2024,91,13,17,1,2,507352
+S0637,Commerce,Accounting,64,C,6,2025,54,24,36,5,5,669737
+S0638,Arts,Political Science,61,C,7,2025,92,29,25,2,4,798269
+S0639,Commerce,Statistics,53,C,4,2024,53,24,10,1,3,359439
+S0640,Science,Biology,69,C,6,2025,65,13,6,2,3,724062
+S0641,Science,Physics,100,A,4,2024,61,10,15,7,5,934190
+S0642,Engineering,Electronics,80,B,8,2026,52,13,16,9,2,991217
+S0643,Arts,Sociology,70,B,2,2023,97,7,49,9,1,458893
+S0644,Commerce,Accounting,89,A,2,2023,94,14,39,1,3,230827
+S0645,Science,Math,85,A,7,2025,78,16,8,9,3,801276
+S0646,Arts,Philosophy,47,D,7,2025,55,4,15,9,4,724966
+S0647,Commerce,Economics,98,A,2,2023,72,3,28,2,5,669860
+S0648,Engineering,Civil,84,B,7,2025,75,9,17,5,2,580297
+S0649,Arts,Sociology,65,C,8,2026,82,0,31,6,1,370985
+S0650,Medicine,Anatomy,56,C,7,2025,62,10,3,7,3,846303
+S0651,Arts,Philosophy,79,B,6,2025,66,17,18,5,5,725496
+S0652,Commerce,Accounting,36,D,7,2025,96,7,19,4,3,753813
+S0653,Commerce,Business Studies,86,A,4,2024,69,27,42,7,3,217290
+S0654,Commerce,Business Studies,56,C,3,2023,53,16,45,9,4,227453
+S0655,Commerce,Accounting,34,D,4,2024,59,6,40,9,1,453542
+S0656,Arts,History,76,B,2,2023,96,11,15,5,4,602777
+S0657,Medicine,Anatomy,82,B,1,2022,96,10,3,6,5,123457
+S0658,Medicine,Anatomy,34,D,6,2025,90,0,11,5,5,379481
+S0659,Engineering,Mechanical,45,D,4,2024,86,5,8,3,1,242961
+S0660,Commerce,Economics,71,B,6,2025,93,14,42,5,5,750897
+S0661,Engineering,Civil,50,C,7,2025,77,3,10,7,4,594133
+S0662,Medicine,Physiology,89,A,2,2023,98,26,25,2,5,215581
+S0663,Science,Physics,85,A,1,2022,90,15,46,5,5,326960
+S0664,Engineering,Electronics,39,D,2,2023,65,14,5,6,3,310310
+S0665,Engineering,Civil,71,B,5,2024,73,2,49,5,2,330771
+S0666,Medicine,Pathology,63,C,5,2024,65,12,2,3,1,982276
+S0667,Commerce,Accounting,58,C,1,2022,75,4,2,6,2,659005
+S0668,Arts,Philosophy,81,B,6,2025,62,11,23,5,3,475484
+S0669,Engineering,Computer Science,75,B,1,2022,59,14,33,1,1,848775
+S0670,Engineering,Mechanical,89,A,2,2023,72,21,13,1,1,899769
+S0671,Arts,Political Science,33,D,5,2024,98,12,33,4,3,517722
+S0672,Science,Biology,73,B,4,2024,96,29,49,9,2,131451
+S0673,Medicine,Pharmacology,51,C,2,2023,80,3,44,2,2,853838
+S0674,Science,Chemistry,80,B,4,2024,67,0,1,1,2,278439
+S0675,Medicine,Anatomy,37,D,4,2024,97,3,8,7,3,408081
+S0676,Arts,History,73,B,7,2025,63,21,21,1,3,507633
+S0677,Medicine,Pharmacology,30,D,6,2025,84,20,30,10,4,279609
+S0678,Medicine,Anatomy,38,D,2,2023,91,19,38,10,4,750631
+S0679,Commerce,Accounting,88,A,6,2025,90,14,29,9,2,596322
+S0680,Engineering,Civil,85,A,4,2024,73,27,19,4,2,780802
+S0681,Science,Chemistry,81,B,1,2022,71,2,12,8,1,500086
+S0682,Commerce,Accounting,77,B,6,2025,94,19,4,5,3,659170
+S0683,Science,Math,62,C,8,2026,62,21,2,9,2,931152
+S0684,Medicine,Pharmacology,62,C,2,2023,60,6,48,4,5,762672
+S0685,Commerce,Business Studies,42,D,7,2025,50,15,41,9,4,878637
+S0686,Arts,History,52,C,2,2023,85,11,7,1,2,690693
+S0687,Commerce,Economics,86,A,1,2022,72,15,35,7,1,469189
+S0688,Medicine,Anatomy,58,C,8,2026,54,27,23,5,3,596368
+S0689,Engineering,Mechanical,67,C,3,2023,61,17,24,4,1,757420
+S0690,Science,Biology,71,B,7,2025,83,21,34,10,4,698575
+S0691,Medicine,Pathology,35,D,5,2024,76,23,27,8,5,688303
+S0692,Science,Physics,97,A,5,2024,99,18,30,4,3,464490
+S0693,Medicine,Physiology,37,D,1,2022,57,16,39,2,3,249104
+S0694,Engineering,Mechanical,62,C,4,2024,61,26,11,10,2,829448
+S0695,Science,Math,61,C,3,2023,71,11,37,7,1,173243
+S0696,Science,Chemistry,87,A,8,2026,66,23,20,5,3,594719
+S0697,Commerce,Business Studies,36,D,6,2025,73,4,11,8,2,540018
+S0698,Science,Math,68,C,8,2026,53,14,22,6,5,113308
+S0699,Engineering,Electronics,43,D,3,2023,53,12,4,9,1,241510
+S0700,Science,Math,79,B,4,2024,89,18,37,1,2,792805
+S0701,Engineering,Computer Science,40,D,4,2024,94,1,2,7,4,165063
+S0702,Medicine,Pharmacology,65,C,5,2024,66,20,37,4,3,437136
+S0703,Engineering,Computer Science,84,B,2,2023,87,23,9,5,5,391640
+S0704,Commerce,Business Studies,91,A,1,2022,73,0,0,3,4,446586
+S0705,Arts,History,78,B,5,2024,57,9,7,2,1,356048
+S0706,Arts,Political Science,46,D,4,2024,58,16,18,8,5,334146
+S0707,Science,Math,54,C,1,2022,81,19,30,9,5,903037
+S0708,Science,Math,82,B,3,2023,59,21,29,5,2,263718
+S0709,Commerce,Statistics,87,A,1,2022,63,19,30,1,4,428392
+S0710,Arts,Philosophy,94,A,4,2024,91,11,22,8,2,211493
+S0711,Arts,Philosophy,38,D,7,2025,80,9,22,6,3,949898
+S0712,Commerce,Business Studies,70,B,4,2024,54,24,4,8,4,757920
+S0713,Medicine,Pathology,97,A,2,2023,82,6,45,2,3,304923
+S0714,Engineering,Electronics,40,D,3,2023,84,10,10,9,2,754240
+S0715,Arts,Philosophy,45,D,7,2025,62,15,3,1,3,924315
+S0716,Commerce,Statistics,83,B,4,2024,78,9,36,6,1,598781
+S0717,Commerce,Business Studies,62,C,4,2024,67,23,47,3,4,817289
+S0718,Medicine,Pathology,54,C,3,2023,84,23,42,8,5,991415
+S0719,Commerce,Statistics,79,B,1,2022,58,7,28,8,2,436043
+S0720,Medicine,Anatomy,82,B,7,2025,90,2,26,8,2,392514
+S0721,Engineering,Mechanical,43,D,3,2023,56,3,0,2,2,927103
+S0722,Arts,Sociology,55,C,1,2022,64,21,50,4,3,320103
+S0723,Arts,Sociology,68,C,7,2025,62,3,19,3,4,252224
+S0724,Commerce,Accounting,40,D,6,2025,56,15,6,5,2,191344
+S0725,Commerce,Statistics,96,A,2,2023,64,15,38,9,1,620621
+S0726,Arts,Political Science,37,D,4,2024,88,3,49,10,1,813707
+S0727,Medicine,Pharmacology,52,C,2,2023,68,28,50,8,3,377408
+S0728,Arts,Philosophy,35,D,8,2026,54,3,34,10,3,488017
+S0729,Science,Physics,77,B,5,2024,69,0,28,8,5,174647
+S0730,Commerce,Accounting,30,D,8,2026,94,7,13,3,5,602642
+S0731,Medicine,Pharmacology,49,D,5,2024,87,0,13,1,3,626312
+S0732,Engineering,Computer Science,81,B,4,2024,82,15,37,4,5,835398
+S0733,Science,Math,49,D,7,2025,74,7,0,8,1,857578
+S0734,Engineering,Civil,94,A,3,2023,77,13,50,7,2,933762
+S0735,Medicine,Pathology,62,C,3,2023,54,29,33,3,5,500932
+S0736,Commerce,Business Studies,94,A,1,2022,69,30,5,2,2,365800
+S0737,Commerce,Accounting,64,C,5,2024,100,26,1,6,3,869930
+S0738,Engineering,Electronics,42,D,4,2024,53,24,45,3,3,273584
+S0739,Medicine,Pathology,46,D,7,2025,98,22,1,3,1,823467
+S0740,Medicine,Physiology,54,C,4,2024,54,22,36,10,5,653557
+S0741,Medicine,Physiology,92,A,1,2022,70,0,9,5,5,723625
+S0742,Science,Chemistry,59,C,8,2026,73,5,40,8,1,590603
+S0743,Commerce,Economics,33,D,7,2025,63,12,9,6,1,770878
+S0744,Medicine,Pathology,67,C,1,2022,68,23,20,1,5,286728
+S0745,Engineering,Mechanical,77,B,5,2024,70,8,32,3,5,195099
+S0746,Engineering,Mechanical,89,A,4,2024,86,22,37,7,3,884516
+S0747,Commerce,Business Studies,92,A,1,2022,70,19,24,1,4,548895
+S0748,Arts,Sociology,72,B,2,2023,67,20,36,2,5,596257
+S0749,Arts,Philosophy,48,D,1,2022,61,9,2,8,1,469831
+S0750,Science,Biology,97,A,3,2023,60,26,48,6,4,816387
+S0751,Science,Biology,84,B,8,2026,74,25,25,6,5,912294
+S0752,Engineering,Civil,53,C,5,2024,100,16,48,6,1,262826
+S0753,Commerce,Business Studies,95,A,7,2025,58,20,15,1,2,240433
+S0754,Science,Chemistry,43,D,8,2026,74,12,13,3,1,489103
+S0755,Medicine,Anatomy,48,D,6,2025,60,0,5,6,1,612703
+S0756,Medicine,Pathology,64,C,7,2025,72,13,7,9,5,352220
+S0757,Engineering,Civil,92,A,7,2025,84,26,39,2,3,194347
+S0758,Science,Math,68,C,5,2024,75,18,50,7,3,125316
+S0759,Medicine,Pharmacology,62,C,6,2025,52,15,17,9,3,273989
+S0760,Engineering,Civil,35,D,1,2022,77,27,10,9,5,941561
+S0761,Commerce,Accounting,37,D,6,2025,57,29,46,5,2,882522
+S0762,Arts,Political Science,97,A,5,2024,71,29,49,10,5,289949
+S0763,Medicine,Pathology,60,C,3,2023,69,18,41,2,4,677940
+S0764,Medicine,Pharmacology,94,A,8,2026,64,20,45,6,1,968037
+S0765,Medicine,Pharmacology,51,C,4,2024,78,23,45,4,1,549967
+S0766,Arts,Philosophy,33,D,5,2024,93,16,6,7,5,972852
+S0767,Commerce,Statistics,76,B,3,2023,65,17,37,3,3,248578
+S0768,Commerce,Business Studies,99,A,1,2022,72,17,26,3,3,763126
+S0769,Medicine,Physiology,61,C,6,2025,70,16,9,9,1,739377
+S0770,Arts,History,56,C,2,2023,75,27,34,9,1,966073
+S0771,Commerce,Accounting,98,A,3,2023,73,9,35,6,2,361416
+S0772,Engineering,Civil,44,D,2,2023,58,0,21,6,5,823191
+S0773,Commerce,Accounting,48,D,4,2024,87,0,5,8,3,245319
+S0774,Medicine,Physiology,40,D,7,2025,90,14,47,3,5,958496
+S0775,Engineering,Computer Science,71,B,7,2025,54,27,44,8,2,285333
+S0776,Science,Physics,64,C,2,2023,82,9,27,7,3,781560
+S0777,Science,Math,32,D,6,2025,69,8,47,3,3,100157
+S0778,Engineering,Computer Science,65,C,7,2025,52,3,10,6,4,496927
+S0779,Medicine,Pathology,48,D,2,2023,88,10,44,2,5,481665
+S0780,Engineering,Computer Science,64,C,3,2023,58,5,6,2,2,922553
+S0781,Commerce,Business Studies,52,C,6,2025,51,3,6,6,3,572716
+S0782,Commerce,Accounting,36,D,2,2023,91,12,19,10,1,410481
+S0783,Arts,History,58,C,1,2022,60,30,0,3,3,702422
+S0784,Engineering,Computer Science,66,C,1,2022,95,9,23,4,5,205431
+S0785,Arts,History,77,B,4,2024,78,28,6,8,2,946818
+S0786,Commerce,Economics,67,C,6,2025,51,23,43,4,4,612342
+S0787,Science,Math,56,C,4,2024,55,4,14,6,3,447407
+S0788,Arts,History,88,A,3,2023,89,22,42,3,2,519787
+S0789,Commerce,Statistics,62,C,6,2025,78,1,35,4,1,892445
+S0790,Commerce,Statistics,57,C,4,2024,87,28,29,4,2,106561
+S0791,Arts,Sociology,55,C,3,2023,78,26,14,3,2,135677
+S0792,Medicine,Physiology,97,A,2,2023,55,30,40,4,5,352336
+S0793,Medicine,Physiology,91,A,8,2026,57,22,4,2,5,109218
+S0794,Science,Physics,66,C,8,2026,91,23,39,9,1,277561
+S0795,Arts,History,58,C,2,2023,52,11,7,2,2,580682
+S0796,Commerce,Economics,39,D,3,2023,100,10,2,2,2,505095
+S0797,Arts,Philosophy,40,D,1,2022,93,1,44,3,5,390707
+S0798,Arts,Sociology,84,B,8,2026,52,26,11,2,3,771015
+S0799,Commerce,Statistics,44,D,4,2024,95,6,27,10,4,249412
+S0800,Science,Physics,84,B,5,2024,84,25,17,6,2,746542
+S0801,Engineering,Electronics,77,B,6,2025,67,20,48,1,1,250261
+S0802,Commerce,Statistics,79,B,6,2025,58,24,7,1,4,968476
+S0803,Science,Math,62,C,3,2023,71,26,30,1,3,775309
+S0804,Arts,Political Science,76,B,6,2025,63,4,35,1,5,722510
+S0805,Commerce,Business Studies,46,D,7,2025,98,24,27,1,5,391936
+S0806,Commerce,Business Studies,33,D,8,2026,68,19,45,2,5,483475
+S0807,Arts,Sociology,53,C,1,2022,52,27,24,6,1,415950
+S0808,Medicine,Physiology,79,B,6,2025,84,11,42,2,5,143810
+S0809,Commerce,Business Studies,94,A,7,2025,74,7,30,8,2,728339
+S0810,Engineering,Mechanical,65,C,5,2024,98,8,49,2,1,908917
+S0811,Arts,History,41,D,7,2025,85,14,19,1,5,280920
+S0812,Medicine,Pharmacology,66,C,8,2026,61,16,3,5,4,480319
+S0813,Commerce,Business Studies,98,A,7,2025,81,14,40,5,5,172080
+S0814,Commerce,Accounting,38,D,4,2024,84,9,7,6,3,998796
+S0815,Engineering,Electronics,94,A,3,2023,68,4,18,4,5,638847
+S0816,Arts,History,48,D,4,2024,96,12,17,3,1,434142
+S0817,Engineering,Civil,35,D,7,2025,75,17,5,3,3,154127
+S0818,Arts,Political Science,86,A,7,2025,71,4,21,9,5,702112
+S0819,Arts,Philosophy,84,B,2,2023,70,14,10,2,2,141609
+S0820,Science,Biology,38,D,1,2022,63,23,13,1,2,919790
+S0821,Science,Physics,50,C,4,2024,99,20,26,9,2,825128
+S0822,Engineering,Computer Science,48,D,6,2025,63,21,15,9,5,963700
+S0823,Science,Math,45,D,3,2023,85,4,50,10,4,556166
+S0824,Commerce,Economics,91,A,7,2025,52,14,49,9,3,827750
+S0825,Medicine,Anatomy,95,A,3,2023,94,5,24,2,2,327951
+S0826,Arts,Philosophy,34,D,6,2025,51,6,48,5,5,949611
+S0827,Commerce,Accounting,89,A,6,2025,92,11,42,1,1,780833
+S0828,Science,Physics,61,C,4,2024,85,29,17,2,5,462376
+S0829,Arts,Sociology,90,A,3,2023,53,24,50,5,3,873948
+S0830,Engineering,Computer Science,67,C,6,2025,79,27,45,5,1,366048
+S0831,Medicine,Physiology,80,B,2,2023,74,26,37,9,5,363655
+S0832,Arts,History,82,B,7,2025,66,20,5,3,2,687557
+S0833,Medicine,Pathology,42,D,4,2024,51,14,12,5,5,637034
+S0834,Arts,Political Science,39,D,5,2024,78,3,19,8,3,446408
+S0835,Commerce,Business Studies,47,D,4,2024,54,9,19,9,1,140615
+S0836,Arts,Political Science,44,D,2,2023,64,6,22,7,5,101284
+S0837,Commerce,Economics,43,D,8,2026,79,13,17,6,2,804112
+S0838,Science,Math,89,A,1,2022,75,9,7,3,3,567955
+S0839,Engineering,Electronics,49,D,5,2024,66,16,22,8,2,132465
+S0840,Engineering,Computer Science,69,C,4,2024,86,11,37,10,4,541359
+S0841,Science,Math,91,A,8,2026,75,19,27,8,5,138612
+S0842,Engineering,Computer Science,95,A,3,2023,66,6,34,1,4,521234
+S0843,Science,Physics,36,D,7,2025,95,6,35,5,4,451360
+S0844,Engineering,Computer Science,69,C,8,2026,78,23,32,9,5,841014
+S0845,Medicine,Pharmacology,60,C,7,2025,76,13,1,7,4,945866
+S0846,Medicine,Pathology,65,C,5,2024,91,25,25,6,2,836321
+S0847,Commerce,Accounting,33,D,4,2024,83,29,3,2,3,367614
+S0848,Arts,Sociology,59,C,4,2024,82,7,3,6,3,770523
+S0849,Science,Biology,88,A,3,2023,61,24,2,6,2,142635
+S0850,Medicine,Pharmacology,30,D,5,2024,75,16,29,4,2,202970
+S0851,Arts,Philosophy,48,D,3,2023,60,27,2,5,2,685296
+S0852,Science,Biology,90,A,8,2026,94,11,24,3,3,935934
+S0853,Science,Biology,76,B,8,2026,96,3,48,4,1,583963
+S0854,Science,Biology,52,C,2,2023,85,25,3,7,3,418633
+S0855,Science,Biology,41,D,6,2025,89,10,24,9,5,294007
+S0856,Engineering,Computer Science,60,C,6,2025,84,12,43,1,2,631745
+S0857,Commerce,Economics,62,C,8,2026,53,15,7,9,3,318625
+S0858,Science,Physics,47,D,8,2026,63,5,44,5,1,543624
+S0859,Science,Chemistry,85,A,4,2024,90,12,33,9,2,822209
+S0860,Arts,Political Science,52,C,3,2023,64,3,16,3,4,789686
+S0861,Medicine,Physiology,61,C,8,2026,71,23,20,10,5,769822
+S0862,Medicine,Anatomy,53,C,7,2025,62,25,23,9,1,692515
+S0863,Commerce,Accounting,76,B,7,2025,94,20,41,10,4,313618
+S0864,Medicine,Anatomy,34,D,8,2026,83,11,42,5,4,332714
+S0865,Arts,Sociology,48,D,1,2022,56,10,7,10,4,948122
+S0866,Science,Math,42,D,4,2024,60,18,33,10,3,809912
+S0867,Engineering,Civil,73,B,4,2024,67,30,45,7,5,757399
+S0868,Commerce,Accounting,73,B,6,2025,96,16,47,9,3,122091
+S0869,Medicine,Pathology,60,C,3,2023,85,14,25,10,2,139895
+S0870,Science,Math,51,C,6,2025,100,9,7,3,3,108812
+S0871,Engineering,Electronics,96,A,6,2025,61,9,4,5,4,750448
+S0872,Medicine,Pharmacology,94,A,5,2024,55,16,48,1,2,828381
+S0873,Medicine,Pharmacology,95,A,2,2023,61,1,40,6,1,223226
+S0874,Medicine,Pharmacology,46,D,7,2025,95,5,29,9,1,212920
+S0875,Engineering,Civil,75,B,8,2026,69,4,18,9,2,464934
+S0876,Medicine,Anatomy,30,D,7,2025,92,13,45,3,3,710825
+S0877,Science,Physics,35,D,7,2025,78,28,50,9,5,641685
+S0878,Commerce,Accounting,45,D,2,2023,65,22,17,9,2,245794
+S0879,Engineering,Electronics,73,B,2,2023,66,13,37,9,1,989901
+S0880,Science,Physics,72,B,7,2025,72,5,44,1,5,167766
+S0881,Engineering,Computer Science,81,B,1,2022,83,26,25,6,2,846203
+S0882,Commerce,Business Studies,87,A,2,2023,97,12,27,2,3,519993
+S0883,Arts,History,61,C,8,2026,52,6,48,8,4,343287
+S0884,Arts,Political Science,48,D,4,2024,79,5,45,3,5,973706
+S0885,Commerce,Accounting,91,A,3,2023,55,21,44,5,5,882080
+S0886,Medicine,Pathology,85,A,3,2023,88,19,3,5,3,423799
+S0887,Arts,Political Science,55,C,1,2022,76,26,2,6,3,438525
+S0888,Medicine,Pathology,51,C,6,2025,91,27,36,9,4,223517
+S0889,Engineering,Electronics,39,D,7,2025,57,13,35,3,2,263332
+S0890,Science,Physics,84,B,7,2025,59,24,26,4,2,831815
+S0891,Commerce,Statistics,86,A,7,2025,89,12,41,2,4,665280
+S0892,Arts,Philosophy,42,D,2,2023,70,19,48,5,5,619988
+S0893,Science,Math,82,B,8,2026,93,16,33,1,3,903927
+S0894,Engineering,Civil,57,C,5,2024,77,7,35,1,4,927658
+S0895,Engineering,Civil,63,C,7,2025,66,0,42,6,5,866940
+S0896,Medicine,Anatomy,31,D,7,2025,64,23,7,8,3,505263
+S0897,Engineering,Mechanical,75,B,5,2024,73,30,16,6,4,410186
+S0898,Engineering,Electronics,42,D,1,2022,95,18,31,6,4,541585
+S0899,Arts,Philosophy,47,D,6,2025,79,6,50,9,2,738458
+S0900,Commerce,Accounting,88,A,4,2024,73,25,36,8,1,376932
+S0901,Engineering,Electronics,43,D,4,2024,71,28,15,8,3,216876
+S0902,Arts,Political Science,35,D,8,2026,67,28,4,1,3,211103
+S0903,Science,Physics,52,C,2,2023,63,0,33,4,1,387988
+S0904,Commerce,Economics,76,B,5,2024,78,13,6,9,4,161620
+S0905,Science,Math,71,B,5,2024,56,15,25,8,1,473830
+S0906,Medicine,Anatomy,96,A,2,2023,92,21,1,1,5,227576
+S0907,Medicine,Physiology,74,B,4,2024,85,11,44,8,1,342322
+S0908,Commerce,Economics,60,C,6,2025,59,1,45,3,5,170963
+S0909,Commerce,Business Studies,56,C,1,2022,52,0,43,8,1,839633
+S0910,Arts,Sociology,51,C,8,2026,90,5,33,6,2,609919
+S0911,Medicine,Pharmacology,64,C,4,2024,99,7,8,9,3,785571
+S0912,Medicine,Pathology,35,D,7,2025,54,12,28,2,5,326278
+S0913,Commerce,Statistics,98,A,5,2024,63,5,39,5,4,980453
+S0914,Science,Biology,55,C,6,2025,58,2,4,6,4,379684
+S0915,Medicine,Pharmacology,42,D,3,2023,99,30,27,8,4,760060
+S0916,Science,Chemistry,61,C,5,2024,57,9,30,10,2,350501
+S0917,Arts,History,68,C,1,2022,100,14,21,1,3,479938
+S0918,Commerce,Business Studies,44,D,6,2025,90,27,24,9,4,757771
+S0919,Commerce,Business Studies,69,C,2,2023,97,10,16,2,3,107777
+S0920,Arts,History,95,A,6,2025,65,10,30,1,5,434138
+S0921,Science,Math,95,A,6,2025,97,11,1,2,5,932493
+S0922,Engineering,Civil,41,D,1,2022,87,3,21,4,5,775204
+S0923,Engineering,Mechanical,41,D,1,2022,82,30,35,5,5,682328
+S0924,Arts,Sociology,86,A,8,2026,66,22,20,5,3,414124
+S0925,Medicine,Anatomy,49,D,6,2025,59,1,21,3,2,875901
+S0926,Commerce,Economics,94,A,3,2023,67,17,44,4,2,702587
+S0927,Science,Physics,55,C,7,2025,61,2,31,1,2,658011
+S0928,Commerce,Accounting,69,C,5,2024,98,18,32,4,1,639437
+S0929,Science,Biology,49,D,1,2022,90,25,12,10,5,459577
+S0930,Engineering,Mechanical,49,D,6,2025,99,17,6,7,3,685722
+S0931,Science,Biology,39,D,2,2023,51,8,19,9,3,823548
+S0932,Engineering,Civil,54,C,5,2024,83,19,17,10,2,929521
+S0933,Arts,Sociology,39,D,1,2022,88,28,44,9,4,999289
+S0934,Arts,Political Science,69,C,1,2022,98,2,42,5,4,654115
+S0935,Science,Physics,67,C,5,2024,58,2,31,3,3,952303
+S0936,Arts,Sociology,66,C,2,2023,74,13,0,7,2,714928
+S0937,Medicine,Physiology,34,D,1,2022,86,26,44,10,2,140062
+S0938,Medicine,Anatomy,30,D,3,2023,57,13,30,9,1,740878
+S0939,Arts,History,80,B,7,2025,85,19,24,3,3,456305
+S0940,Arts,Political Science,78,B,4,2024,65,3,45,2,2,278400
+S0941,Commerce,Statistics,59,C,7,2025,56,4,26,10,3,282570
+S0942,Commerce,Accounting,75,B,8,2026,63,23,19,9,5,884420
+S0943,Engineering,Civil,48,D,7,2025,90,5,37,3,4,133630
+S0944,Medicine,Pharmacology,34,D,7,2025,69,17,46,2,4,959322
+S0945,Science,Physics,76,B,5,2024,87,27,29,4,5,950998
+S0946,Science,Biology,96,A,2,2023,81,29,14,4,4,316068
+S0947,Arts,Philosophy,66,C,1,2022,78,14,48,7,2,368718
+S0948,Arts,Political Science,64,C,5,2024,81,29,17,3,1,486296
+S0949,Science,Physics,39,D,5,2024,62,23,7,8,2,706116
+S0950,Arts,History,98,A,3,2023,58,28,26,10,2,692606
+S0951,Engineering,Electronics,62,C,5,2024,53,27,42,1,4,598218
+S0952,Commerce,Accounting,84,B,8,2026,55,14,40,4,5,269481
+S0953,Arts,Philosophy,37,D,2,2023,85,13,11,7,3,955964
+S0954,Engineering,Civil,46,D,5,2024,60,25,9,5,3,615499
+S0955,Science,Chemistry,39,D,2,2023,58,25,21,9,2,295756
+S0956,Engineering,Civil,95,A,1,2022,89,17,48,2,2,615421
+S0957,Engineering,Electronics,84,B,5,2024,97,30,43,1,5,373956
+S0958,Commerce,Accounting,46,D,2,2023,64,9,43,2,3,572268
+S0959,Science,Chemistry,35,D,1,2022,57,5,12,1,5,746907
+S0960,Arts,Philosophy,92,A,7,2025,62,23,43,8,1,612282
+S0961,Science,Math,31,D,2,2023,96,12,40,4,3,176983
+S0962,Arts,Philosophy,81,B,4,2024,60,11,24,3,5,952560
+S0963,Medicine,Pharmacology,34,D,6,2025,85,19,29,5,5,170694
+S0964,Science,Physics,88,A,2,2023,92,16,33,7,2,583345
+S0965,Engineering,Civil,87,A,1,2022,85,12,27,3,1,250163
+S0966,Arts,Political Science,46,D,4,2024,96,10,26,5,1,186460
+S0967,Medicine,Pharmacology,50,C,3,2023,75,18,19,9,1,168058
+S0968,Commerce,Business Studies,91,A,4,2024,96,4,24,3,2,941571
+S0969,Science,Physics,74,B,4,2024,53,6,43,9,2,433851
+S0970,Engineering,Computer Science,76,B,8,2026,53,27,40,7,3,320583
+S0971,Medicine,Pharmacology,61,C,3,2023,99,6,23,9,5,822350
+S0972,Science,Chemistry,35,D,2,2023,80,14,39,2,4,296632
+S0973,Commerce,Business Studies,89,A,6,2025,57,17,45,4,2,230364
+S0974,Arts,Political Science,87,A,7,2025,59,26,37,8,2,114877
+S0975,Arts,History,45,D,5,2024,57,10,21,2,5,390842
+S0976,Arts,Political Science,92,A,6,2025,88,22,31,3,5,664358
+S0977,Medicine,Anatomy,74,B,7,2025,82,15,5,10,2,205380
+S0978,Medicine,Pharmacology,54,C,1,2022,54,23,44,10,3,306763
+S0979,Arts,Philosophy,42,D,4,2024,71,2,33,3,1,432431
+S0980,Engineering,Mechanical,87,A,2,2023,97,13,13,4,1,558813
+S0981,Commerce,Statistics,32,D,3,2023,93,0,11,4,4,920400
+S0982,Engineering,Mechanical,47,D,1,2022,60,18,10,7,2,953990
+S0983,Engineering,Electronics,84,B,6,2025,87,20,42,9,3,211110
+S0984,Science,Chemistry,82,B,2,2023,90,29,33,9,4,268735
+S0985,Science,Chemistry,68,C,3,2023,55,4,42,3,2,875041
+S0986,Arts,Philosophy,93,A,6,2025,62,23,40,4,4,299153
+S0987,Commerce,Economics,82,B,1,2022,84,21,48,3,3,525431
+S0988,Science,Biology,66,C,5,2024,58,25,21,1,5,382743
+S0989,Engineering,Civil,87,A,3,2023,69,16,25,4,1,328369
+S0990,Medicine,Anatomy,90,A,3,2023,75,7,25,8,2,413579
+S0991,Commerce,Economics,51,C,5,2024,76,28,36,2,2,343797
+S0992,Medicine,Physiology,93,A,2,2023,98,25,37,3,4,110392
+S0993,Science,Physics,50,C,3,2023,81,4,45,9,5,898045
+S0994,Arts,History,86,A,2,2023,68,22,45,8,2,578166
+S0995,Commerce,Accounting,37,D,4,2024,84,4,13,2,5,449566
+S0996,Engineering,Civil,78,B,4,2024,62,29,4,9,1,682934
+S0997,Science,Physics,64,C,5,2024,73,26,27,7,1,577405
+S0998,Science,Chemistry,65,C,3,2023,84,7,12,3,3,995302
+S0999,Science,Math,83,B,7,2025,96,23,33,1,5,807017
+S1000,Commerce,Accounting,71,B,3,2023,94,1,45,5,5,405943
